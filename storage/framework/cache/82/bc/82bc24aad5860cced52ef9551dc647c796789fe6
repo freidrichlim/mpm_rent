@@ -1,0 +1,1 @@
+1664619404a:1:{s:6:"fields";a:3:{s:4:"name";a:4:{s:5:"label";s:4:"Name";s:4:"span";s:4:"auto";s:8:"required";i:1;s:4:"type";s:4:"text";}s:5:"alias";a:4:{s:5:"label";s:5:"Alias";s:4:"span";s:4:"auto";s:8:"required";i:1;s:4:"type";s:4:"text";}s:4:"sort";a:5:{s:5:"label";s:4:"Sort";s:4:"span";s:4:"full";s:7:"default";s:1:"0";s:8:"required";i:1;s:4:"type";s:4:"text";}}}

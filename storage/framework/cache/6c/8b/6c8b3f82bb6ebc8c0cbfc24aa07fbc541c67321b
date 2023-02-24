@@ -1,0 +1,19 @@
+1662721680a:1:{s:18:"privacy-policy.htm";a:16:{s:8:"fileName";s:18:"privacy-policy.htm";s:7:"content";s:628:"title = "Privacy policy"
+url = "/privacy-policy"
+layout = "default"
+description = "A Privacy policy"
+meta_title = "Privacy Policy | MPM Rent"
+meta_description = "Find our latest privacy policy updates related to the use of our service here."
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[SeoPage]
+
+[viewBag]
+localeMeta_title[id] = "Kebijakan Privasi | MPM Rent"
+localeMeta_description[id] = "Pelajari segala hal yang berkenaan dengan penggunaan layanan situs MPM Rent."
+==
+{% set myAssets = 'assets/images/'|theme %}
+{% content "privacy-policy/privacy-policy.htm" assetsPath=myAssets activeLocale=activeLocale %}";s:5:"mtime";i:1650424116;s:6:"markup";s:139:"{% set myAssets = 'assets/images/'|theme %}
+{% content "privacy-policy/privacy-policy.htm" assetsPath=myAssets activeLocale=activeLocale %}";s:4:"code";N;s:5:"title";s:14:"Privacy policy";s:3:"url";s:15:"/privacy-policy";s:6:"layout";s:7:"default";s:11:"description";s:16:"A Privacy policy";s:10:"meta_title";s:25:"Privacy Policy | MPM Rent";s:16:"meta_description";s:78:"Find our latest privacy policy updates related to the use of our service here.";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"SeoPage";a:0:{}s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"id";s:28:"Kebijakan Privasi | MPM Rent";}s:22:"localeMeta_description";a:1:{s:2:"id";s:76:"Pelajari segala hal yang berkenaan dengan penggunaan layanan situs MPM Rent.";}}}}

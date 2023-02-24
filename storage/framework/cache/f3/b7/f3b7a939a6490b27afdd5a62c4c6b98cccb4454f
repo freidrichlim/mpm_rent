@@ -1,0 +1,85 @@
+1662721680a:1:{s:15:"site/footer.htm";a:5:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:2195:"<div id="footer">
+	<div class="container">
+	    <div class="row">
+	        <div class="col-md-7">
+	            <div class="media">
+	                <div class="footer-logo">
+	                    <img src="{{ 'assets/images/logo-footer.png'|theme }}" class="logo">
+	                    <span class="copyright">2020 PT Mitra Pinasthika Mustika Rent. All Rights Reserved</span>
+	                </div>
+	                <div class="media-body">
+	                	{% content "site/footer/footer.htm"%}
+	                </div>
+	            </div>
+	        </div>
+	        <div class="col-md-5 col-f-btm">
+	            <div class="row">
+	                <div class="col-md-6 col-sm-6">
+	                    <div class="nav-footer">
+	                        <a href="{{ 'about-us'|page }}">{{ 'about.us'|_ }}</a>
+	                        <a href="{{ 'services'|page }}">{{ 'car.rentals'|_ }}</a>
+	                        <a href="{{ 'faq'|page }}">{{ 'faq'|_ }}</a>
+	                        <a href="{{ 'contact'|page }}">{{ 'contact.us2'|_ }}</a>
+	                        <a href="{{ 'privacy-policy'|page }}">{{ 'privacy.policy'|_ }}</a>
+	                    </div>
+	                </div>
+	                <div class="col-md-6 col-sm-6">
+	                    <div class="socmed-footer">
+	                        <span>{{ 'follow.us'|_ }}</span>
+		                    <a href="https://www.linkedin.com/company/pt-mitra-pinasthika-mustika-rent-mpm-rent-/"><img src="{{ 'assets/images/linkedin-2.png'|theme }}"></a>
+		                    <a href="https://www.facebook.com/MPM-Rent-148287218633589/"><img src="{{ 'assets/images/facebook-2.png'|theme }}"></a>
+		                    <a href="https://www.instagram.com/mpm.rent/"><img src="{{ 'assets/images/instagram-2.png'|theme }}"></a>
+	                    </div>
+	                    <div class="contact-footer">
+	                        <span>{{ 'contact.center'|_ }}</span>
+	                        {% set myAssets = 'assets/images/'|theme %}
+	                        {% content "site/footer/footer-contact.htm" assetsPath=myAssets %}
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+</div> ";s:5:"mtime";i:1650424116;s:6:"markup";s:2194:"<div id="footer">
+	<div class="container">
+	    <div class="row">
+	        <div class="col-md-7">
+	            <div class="media">
+	                <div class="footer-logo">
+	                    <img src="{{ 'assets/images/logo-footer.png'|theme }}" class="logo">
+	                    <span class="copyright">2020 PT Mitra Pinasthika Mustika Rent. All Rights Reserved</span>
+	                </div>
+	                <div class="media-body">
+	                	{% content "site/footer/footer.htm"%}
+	                </div>
+	            </div>
+	        </div>
+	        <div class="col-md-5 col-f-btm">
+	            <div class="row">
+	                <div class="col-md-6 col-sm-6">
+	                    <div class="nav-footer">
+	                        <a href="{{ 'about-us'|page }}">{{ 'about.us'|_ }}</a>
+	                        <a href="{{ 'services'|page }}">{{ 'car.rentals'|_ }}</a>
+	                        <a href="{{ 'faq'|page }}">{{ 'faq'|_ }}</a>
+	                        <a href="{{ 'contact'|page }}">{{ 'contact.us2'|_ }}</a>
+	                        <a href="{{ 'privacy-policy'|page }}">{{ 'privacy.policy'|_ }}</a>
+	                    </div>
+	                </div>
+	                <div class="col-md-6 col-sm-6">
+	                    <div class="socmed-footer">
+	                        <span>{{ 'follow.us'|_ }}</span>
+		                    <a href="https://www.linkedin.com/company/pt-mitra-pinasthika-mustika-rent-mpm-rent-/"><img src="{{ 'assets/images/linkedin-2.png'|theme }}"></a>
+		                    <a href="https://www.facebook.com/MPM-Rent-148287218633589/"><img src="{{ 'assets/images/facebook-2.png'|theme }}"></a>
+		                    <a href="https://www.instagram.com/mpm.rent/"><img src="{{ 'assets/images/instagram-2.png'|theme }}"></a>
+	                    </div>
+	                    <div class="contact-footer">
+	                        <span>{{ 'contact.center'|_ }}</span>
+	                        {% set myAssets = 'assets/images/'|theme %}
+	                        {% content "site/footer/footer-contact.htm" assetsPath=myAssets %}
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+</div>";s:4:"code";N;}}

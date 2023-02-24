@@ -1,0 +1,625 @@
+1662707280a:1:{s:14:"faq/faq.id.htm";a:6:{s:8:"fileName";s:14:"faq/faq.id.htm";s:7:"content";s:13763:"<div class="container-fluid page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ (Frequently Asked Questions)</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="text-content">
+                    <div class="accordion" id="accordionFAQ">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Apa itu MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>PT Mitra Pinasthika Mustika Rent (MPMRent) adalah anak perusahaan PT Mitra Pinasthika Mustika Tbk (bagian dari PT Saratoga Investama Sedaya Tbk), yang merupakan sebagai salah satu perusahaan jasa persewaan kendaraan terkemuka di Indonesia.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Di mana lokasi kantor pusat MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Kantor pusat kami berada di <br>
+                                    Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                    BSD City, Tangerang 15322, Indonesia
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Di mana saja lokasi kantor cabang MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Jakarta 1
+                                        Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                        BSD City, Tangerang 15322, Indonesia<br><br>
+
+                                        Jakarta 2<br>
+                                        Jabar<br>
+                                        Jateng<br>
+                                        Jatim Banus<br>
+                                        Pulau luar (Kalimantan, Sulawesi, Maluku, dan Papua)<br>
+                                        Sumbagut<br>
+                                        Sumbagsel
+                                    </p><br>
+                                    <p><a href="our-networks">Klik Disini</a> untuk mengetahui lokasi kami</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Apa saja layanan yang tersedia di MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p><a href="services">Klik Disini</a> untuk melihat layanan kami.</p>
+                                    <p>(Rental kendaraan, pengemudi, fleet management system, balai lelang, dan jual beli mobil bekas)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    Layanan rental kendaraan
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Jasa sewa jangka panjang (bulanan hingga tahunan) untuk memenuhi kebutuhan transportasi bisnis Anda.Kami menyediakan beragam jenis kendaraan, mulai dari kendaraan penumpang kendaraan niaga, hingga kendaraan 4WD dengan berbagai merek.<br><br>
+
+                                        Kami dapat melayani berbagai kebutuhan perusahaan dengan latar belakang industri yang beragam. Layanan sewa kendaraan tersedia bagi setiap pelanggan termasuk layanan perawatan kendaraan, klaim asuransi, bantuan 24 jam, penyediaan mobil pengganti dan administrasi lainnya.<br><br>
+
+                                        Layanan sewa kendaraan jangka pendek yang fleksibel untuk memenuhi kebutuhan transporatasi Anda. 
+                                        Menyediakan berbagai layanan antara lain sewa harian, penjemputan / pengantaran bandara, dan tentunya kebutuhan terhadap transportasi yang nyaman, aman dan terpercaya akan selalu terpenuhi.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSeven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    Di mana saya bisa mendapatkan informasi daftar harga sewa?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                     <p>Untuk mendapatkan informasi harga sewa bisa menghubungi Contact Center MPMRent di:<br>
+
+                                        Call        : 1500068 atau,<br>
+                                        WhatsApp    : 08138-1500058 atau, <br>
+                                        Email       : contact@mpm-rent.com
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEight">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    Apakah ada jumlah minimum kendaraan yang disewakan? 
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Tidak ada jumlah minimum kendaraan yang harus disewa.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingNine">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    Jenis kendaraan apa yang disediakan MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent menyediakan hampir setiap jenis kendaraan, termasuk kendaraan komersil.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTen">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    Layanan pengemudi
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent menyediakan layanan pengemudi profesional yang telah dibekali dengan pelatihan mengemudi terbaik, pengetahuan rute dan area, etika pelayanan, serta tata krama yang baik agar memberikan pelayanan terbaik bagi setiap pelanggan.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEleven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#headingEleven" aria-expanded="false" aria-controls="headingEleven">
+                                    <i>Customized Transportation Management </i>
+
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="headingEleven" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Fleet management system<br>
+                                        MPMRent menawarkan solusi kepada pelanggan kami untuk dapat mengelola dan memantau efektivitas armada agar lebih efisien.
+
+                                        Category of Fleet Management System:<br>
+                                        Car Pooling System<br>
+                                        Telematics
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1652082637;s:6:"markup";s:13763:"<div class="container-fluid page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ (Frequently Asked Questions)</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="text-content">
+                    <div class="accordion" id="accordionFAQ">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Apa itu MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>PT Mitra Pinasthika Mustika Rent (MPMRent) adalah anak perusahaan PT Mitra Pinasthika Mustika Tbk (bagian dari PT Saratoga Investama Sedaya Tbk), yang merupakan sebagai salah satu perusahaan jasa persewaan kendaraan terkemuka di Indonesia.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Di mana lokasi kantor pusat MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Kantor pusat kami berada di <br>
+                                    Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                    BSD City, Tangerang 15322, Indonesia
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Di mana saja lokasi kantor cabang MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Jakarta 1
+                                        Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                        BSD City, Tangerang 15322, Indonesia<br><br>
+
+                                        Jakarta 2<br>
+                                        Jabar<br>
+                                        Jateng<br>
+                                        Jatim Banus<br>
+                                        Pulau luar (Kalimantan, Sulawesi, Maluku, dan Papua)<br>
+                                        Sumbagut<br>
+                                        Sumbagsel
+                                    </p><br>
+                                    <p><a href="our-networks">Klik Disini</a> untuk mengetahui lokasi kami</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Apa saja layanan yang tersedia di MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p><a href="services">Klik Disini</a> untuk melihat layanan kami.</p>
+                                    <p>(Rental kendaraan, pengemudi, fleet management system, balai lelang, dan jual beli mobil bekas)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    Layanan rental kendaraan
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Jasa sewa jangka panjang (bulanan hingga tahunan) untuk memenuhi kebutuhan transportasi bisnis Anda.Kami menyediakan beragam jenis kendaraan, mulai dari kendaraan penumpang kendaraan niaga, hingga kendaraan 4WD dengan berbagai merek.<br><br>
+
+                                        Kami dapat melayani berbagai kebutuhan perusahaan dengan latar belakang industri yang beragam. Layanan sewa kendaraan tersedia bagi setiap pelanggan termasuk layanan perawatan kendaraan, klaim asuransi, bantuan 24 jam, penyediaan mobil pengganti dan administrasi lainnya.<br><br>
+
+                                        Layanan sewa kendaraan jangka pendek yang fleksibel untuk memenuhi kebutuhan transporatasi Anda. 
+                                        Menyediakan berbagai layanan antara lain sewa harian, penjemputan / pengantaran bandara, dan tentunya kebutuhan terhadap transportasi yang nyaman, aman dan terpercaya akan selalu terpenuhi.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSeven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    Di mana saya bisa mendapatkan informasi daftar harga sewa?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                     <p>Untuk mendapatkan informasi harga sewa bisa menghubungi Contact Center MPMRent di:<br>
+
+                                        Call        : 1500068 atau,<br>
+                                        WhatsApp    : 08138-1500058 atau, <br>
+                                        Email       : contact@mpm-rent.com
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEight">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    Apakah ada jumlah minimum kendaraan yang disewakan? 
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Tidak ada jumlah minimum kendaraan yang harus disewa.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingNine">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    Jenis kendaraan apa yang disediakan MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent menyediakan hampir setiap jenis kendaraan, termasuk kendaraan komersil.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTen">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    Layanan pengemudi
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent menyediakan layanan pengemudi profesional yang telah dibekali dengan pelatihan mengemudi terbaik, pengetahuan rute dan area, etika pelayanan, serta tata krama yang baik agar memberikan pelayanan terbaik bagi setiap pelanggan.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEleven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#headingEleven" aria-expanded="false" aria-controls="headingEleven">
+                                    <i>Customized Transportation Management </i>
+
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="headingEleven" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Fleet management system<br>
+                                        MPMRent menawarkan solusi kepada pelanggan kami untuk dapat mengelola dan memantau efektivitas armada agar lebih efisien.
+
+                                        Category of Fleet Management System:<br>
+                                        Car Pooling System<br>
+                                        Telematics
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:13763:"<div class="container-fluid page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ (Frequently Asked Questions)</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="text-content">
+                    <div class="accordion" id="accordionFAQ">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    Apa itu MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>PT Mitra Pinasthika Mustika Rent (MPMRent) adalah anak perusahaan PT Mitra Pinasthika Mustika Tbk (bagian dari PT Saratoga Investama Sedaya Tbk), yang merupakan sebagai salah satu perusahaan jasa persewaan kendaraan terkemuka di Indonesia.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Di mana lokasi kantor pusat MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Kantor pusat kami berada di <br>
+                                    Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                    BSD City, Tangerang 15322, Indonesia
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Di mana saja lokasi kantor cabang MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Jakarta 1
+                                        Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                        BSD City, Tangerang 15322, Indonesia<br><br>
+
+                                        Jakarta 2<br>
+                                        Jabar<br>
+                                        Jateng<br>
+                                        Jatim Banus<br>
+                                        Pulau luar (Kalimantan, Sulawesi, Maluku, dan Papua)<br>
+                                        Sumbagut<br>
+                                        Sumbagsel
+                                    </p><br>
+                                    <p><a href="our-networks">Klik Disini</a> untuk mengetahui lokasi kami</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Apa saja layanan yang tersedia di MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p><a href="services">Klik Disini</a> untuk melihat layanan kami.</p>
+                                    <p>(Rental kendaraan, pengemudi, fleet management system, balai lelang, dan jual beli mobil bekas)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    Layanan rental kendaraan
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Jasa sewa jangka panjang (bulanan hingga tahunan) untuk memenuhi kebutuhan transportasi bisnis Anda.Kami menyediakan beragam jenis kendaraan, mulai dari kendaraan penumpang kendaraan niaga, hingga kendaraan 4WD dengan berbagai merek.<br><br>
+
+                                        Kami dapat melayani berbagai kebutuhan perusahaan dengan latar belakang industri yang beragam. Layanan sewa kendaraan tersedia bagi setiap pelanggan termasuk layanan perawatan kendaraan, klaim asuransi, bantuan 24 jam, penyediaan mobil pengganti dan administrasi lainnya.<br><br>
+
+                                        Layanan sewa kendaraan jangka pendek yang fleksibel untuk memenuhi kebutuhan transporatasi Anda. 
+                                        Menyediakan berbagai layanan antara lain sewa harian, penjemputan / pengantaran bandara, dan tentunya kebutuhan terhadap transportasi yang nyaman, aman dan terpercaya akan selalu terpenuhi.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSeven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    Di mana saya bisa mendapatkan informasi daftar harga sewa?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                     <p>Untuk mendapatkan informasi harga sewa bisa menghubungi Contact Center MPMRent di:<br>
+
+                                        Call        : 1500068 atau,<br>
+                                        WhatsApp    : 08138-1500058 atau, <br>
+                                        Email       : contact@mpm-rent.com
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEight">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    Apakah ada jumlah minimum kendaraan yang disewakan? 
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Tidak ada jumlah minimum kendaraan yang harus disewa.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingNine">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    Jenis kendaraan apa yang disediakan MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent menyediakan hampir setiap jenis kendaraan, termasuk kendaraan komersil.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTen">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    Layanan pengemudi
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent menyediakan layanan pengemudi profesional yang telah dibekali dengan pelatihan mengemudi terbaik, pengetahuan rute dan area, etika pelayanan, serta tata krama yang baik agar memberikan pelayanan terbaik bagi setiap pelanggan.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEleven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#headingEleven" aria-expanded="false" aria-controls="headingEleven">
+                                    <i>Customized Transportation Management </i>
+
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="headingEleven" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Fleet management system<br>
+                                        MPMRent menawarkan solusi kepada pelanggan kami untuk dapat mengelola dan memantau efektivitas armada agar lebih efisien.
+
+                                        Category of Fleet Management System:<br>
+                                        Car Pooling System<br>
+                                        Telematics
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";}}

@@ -1,0 +1,356 @@
+1662721680a:1:{s:11:"default.htm";a:7:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:5912:"[localePicker]
+forceUrl = 0
+
+[SeoPage]
+==
+<!DOCTYPE html>
+<html lang="{% if activeLocale == 'jp' %}ja{% else %}{{ activeLocale }}{% endif %}">
+
+    <head>
+        <!--
+        <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self';
+        script-src-elem https://www.googletagmanager.com/gtag/js?id=UA-67696066-3;
+        "
+        > -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQK39PZ');</script>
+<!-- End Google Tag Manager -->
+
+         <!--Global site tag (gtag.js) - Google Analytics -->
+<!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67696066-3"></script> 
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'UA-67696066-3');
+  </script> -->
+<!-- Global site tag (gtag.js) - Google Analytics 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180954985-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180954985-1');
+</script>
+-->
+
+
+        <meta charset="utf-8">
+       {% component 'SeoPage' %}
+        <!-- <title>MPM Rent | Rental Mobil Terbesar Perusahaan Di Indonesia 2021</title> -->
+
+        <!-- <meta name="author" content="MPM Rent">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+        <meta name="generator" content="MPM Rent">
+
+        <meta name="format-detection" content="telephone=no">
+        
+        <meta name="google-site-verification" content="jDPGFUuIVLHUmeCkj6A3Lb1JDJd3M8-ZuOrkq0XwPLY" />
+        
+        <meta name="description" content="MPM Rent sebagai jasa rental mobil terbesar di Indonesia, melayani juga untuk sewa mobil bulanan perusahaan, sewa mobil Jakarta pelayanan yang profesional" >
+        
+        <meta name="keywords" content="Rental mobil terbesar di indonesia, Rental mobil untuk perusahaan, Sewa mobil perusahaan, jasa Sewa mobil bulanan Jakarta" > -->
+
+
+
+        <!-- Primary Meta Tags -->
+
+        <!-- <link rel="icon" type="image/png" href="{{ 'assets/images/MPMRent_FavIcon_16x16.png'|theme }}"> -->
+        <link rel="alternate" href="{{ url('/') }}{{ this.page.url|replace({':slug': '' })|replace({':page?': '' }) }}{{ this.param.slug }}" hreflang="x-default" />
+        <link rel="alternate" href="{{ url('/') }}/en{{ this.page.url|replace({':slug': '' })|replace({':page?': '' }) }}{{ this.param.slug }}" hreflang="en" />
+        <link rel="alternate" href="{{ url('/') }}/id{{ this.page.url|replace({':slug': '' })|replace({':page?': '' }) }}{{ this.param.slug }}" hreflang="id" />
+        <link rel="alternate" href="{{ url('/') }}/jp{{ this.page.url|replace({':slug': '' })|replace({':page?': '' }) }}{{ this.param.slug }}" hreflang="ja" />
+
+        <link href="{{ 'assets/vendor/bootstrap/css/bootstrap.min.css'|theme }}" rel="stylesheet">
+
+        <link rel="stylesheet" href="{{ 'assets/css/owl.carousel.min.css'|theme }}">
+
+        <link rel="stylesheet" href="{{ 'assets/css/owl.theme.default.min.css'|theme }}">
+
+        <link href="{{ 'assets/css/normalize.css'|theme }}" rel="stylesheet">
+
+        <link href="{{ 'assets/css/style.min.css'|theme }}" rel="stylesheet">
+
+        <link href="{{ 'assets/css/responsive.min.css'|theme }}" rel="stylesheet">
+
+        {% styles %}
+
+    </head>
+
+    <body>
+
+
+
+    	<!-- Header -->
+
+        <header id="layout-header">
+
+            {% partial 'site/header' %}
+
+        </header>
+
+
+
+        <!-- Content -->
+        <section id="layout-content">
+
+            {% page %}
+
+        </section>
+
+
+
+        <!-- Footer -->
+
+        <footer id="layout-footer">
+
+            {% partial 'site/footer' %}
+
+        </footer>
+
+
+
+		<div class="f-chat">
+
+            {% partial 'site/chat' %}
+
+        </div>
+
+
+
+	    <!-- Scripts -->
+
+        <script src="{{ 'assets/vendor/jquery.min.js'|theme }}"></script>
+
+	    <!-- <script src="{{ 'assets/vendor/jquery-3.3.1.slim.min.js'|theme }}"></script> -->
+
+	    <script src="{{ 'assets/js/wow.js'|theme }}"></script>
+
+	    <script src="{{ 'assets/js/smoothscroll.js'|theme }}"></script>
+
+	    <script src="{{ 'assets/vendor/bootstrap/js/bootstrap.min.js'|theme }}"></script>
+
+	    <script src="{{ 'assets/js/owl.carousel.min.js'|theme }}"></script>
+
+	    <script src="{{ 'assets/js/main.js'|theme }}"></script>
+
+        {% framework extras %}
+
+        {% scripts %}
+
+        <script type="text/javascript">
+            var customText = "{{ 'social_custom_text'|getSettings() }}";
+            var customSubject = "{{ 'social_custom_subject'|getSettings() }}";
+        </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "PT Mitra Pinasthika Mustika Rent",
+  "alternateName": "MPM Rent",
+  "url": "https://www.mpm-rent.com/",
+  "logo": "https://www.mpm-rent.com/themes/mpm-rent/assets/images/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+62 21 5315 7668",
+    "contactType": "customer service",
+    "areaServed": "ID",
+    "availableLanguage": ["Indonesian","en","Japanese"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/MPM-Rent-148287218633589/",
+    "https://www.instagram.com/mpm.rent/",
+    "https://www.linkedin.com/company/pt-mitra-pinasthika-mustika-rent-mpm-rent-/"
+  ]
+}
+</script>
+
+    </body>
+
+</html>";s:5:"mtime";i:1660204072;s:6:"markup";s:5870:"<!DOCTYPE html>
+<html lang="{% if activeLocale == 'jp' %}ja{% else %}{{ activeLocale }}{% endif %}">
+
+    <head>
+        <!--
+        <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self';
+        script-src-elem https://www.googletagmanager.com/gtag/js?id=UA-67696066-3;
+        "
+        > -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQK39PZ');</script>
+<!-- End Google Tag Manager -->
+
+         <!--Global site tag (gtag.js) - Google Analytics -->
+<!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67696066-3"></script> 
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'UA-67696066-3');
+  </script> -->
+<!-- Global site tag (gtag.js) - Google Analytics 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180954985-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180954985-1');
+</script>
+-->
+
+
+        <meta charset="utf-8">
+       {% component 'SeoPage' %}
+        <!-- <title>MPM Rent | Rental Mobil Terbesar Perusahaan Di Indonesia 2021</title> -->
+
+        <!-- <meta name="author" content="MPM Rent">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+        <meta name="generator" content="MPM Rent">
+
+        <meta name="format-detection" content="telephone=no">
+        
+        <meta name="google-site-verification" content="jDPGFUuIVLHUmeCkj6A3Lb1JDJd3M8-ZuOrkq0XwPLY" />
+        
+        <meta name="description" content="MPM Rent sebagai jasa rental mobil terbesar di Indonesia, melayani juga untuk sewa mobil bulanan perusahaan, sewa mobil Jakarta pelayanan yang profesional" >
+        
+        <meta name="keywords" content="Rental mobil terbesar di indonesia, Rental mobil untuk perusahaan, Sewa mobil perusahaan, jasa Sewa mobil bulanan Jakarta" > -->
+
+
+
+        <!-- Primary Meta Tags -->
+
+        <!-- <link rel="icon" type="image/png" href="{{ 'assets/images/MPMRent_FavIcon_16x16.png'|theme }}"> -->
+        <link rel="alternate" href="{{ url('/') }}{{ this.page.url|replace({':slug': '' })|replace({':page?': '' }) }}{{ this.param.slug }}" hreflang="x-default" />
+        <link rel="alternate" href="{{ url('/') }}/en{{ this.page.url|replace({':slug': '' })|replace({':page?': '' }) }}{{ this.param.slug }}" hreflang="en" />
+        <link rel="alternate" href="{{ url('/') }}/id{{ this.page.url|replace({':slug': '' })|replace({':page?': '' }) }}{{ this.param.slug }}" hreflang="id" />
+        <link rel="alternate" href="{{ url('/') }}/jp{{ this.page.url|replace({':slug': '' })|replace({':page?': '' }) }}{{ this.param.slug }}" hreflang="ja" />
+
+        <link href="{{ 'assets/vendor/bootstrap/css/bootstrap.min.css'|theme }}" rel="stylesheet">
+
+        <link rel="stylesheet" href="{{ 'assets/css/owl.carousel.min.css'|theme }}">
+
+        <link rel="stylesheet" href="{{ 'assets/css/owl.theme.default.min.css'|theme }}">
+
+        <link href="{{ 'assets/css/normalize.css'|theme }}" rel="stylesheet">
+
+        <link href="{{ 'assets/css/style.min.css'|theme }}" rel="stylesheet">
+
+        <link href="{{ 'assets/css/responsive.min.css'|theme }}" rel="stylesheet">
+
+        {% styles %}
+
+    </head>
+
+    <body>
+
+
+
+    	<!-- Header -->
+
+        <header id="layout-header">
+
+            {% partial 'site/header' %}
+
+        </header>
+
+
+
+        <!-- Content -->
+        <section id="layout-content">
+
+            {% page %}
+
+        </section>
+
+
+
+        <!-- Footer -->
+
+        <footer id="layout-footer">
+
+            {% partial 'site/footer' %}
+
+        </footer>
+
+
+
+		<div class="f-chat">
+
+            {% partial 'site/chat' %}
+
+        </div>
+
+
+
+	    <!-- Scripts -->
+
+        <script src="{{ 'assets/vendor/jquery.min.js'|theme }}"></script>
+
+	    <!-- <script src="{{ 'assets/vendor/jquery-3.3.1.slim.min.js'|theme }}"></script> -->
+
+	    <script src="{{ 'assets/js/wow.js'|theme }}"></script>
+
+	    <script src="{{ 'assets/js/smoothscroll.js'|theme }}"></script>
+
+	    <script src="{{ 'assets/vendor/bootstrap/js/bootstrap.min.js'|theme }}"></script>
+
+	    <script src="{{ 'assets/js/owl.carousel.min.js'|theme }}"></script>
+
+	    <script src="{{ 'assets/js/main.js'|theme }}"></script>
+
+        {% framework extras %}
+
+        {% scripts %}
+
+        <script type="text/javascript">
+            var customText = "{{ 'social_custom_text'|getSettings() }}";
+            var customSubject = "{{ 'social_custom_subject'|getSettings() }}";
+        </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Corporation",
+  "name": "PT Mitra Pinasthika Mustika Rent",
+  "alternateName": "MPM Rent",
+  "url": "https://www.mpm-rent.com/",
+  "logo": "https://www.mpm-rent.com/themes/mpm-rent/assets/images/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+62 21 5315 7668",
+    "contactType": "customer service",
+    "areaServed": "ID",
+    "availableLanguage": ["Indonesian","en","Japanese"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/MPM-Rent-148287218633589/",
+    "https://www.instagram.com/mpm.rent/",
+    "https://www.linkedin.com/company/pt-mitra-pinasthika-mustika-rent-mpm-rent-/"
+  ]
+}
+</script>
+
+    </body>
+
+</html>";s:4:"code";N;s:12:"localePicker";a:1:{s:8:"forceUrl";s:1:"0";}s:7:"SeoPage";a:0:{}}}

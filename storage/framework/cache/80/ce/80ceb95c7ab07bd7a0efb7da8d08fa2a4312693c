@@ -1,0 +1,1 @@
+1664619404a:1:{s:7:"columns";a:2:{s:4:"name";a:4:{s:5:"label";s:4:"Name";s:4:"type";s:4:"text";s:10:"searchable";b:1;s:8:"sortable";b:1;}s:13:"category_name";a:6:{s:5:"label";s:8:"Category";s:4:"type";s:4:"text";s:10:"searchable";b:1;s:8:"sortable";b:1;s:6:"select";s:12:"CONCAT(name)";s:8:"relation";s:8:"category";}}}

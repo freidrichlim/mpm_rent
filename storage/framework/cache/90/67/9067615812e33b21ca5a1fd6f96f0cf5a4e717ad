@@ -1,0 +1,429 @@
+1662721680a:1:{s:22:"homepage/rent_type.htm";a:6:{s:8:"fileName";s:22:"homepage/rent_type.htm";s:7:"content";s:11783:"description = "Rent Type"
+==
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class='page-title text-center w-100'>
+            <h1>{{ 'home_page_title'|_ }}</h1>    
+        </div>
+        <div class="title-section">
+            <h2>{{  'Rental Fleet'|_ }}</h2>
+        </div>
+        <div class="subtitle-section">
+            <h5>{{  'an.array.of.exciting.car.for.rent.deals.are.waiting.just.for.you!.we.have.a.complete.range.of.vehicles.to.accommodate.all.your.needs,.whether.for.corporate.purpose.or.personal.pleasure'|_ }}</h5>
+        </div>
+        <div class="row mb-4 tab-list-rent">
+            <div class="col-md-12 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type">
+                    <div class="item">
+                        <div class="f-type">
+                            <a class='tab-link-rent' data-item='luxury' id='event-hp-luxury'>
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-luxury-alphard2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{  'luxury'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a class='tab-link-rent' data-item='passenger' id='event-hp-passenger'>
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-passenger-innova2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'passenger'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a class='tab-link-rent' data-item='logistic' id='event-hp-logistic'>
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-logistic-blindvan2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{  'logistic'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a class='tab-link-rent' data-item='heavyduty' id='event-hp-heavy-duty'>
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-heavyduty-triton2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{  'heavy.duty'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row tab-item-rent hidden" id="detail-passenger">
+            <div class="col-md-2 col-owl-type pt-3 desc-type-detail">
+                <h2 class='back-to-list-rent'>{{  'passenger'|_ }}</h2>
+                <div class='btn-back-desc'><i class="fa fa-chevron-circle-left"></i></div>
+            </div>
+            <div class="col-md-10 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type-detail-passenger">
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-big-mpv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Camry2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'big.mpv'|_  }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-medium-mpv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Avanza12x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'medium.mpv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-small-mpv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Avanza2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'small.mpv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-suv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/toyota-fortuner-png-32x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'suv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-medium-suv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Avanza32x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'medium.suv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row tab-item-rent hidden" id="detail-luxury">
+            <div class="col-md-2 col-owl-type pt-3 desc-type-detail">
+                <h2 class='back-to-list-rent'>{{  'luxury'|_ }}</h2>
+                <div class='btn-back-desc'><i class="fa fa-chevron-circle-left"></i></div>
+            </div>
+            <div class="col-md-10 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type-detail-luxury">
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='luxury' id="event-hp-luxury-mpv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-luxury-alphard2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'mpv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='luxury' id="event-hp-luxury-sedan">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Camry22x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'sedan'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row tab-item-rent hidden" id="detail-logistic">
+            <div class="col-md-2 col-owl-type pt-3 desc-type-detail">
+                <h2 class='back-to-list-rent'>{{  'logistic'|_ }}</h2>
+                <div class='btn-back-desc'><i class="fa fa-chevron-circle-left"></i></div>
+            </div>
+            <div class="col-md-10 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type-detail-luxury">
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='logistic' id="event-hp-logistic-blind-van">
+                                <div class="thumbnail"><img src="{{ 'assets/images/BlindBox2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'blind.van'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='logistic' id="event-hp-logistic-fe-74">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Avanza-12x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'fe.74'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row tab-item-rent hidden" id="detail-heavyduty">
+            <div class="col-md-2 col-owl-type pt-3 desc-type-detail">
+                <h2 class='back-to-list-rent'>{{  'heavy.duty'|_ }}</h2>
+                <div class='btn-back-desc'><i class="fa fa-chevron-circle-left"></i></div>
+            </div>
+            <div class="col-md-10 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type-detail-luxury">
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='heavyduty' id="event-hp-heavy-duty-single-cabin">
+                                <div class="thumbnail"><img src="{{ 'assets/images/triton-cab-png-52x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'single.cabin'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='heavyduty' id="event-hp-heavy-duty-double-cabin">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Triton2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'double.cabin'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center mt-5">
+                <a href="{{ 'services'|page }}" class="btn btn-orange">{{ 'learn.more'|_ }}</a>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1661263743;s:6:"markup";s:11754:"<div class="container-fluid cf-white">
+    <div class="container">
+        <div class='page-title text-center w-100'>
+            <h1>{{ 'home_page_title'|_ }}</h1>    
+        </div>
+        <div class="title-section">
+            <h2>{{  'Rental Fleet'|_ }}</h2>
+        </div>
+        <div class="subtitle-section">
+            <h5>{{  'an.array.of.exciting.car.for.rent.deals.are.waiting.just.for.you!.we.have.a.complete.range.of.vehicles.to.accommodate.all.your.needs,.whether.for.corporate.purpose.or.personal.pleasure'|_ }}</h5>
+        </div>
+        <div class="row mb-4 tab-list-rent">
+            <div class="col-md-12 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type">
+                    <div class="item">
+                        <div class="f-type">
+                            <a class='tab-link-rent' data-item='luxury' id='event-hp-luxury'>
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-luxury-alphard2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{  'luxury'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a class='tab-link-rent' data-item='passenger' id='event-hp-passenger'>
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-passenger-innova2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'passenger'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a class='tab-link-rent' data-item='logistic' id='event-hp-logistic'>
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-logistic-blindvan2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{  'logistic'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a class='tab-link-rent' data-item='heavyduty' id='event-hp-heavy-duty'>
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-heavyduty-triton2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{  'heavy.duty'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row tab-item-rent hidden" id="detail-passenger">
+            <div class="col-md-2 col-owl-type pt-3 desc-type-detail">
+                <h2 class='back-to-list-rent'>{{  'passenger'|_ }}</h2>
+                <div class='btn-back-desc'><i class="fa fa-chevron-circle-left"></i></div>
+            </div>
+            <div class="col-md-10 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type-detail-passenger">
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-big-mpv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Camry2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'big.mpv'|_  }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-medium-mpv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Avanza12x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'medium.mpv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-small-mpv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Avanza2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'small.mpv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-suv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/toyota-fortuner-png-32x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'suv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" id="event-hp-passenger-medium-suv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Avanza32x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'medium.suv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row tab-item-rent hidden" id="detail-luxury">
+            <div class="col-md-2 col-owl-type pt-3 desc-type-detail">
+                <h2 class='back-to-list-rent'>{{  'luxury'|_ }}</h2>
+                <div class='btn-back-desc'><i class="fa fa-chevron-circle-left"></i></div>
+            </div>
+            <div class="col-md-10 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type-detail-luxury">
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='luxury' id="event-hp-luxury-mpv">
+                                <div class="thumbnail"><img src="{{ 'assets/images/img-luxury-alphard2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'mpv'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='luxury' id="event-hp-luxury-sedan">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Camry22x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'sedan'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row tab-item-rent hidden" id="detail-logistic">
+            <div class="col-md-2 col-owl-type pt-3 desc-type-detail">
+                <h2 class='back-to-list-rent'>{{  'logistic'|_ }}</h2>
+                <div class='btn-back-desc'><i class="fa fa-chevron-circle-left"></i></div>
+            </div>
+            <div class="col-md-10 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type-detail-luxury">
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='logistic' id="event-hp-logistic-blind-van">
+                                <div class="thumbnail"><img src="{{ 'assets/images/BlindBox2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'blind.van'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='logistic' id="event-hp-logistic-fe-74">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Avanza-12x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'fe.74'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row tab-item-rent hidden" id="detail-heavyduty">
+            <div class="col-md-2 col-owl-type pt-3 desc-type-detail">
+                <h2 class='back-to-list-rent'>{{  'heavy.duty'|_ }}</h2>
+                <div class='btn-back-desc'><i class="fa fa-chevron-circle-left"></i></div>
+            </div>
+            <div class="col-md-10 col-owl-type pt-3">
+                <div class="owl-carousel owl-theme" id="owl-type-detail-luxury">
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='heavyduty' id="event-hp-heavy-duty-single-cabin">
+                                <div class="thumbnail"><img src="{{ 'assets/images/triton-cab-png-52x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'single.cabin'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="f-type">
+                            <a href="{{ 'services'|page }}" class='tab-link-rent' data-item='heavyduty' id="event-hp-heavy-duty-double-cabin">
+                                <div class="thumbnail"><img src="{{ 'assets/images/Triton2x.jpg'|theme }}"></div>
+                                <div class="desc-type">
+                                    <h2>{{ 'double.cabin'|_ }}</h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center mt-5">
+                <a href="{{ 'services'|page }}" class="btn btn-orange">{{ 'learn.more'|_ }}</a>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:11:"description";s:9:"Rent Type";}}

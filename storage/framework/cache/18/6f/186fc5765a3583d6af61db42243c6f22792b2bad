@@ -1,0 +1,170 @@
+1662721680a:1:{s:8:"jcbu.htm";a:12:{s:8:"fileName";s:8:"jcbu.htm";s:7:"content";s:5389:"title = "JCBU"
+url = "/jcbu"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[SeoPage]
+==
+<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                </div>
+            </div>
+          
+            <img src="{{ 'assets/images/mpm-rent-building-bluesky.webp'|theme }}">
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="jcbu">
+					<h2 class='jcbu-title mb-5'>日系企業様、日本人のお客様へのサービスのご紹介</h2>
+                    <div class="media-body">
+                        <p>弊社はレンタカーのリーディングカンパニーとして20年以上の実績があり、多くの日系企業様にサービスをご提供させて頂いております。12,000台以上の車両をご提供しており、350の拠点よりインドネシア全土で提携修理工場、ネットワークサービスをご提供させて頂いております。
+                        </p>
+                        <p>運転手サービスにおいても長い実績があり、自社で運転手サービスの会社(PT.DSS）を運営しており、教育された経験豊富な運転手が2,000人以上在籍しております。
+                        </p>
+						<p>強みは、上場会社であるMPMTbk のグループ会社として、ガバナンスと透明性に優れていること、運転手サービスのクオリティ、車両のメインテナンス、故障時の代車提供にも即対応させていただくカスタマーサービスにございます。また、ビジネスパートナーとして競争力のあるレンタルコストを提供させていただいており、当地で活躍する日系企業様のビジネスのお役に立てるよう、日々邁進しております。
+                        </p>
+                        <p>これらのカスタマーサービスは常時日本人スタッフが、電話、メールで対応させていただいております。また、長期レンタル契約、運転手サービス、短期のレンタル契約においても、是非お問い合わせください。
+                        </p>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail mb-5"><img src="{{ 'assets/images/Japan_desk.jpeg'|theme }}"></div>
+                        <div class="thumbnail"><img src="{{ 'assets/images/Driver_jp.jpeg'|theme }}"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="container">
+        <div class="row bg-orange-full">
+            <div class="col-md-12 pt-5">
+                <div class="jcbu">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{{ 'assets/images/contact us banner jcbu.png'|theme }}"></div>
+                    </div>
+                    <div class="media-body">
+                        <h2 class="jcbu-title white mb-5">お問い合わせ先：</h2>
+                        <p>電話： +62-21-5316-0077 （営業時間 8:30～17:30）</p>
+                        <p>携帯電話：+62-811-1225-499（営業時間外）</p>
+                        <p>メールアドレス：<a class='mail-white' href="mailto:jcbu@mpm-rent.com">jcbu@mpm-rent.com</a></p>
+                        <p>日本人スタッフがお問い合わせをお待ちしております。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="jcbu">
+					<h2 class='jcbu-title mb-5'>【新サービス・業界初導入】Time Sheet Mobile （TSM）</h2>
+                    <div class="media-body">
+                        <p>専用のスマートフォンのアプリケーションにて運転手の勤務時間を管理できます。   このアプリをご利用いただく事により、下記の様なメリットがございます。</p>
+                        <ul>
+                        	<li>紙での記入ミスや、記入後の改ざんを防止</li>
+                        	<li>走行距離記録をもとに燃費計算が可能</li>
+                        	<li>スマートフォンにて承認や修正が可能</li>
+                        	<li>別途WEB画面でも履歴の閲覧が可能</li>
+                        	<li>アドミ担当者の方をWEB画面から確認が出来、コスト管理やアドミに利用可能</li>
+                        </ul>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{{ 'assets/images/tsm-2.png'|theme }}"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>  
+</div>";s:5:"mtime";i:1655288961;s:6:"markup";s:5258:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                </div>
+            </div>
+          
+            <img src="{{ 'assets/images/mpm-rent-building-bluesky.webp'|theme }}">
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="jcbu">
+					<h2 class='jcbu-title mb-5'>日系企業様、日本人のお客様へのサービスのご紹介</h2>
+                    <div class="media-body">
+                        <p>弊社はレンタカーのリーディングカンパニーとして20年以上の実績があり、多くの日系企業様にサービスをご提供させて頂いております。12,000台以上の車両をご提供しており、350の拠点よりインドネシア全土で提携修理工場、ネットワークサービスをご提供させて頂いております。
+                        </p>
+                        <p>運転手サービスにおいても長い実績があり、自社で運転手サービスの会社(PT.DSS）を運営しており、教育された経験豊富な運転手が2,000人以上在籍しております。
+                        </p>
+						<p>強みは、上場会社であるMPMTbk のグループ会社として、ガバナンスと透明性に優れていること、運転手サービスのクオリティ、車両のメインテナンス、故障時の代車提供にも即対応させていただくカスタマーサービスにございます。また、ビジネスパートナーとして競争力のあるレンタルコストを提供させていただいており、当地で活躍する日系企業様のビジネスのお役に立てるよう、日々邁進しております。
+                        </p>
+                        <p>これらのカスタマーサービスは常時日本人スタッフが、電話、メールで対応させていただいております。また、長期レンタル契約、運転手サービス、短期のレンタル契約においても、是非お問い合わせください。
+                        </p>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail mb-5"><img src="{{ 'assets/images/Japan_desk.jpeg'|theme }}"></div>
+                        <div class="thumbnail"><img src="{{ 'assets/images/Driver_jp.jpeg'|theme }}"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="container">
+        <div class="row bg-orange-full">
+            <div class="col-md-12 pt-5">
+                <div class="jcbu">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{{ 'assets/images/contact us banner jcbu.png'|theme }}"></div>
+                    </div>
+                    <div class="media-body">
+                        <h2 class="jcbu-title white mb-5">お問い合わせ先：</h2>
+                        <p>電話： +62-21-5316-0077 （営業時間 8:30～17:30）</p>
+                        <p>携帯電話：+62-811-1225-499（営業時間外）</p>
+                        <p>メールアドレス：<a class='mail-white' href="mailto:jcbu@mpm-rent.com">jcbu@mpm-rent.com</a></p>
+                        <p>日本人スタッフがお問い合わせをお待ちしております。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="jcbu">
+					<h2 class='jcbu-title mb-5'>【新サービス・業界初導入】Time Sheet Mobile （TSM）</h2>
+                    <div class="media-body">
+                        <p>専用のスマートフォンのアプリケーションにて運転手の勤務時間を管理できます。   このアプリをご利用いただく事により、下記の様なメリットがございます。</p>
+                        <ul>
+                        	<li>紙での記入ミスや、記入後の改ざんを防止</li>
+                        	<li>走行距離記録をもとに燃費計算が可能</li>
+                        	<li>スマートフォンにて承認や修正が可能</li>
+                        	<li>別途WEB画面でも履歴の閲覧が可能</li>
+                        	<li>アドミ担当者の方をWEB画面から確認が出来、コスト管理やアドミに利用可能</li>
+                        </ul>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{{ 'assets/images/tsm-2.png'|theme }}"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>  
+</div>";s:4:"code";N;s:5:"title";s:4:"JCBU";s:3:"url";s:5:"/jcbu";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"SeoPage";a:0:{}}}

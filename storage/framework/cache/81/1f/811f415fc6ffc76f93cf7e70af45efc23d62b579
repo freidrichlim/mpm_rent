@@ -1,0 +1,1642 @@
+1662714159a:1:{s:24:"about-us/about-us.id.htm";a:6:{s:8:"fileName";s:24:"about-us/about-us.id.htm";s:7:"content";s:37606:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Kami selalu memberikan layanan terpercaya sesuai dengan nilai perusahaan kami yaitu Responsible, Excellent, Lean, Integrity, Adaptive, Better, Loyal, dan Empower (RELIABLE)</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/mpm-rent-building-bluesky.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Kami selalu memberikan layanan terpercaya sesuai dengan nilai perusahaan kami yaitu Responsible, Excellent, Lean, Integrity, Adaptive, Better, Loyal, dan Empower (RELIABLE)</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-02@2x.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Kami selalu memberikan layanan terpercaya sesuai dengan nilai perusahaan kami yaitu Responsible, Excellent, Lean, Integrity, Adaptive, Better, Loyal, dan Empower (RELIABLE)</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-03@2x.webp">
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white cf-about">
+    <div class="container">
+        <div class='page-title text-center'>
+            <h1>Tentang Kami</h1>    
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12 pt-3">
+                <div class="tabs-about-us">
+                    <div class="nav-tabs-center">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#about_us" role="tab" aria-controls="about_us" aria-selected="true">Profil</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="home-tab" data-toggle="tab" href="#management" role="tab" aria-controls="management" aria-selected="true">Manajemen</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_milestone" data-toggle="tab" href="#milestone" role="tab" aria-controls="milestone" aria-selected="false">Tonggak sejarah</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_certivications_awards" data-toggle="tab" href="#certivications_awards" role="tab" aria-controls="certivications_awards" aria-selected="false">Sertifikasi dan Penghargaan</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="about_us" role="tabpanel" aria-labelledby="about_us-tab">
+                            <div class="bg-orange-full">
+                                <div class="media-about-us">
+                                    <div class="media-body">
+                                        <p class='mb-5'>PT Mitra Pinasthika Mustika Rent adalah anak perusahaan dari MPM Group, yang menyediakan solusi menyeluruh dalam hal layanan transportasi. Sebagai salah satu perusahaan penyewaan kendaraan terkemuka di Indonesia, kami memahami setiap detil kebutuhan bisnis dan memastikan solusi terbaik yang dipersonalisasi sesuai kebutuhan Anda.
+                                        Untuk itu kami memiliki divisi khusus, <a href='{baseUrl}/jp/jcbu'>Japanese Client Business Unit</a> untuk menangani pelanggaan kami yang berasal dari perusahaan dan expatriat dari Jepang.
+                                        Mitrakami lainnya berasal dari perusahaan perbankan, manufaktur, distribusi & logistik, serta berbagai perusahaan lainnya di Indonesia.
+                                        </p>
+
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">Visi :</p>
+                                            <p>Menjadi perusahaan rental mobil yang terbaik di Indonesia.</p>
+                                        </div>
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">Misi :</p>
+                                            <p>Menjadi pilihan utama pelanggan dengan menciptakan kepuasan pelanggan yang luar biasa dan menghadirkan produk yang berkualitas, pelayanan terbaik, serta mampu memberikan solusi yang inovatif.</p>
+                                        </div>
+                                    </div>
+                                    <div class="media-right text-center">
+                                        <video width="320" height="240" controls>
+                                            <source src="{videoAssets}/Compres Video Company Profile.mp4" type="video/mp4">
+                                        </video>
+                                        <div class='mt-4'>
+                                            <a href="{baseUrl}/company-profile" class="btn btn-white-outline w-100">Unduh Profil Perusahaan</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="about-list d-flex flex-wrap mt-5 justify-content-center">
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-totalfleet@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>13000</h3>
+                                            <p>Armada</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-drivers@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>1500</h3>
+                                            <p>Pengemudi</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/About-Maps-Nationwide@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>Nationwide</h3>
+                                            <p>Tersedia di berbagai wilayah di Indonesia</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-contactcenter@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>Contact Center</h3>
+                                            <p>24 jam / 7 hari</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="milestone" role="tabpanel" aria-labelledby="milestone-tab">
+                            <div class="title-orange-tabs"></div>
+                            <div class="img-content">
+                                <video controls loop>
+                                    <source src="{videoAssets}/Milestone 2022.mp4" type="video/mp4">
+                                </video>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="certivications_awards" role="tabpanel" aria-labelledby="certivications_awards-tab">
+                            <div class="certifications-awards">
+                                <p>MPMRent berfokus pada pengelolaan lingkungan kerja yang aman demi terciptanya kepuasan terhadap para pelanggan dan karyawan yang sejahtera. </p>
+                                <p>MPMRent telah mendapatkan sertifikasi <span style="color: #F26F21"><b>ISO 9001:2015, ISO 14001:2015, ISO 45001:2018</b></span> dan <span style="color: #F26F21"><b>SMK3 certifications</b></span>.
+                                </p>
+                                <div class="row mt-5">
+                                    <div class="col-md-6">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">Sertifikasi kesehatan dan keselamatan kerja</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/ISO 14001 & 45001 MPM Rent.jpg">
+                                                    <span>ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/smk3logo.png">
+                                                    <span>Diberikan oleh Gubernur Banten (2019) (Penghargaan Kesehatan & Keselamatan)</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award health from governor banten 2018.png">
+                                                    <span>Diberikan oleh Gubernur Banten (2018) (Penghargaan Kesehatan & Keselamatan)</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mt100-sm">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">Penghargaan LKTP</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-lg-6 offset-lg-3">
+                                                <div class="list-ca">
+                                                    <div class="list-ca">
+                                                        <img src="{assetsPath}/Penghargaan Menteri Perdagangan Republik Indonesia.png">
+                                                        <span>Diberikan oleh Menteri Perdagangan RI</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row row-list-btm">
+                                    <div class="col-md-12">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">Sertifikasi kesehatan dan keselamatan kerja</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 3@2x.png">
+                                                    <span>Diberikan oleh Walikota Tangerang Selatan 2017</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Ministry of Manpower 2018.png">
+                                                    <span>Diberikan oleh Kementerian Tenaga Kerja 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 6@2x.png">
+                                                    <span>Diberikan oleh Gubernur Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 7@2x.png">
+                                                    <span>Diberikan oleh Gubernur Banten 2019</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Piagam Keselamatan kerja MPM Rent.png">
+                                                    <span>Piagam diberikan oleh Gubernur Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award from governor banten 2018.png">
+                                                    <span>Piagam diberikan oleh Gubernur Banten 2018</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="management" role="tabpanel" aria-labelledby="management-tab">
+                            <div class="card-flex card-flex--five mt-5">
+                               <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Andi-Esfandiari-BOC.avif"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Andi Esfandiari</div>
+                                    <div class='manajemen-position'>Komisaris Utama</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalAndiEsfandiari">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class='f-list-manajemen' >
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Pak-Patrick-Adhiatmadja(Kom) - thumb2.png" ></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2' style="width : max-content;">Patrick Adhiatmadja</div>
+                                    <div class='manajemen-position'>Komisaris</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalPatrickAdhiatmadja">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Kenji Narushima.png"></div>
+                                    </div> 
+                                    <div class='manajemen-name mt-2'>Kenji Narushima</div>
+                                    <div class='manajemen-position'>Komisaris</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalKenjiNarushima">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Pak Kelvin-Chng.png"></div>
+                                    </div> 
+                                    <div class='manajemen-name mt-2'>Kelvin Chng</div>
+                                    <div class='manajemen-position'>Komisaris</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalKelvinChng">View profile ></a></div>
+                                </div>
+                                
+                            <div class="card-flex-item">
+                                <div class="f-list-manajemen">
+                                    <div class="thumbnail-photos"><img src="{assetsPath}/Jeremy_Ong.jpeg"></div>
+                                </div> 
+                                <div class='manajemen-name mt-2'>Jeremy Ong</div>
+                                <div class='manajemen-position'>Direktur Utama</div>
+                                <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalJeremyOng">View profile ></a></div>
+                            </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Devi Clark Munthe</div>
+                                    <div class='manajemen-position'>Direktur Operasional</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalDeviClarkMunthe">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>March Teguh Armadi</div>
+                                    <div class='manajemen-position'>Direktur Keuangan</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalMarchTeguhArmadi">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Aaron-Tan.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Aaron Tan</div>
+                                    <div class='manajemen-position'>Direktur</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalAaronTan">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Ernest-Chew.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Ernest Chew</div>
+                                    <div class='manajemen-position'>Direktur</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalErnestChew">View profile ></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id='modalAndiEsfandiari' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOC PAk Andi Esfandiari.avif">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Andi Esfandiari</h1>
+                        <p class='position'>Komisaris Utama</p>
+                        <p class='description mt-5'>Andi Esfandiari sebelumnya menduduki posisi sebagai Direktur Portfolio di PT. Saratoga Investama Sedaya Tbk. Saat ini, beliau menduduki beberapa posisi komisaris di Saratoga group dalam sektor pelayanan kesehatan, perkebunan, logistik, dan transportasi.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalPatrickAdhiatmadja' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Pak-Patrick-Adhiatmadja(Kom).jpg">
+                    </div>
+                    <div class='col-md-6' style="padding-left: 1.8em; ">
+                        <h1>Patrick Adhiatmadja</h1>
+                        <p class='position'>Komisaris</p>
+                        <p class='description mt-5'>Patrick Adhiatmadja bergabung dengan PT Mitra Pinasthika Mustika Rent (MPMRent) pada Juni 2022 sebagai komisaris MPMRent. Sebelum bergabung dengan MPMRent, beliau memiliki lebih dari 30 tahun pengalaman kerja yang luas dan kaya dalam penjualan, pemasaran, pengembangan bisnis dan peran manajemen dengan berbagai perusahaan multinasional. Selain itu, beliau memiliki pengalaman di private equity. 
+                        
+                        <p>
+                        Sebelum bergabung dengan MPMRent, beliau bekerja di Federal Lubricants sebagai Presiden Direktur dan sebelumnya sebagai Direktur Pengembangan Bisnis. Sebelum bergabung dengan Federal Lubricant, Bapak Adhiatmadja bekerja sebagai di sebuah perusahaan ekuitas swasta, Quvat, di mana ia mengelola sebuah perusahaan investee yang mengembangkan proyek kabel serat optik bawah laut internasional hingga keluar dengan sukses. Sebelumnya, beliau menjabat sebagai Direktur Pengembangan Bisnis untuk Motorola Networks Asia, memimpin pengembangan nirkabel pita lebar Motorola untuk wilayah Asia selama lebih dari 5 tahun. Ia menjabat Lucent Technologies Asia Pasifik, sebagai Kepala Perwakilan untuk Indonesia, dan sebelumnya bekerja di General Electric Company. Beliau meraih gelar sarjana Teknik Arsitektur dan melanjutkan studi di INSEAD.<br><br></P>
+                        
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id='modalKenjiNarushima' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Kenji-Narushima-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-6' style="padding-left: 1.8em; ">
+                        <h1>Kenji Narushima</h1>
+                        <p class='position'>Komisaris</p>
+                        <p class='description mt-5'>Kenji Narushima bergabung dengan PT Mitra Pinasthika Mustika Rent (MPMRent) pada Juni 2022 sebagai Komisaris MPMRent. Beliau memiliki lebih dari 16 tahun pengalaman bekerja di Private Equity Investments di infrastruktur (middle stream) seperti Transportasi (kapal/terminal), Energi (pembangkit listrik), dan lain sebagainya. Dan beralih ke Capital Investment.
+<p>
+Sebelum bergabung dengan MPMRent, beliau bekerja sebagai Chief Strategy Officer/Chief of Staff of Carro, perusahaan mobil bekas terbesar di Asia Tenggara.
+</P
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id='modalKelvinChng' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Pak Kelvin-Chng-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-6' style="padding-left: 1.8em; ">
+                        <h1>Kelvin Chng</h1>
+                        <p class='position'>Komisaris</p>
+                        <p class='description mt-5'>Kelvin Chng bergabung dengan PT Mitra Pinasthika Mustika Rent (MPMRent) pada Juni 2022 sebagai Komisaris MPMRent. Sebelum bergabung dengan MPMRent, beliau adalah adalah salah satu pendiri Carro, kemudian bekerja di Singapore Experian dan mengawali karir sebagai Business Development Manager di SAS pada tahun 2012.
+<p>
+Mengemban pendidikan teknik komputer, sistem informasi dan teknologi informasi, Kelvin Chng lulus dengan predikat Valedictorian Summa-cum-Laude dari Singapore Management University dan dianugerahi Beasiswa Infocomm Nasional Singapura untuk gelar Master dari Carnegie Mellon University.
+</p>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalJeremyOng' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Pak-jeremy-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-5' style="padding-right: 2em;">
+                        <h1>Jeremy Ong</h1>
+                        <p class='position'>Direktur Utama</p>
+                        <p class='description mt-5' style="font-size: 15px;">Beliau lulus dari Oxford University pada tahun 2013 dengan meraih gelar Sarjana di bidang Jurisprudence (Ilmu Hukum).
+<p>
+Pengalaman karir beliau sebelumnya, antara lain sebagai konsultan hukum pada Clifford Chance LLP di London selaku Financial Services Lawyer, sebagai Penasihat Hukum pada Shook Lin & Bok LLP di Singapura selaku Financial Services and M&A, sebagai Direktur pada PT Mobil Laku Indonesia (BeliMobilGue.co.id – OLX Group) selaku Director of Financial Services. Pada 2020 menjadi CEO Carro Indonesia dan pada 2 Juni 2022 menjadi CEO PT Mitra Pinasthika Mustika Rent (MPMRent).</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalDeviClarkMunthe' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Devi Clark Munthe</h1>
+                        <p class='position'>Direktur Operasional</p>
+                        <p class='description mt-5'>
+                         DDevi Clark Munthe menjabat sebagai Direktur Perseroan berdasarkan Keputusan Rapat Umum Pemegang Saham Luar Biasa tanggal 10 Oktober 2017. 
+                         <p>
+                         Beliau meraih gelar Sarjana Ilmu Sosial dan Politik dari Universitas Parahyangan (1997) dan melanjutkan pendidikan untuk meraih gelar Master of Management Program dari Universitas Indonesia (2000). Beliau memiliki pengalaman lebih dari 20 tahun di bidang Operation & Marketing. Sebelum bergabung dengan MPMRent, beliau pernah menjabat sebagai General Manager Operation PT Agility International (2010 – 2017). Sebelumnya beliau menjabat sebagai Senior Manager Operation and Marketing di PT Cardig Air (2008 – 2010) dan selama 7 (Tujuh) tahun beliau telah mensupervisi Departement Operation, Warehouse & Marketing di PT. Jasa Angkasa Semesta.
+                         </p>
+                         <p>
+                         Beliau tidak memiliki hubungan afiliasi dengan anggota Direksi lainnya, maupun dengan anggota Dewan Komisaris.
+                         </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id='modalAaronTan' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Aaron-Tan.png">
+                    </div>
+                    <div class='col-md-5' style="padding-left: 1.8em; ">
+                        <h1>Aaron Tan</h1>
+                        <p class='position'>Direktur</p>
+                        <p class='description mt-5' style="font-size: 13px;">Sebelum bergabung dengan MPMRent, beliau adalah pendiri dan Chief Executive Officer Carro, perusahaan otomotif yang menawarkan layanan full-stack untuk semua aspek kepemilikan mobil. Beliau memimpin perusahaan dengan pengalaman bertahun-tahun di ranah startup.
+<p>
+Aaron lulus dengan predikat Summa Cum Laude dengan gelar BSc dari Sekolah Sistem Informasi Universitas Manajemen Singapura, dan kemudian menerima beasiswa dari Otoritas Pengembangan Infocomm Singapura untuk Ilmu Komputer di Universitas Carnegie Mellon di mana beliau lulus dengan gelar MSc.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalErnestChew' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Ernest-Chew-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-5' style="padding-left: 1.8em; ">
+                        <h1>Ernest Chew</h1>
+                        <p class='position'>Direktur</p>
+                        <p class='description mt-5' style="font-size: 13px;">Ernest Chew saat ini menjabat sebagai Direktur di MPMRent. Ernest memiliki pengalaman luas di seluruh strategi, capital raising, pembiayaan, dan M&A/konsultasi. Beliau lulus dari University of Nottingham (Sarjana Teknik dengan First Class Honours) dan University of Cambridge (Magister Engineering). Ernest memiliki pengalaman kerja di Hong Kong/Asia, London, New York serta Asia Tenggara.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalMarchTeguhArmadi' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>March Teguh Armadi</h1>
+                        <p class='position'>Direktur Keuangan</p>
+                        <p class='description mt-5'>March Teguh Armadi menjabat sebagai Direktur Perseroan berdasarkan Keputusan Rapat Umum Pemegang Saham Luar Biasa tanggal 1 April 2020. Beliau meraih gelar Sarjana Ekonomi jurusan Akuntansi dari Universitas Atma Jaya. Beliau memiliki pengalaman lebih dari 18 tahun di bidang Keuangan & Audit. Beliau memulai awal karirnya sebagai auditor di KPMG dan Pricewaterhouse Coopers. 
+                        <p>Sebelum bergabung dengan MPMRent, beliau pernah menjabat sebagai Country Finance Manager di PT Knauf Gypsum Indonesia (2017 – 2019). Sebelumnya beliau menjabat sebagai Finance Controller di PT Gitaswara Indonesia (2016 – 2017), Head of Commercial Finance di PT Syngenta Indonesia dan beberapa jabatan strategis lainnya di perusahaan tersebut. Beliau tidak memiliki hubungan afiliasi dengan anggota Direksi lainnya, maupun dengan anggota Dewan Komisaris.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1661487804;s:6:"markup";s:37606:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Kami selalu memberikan layanan terpercaya sesuai dengan nilai perusahaan kami yaitu Responsible, Excellent, Lean, Integrity, Adaptive, Better, Loyal, dan Empower (RELIABLE)</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/mpm-rent-building-bluesky.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Kami selalu memberikan layanan terpercaya sesuai dengan nilai perusahaan kami yaitu Responsible, Excellent, Lean, Integrity, Adaptive, Better, Loyal, dan Empower (RELIABLE)</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-02@2x.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Kami selalu memberikan layanan terpercaya sesuai dengan nilai perusahaan kami yaitu Responsible, Excellent, Lean, Integrity, Adaptive, Better, Loyal, dan Empower (RELIABLE)</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-03@2x.webp">
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white cf-about">
+    <div class="container">
+        <div class='page-title text-center'>
+            <h1>Tentang Kami</h1>    
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12 pt-3">
+                <div class="tabs-about-us">
+                    <div class="nav-tabs-center">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#about_us" role="tab" aria-controls="about_us" aria-selected="true">Profil</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="home-tab" data-toggle="tab" href="#management" role="tab" aria-controls="management" aria-selected="true">Manajemen</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_milestone" data-toggle="tab" href="#milestone" role="tab" aria-controls="milestone" aria-selected="false">Tonggak sejarah</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_certivications_awards" data-toggle="tab" href="#certivications_awards" role="tab" aria-controls="certivications_awards" aria-selected="false">Sertifikasi dan Penghargaan</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="about_us" role="tabpanel" aria-labelledby="about_us-tab">
+                            <div class="bg-orange-full">
+                                <div class="media-about-us">
+                                    <div class="media-body">
+                                        <p class='mb-5'>PT Mitra Pinasthika Mustika Rent adalah anak perusahaan dari MPM Group, yang menyediakan solusi menyeluruh dalam hal layanan transportasi. Sebagai salah satu perusahaan penyewaan kendaraan terkemuka di Indonesia, kami memahami setiap detil kebutuhan bisnis dan memastikan solusi terbaik yang dipersonalisasi sesuai kebutuhan Anda.
+                                        Untuk itu kami memiliki divisi khusus, <a href='{baseUrl}/jp/jcbu'>Japanese Client Business Unit</a> untuk menangani pelanggaan kami yang berasal dari perusahaan dan expatriat dari Jepang.
+                                        Mitrakami lainnya berasal dari perusahaan perbankan, manufaktur, distribusi & logistik, serta berbagai perusahaan lainnya di Indonesia.
+                                        </p>
+
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">Visi :</p>
+                                            <p>Menjadi perusahaan rental mobil yang terbaik di Indonesia.</p>
+                                        </div>
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">Misi :</p>
+                                            <p>Menjadi pilihan utama pelanggan dengan menciptakan kepuasan pelanggan yang luar biasa dan menghadirkan produk yang berkualitas, pelayanan terbaik, serta mampu memberikan solusi yang inovatif.</p>
+                                        </div>
+                                    </div>
+                                    <div class="media-right text-center">
+                                        <video width="320" height="240" controls>
+                                            <source src="{videoAssets}/Compres Video Company Profile.mp4" type="video/mp4">
+                                        </video>
+                                        <div class='mt-4'>
+                                            <a href="{baseUrl}/company-profile" class="btn btn-white-outline w-100">Unduh Profil Perusahaan</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="about-list d-flex flex-wrap mt-5 justify-content-center">
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-totalfleet@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>13000</h3>
+                                            <p>Armada</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-drivers@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>1500</h3>
+                                            <p>Pengemudi</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/About-Maps-Nationwide@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>Nationwide</h3>
+                                            <p>Tersedia di berbagai wilayah di Indonesia</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-contactcenter@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>Contact Center</h3>
+                                            <p>24 jam / 7 hari</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="milestone" role="tabpanel" aria-labelledby="milestone-tab">
+                            <div class="title-orange-tabs"></div>
+                            <div class="img-content">
+                                <video controls loop>
+                                    <source src="{videoAssets}/Milestone 2022.mp4" type="video/mp4">
+                                </video>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="certivications_awards" role="tabpanel" aria-labelledby="certivications_awards-tab">
+                            <div class="certifications-awards">
+                                <p>MPMRent berfokus pada pengelolaan lingkungan kerja yang aman demi terciptanya kepuasan terhadap para pelanggan dan karyawan yang sejahtera. </p>
+                                <p>MPMRent telah mendapatkan sertifikasi <span style="color: #F26F21"><b>ISO 9001:2015, ISO 14001:2015, ISO 45001:2018</b></span> dan <span style="color: #F26F21"><b>SMK3 certifications</b></span>.
+                                </p>
+                                <div class="row mt-5">
+                                    <div class="col-md-6">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">Sertifikasi kesehatan dan keselamatan kerja</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/ISO 14001 & 45001 MPM Rent.jpg">
+                                                    <span>ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/smk3logo.png">
+                                                    <span>Diberikan oleh Gubernur Banten (2019) (Penghargaan Kesehatan & Keselamatan)</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award health from governor banten 2018.png">
+                                                    <span>Diberikan oleh Gubernur Banten (2018) (Penghargaan Kesehatan & Keselamatan)</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mt100-sm">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">Penghargaan LKTP</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-lg-6 offset-lg-3">
+                                                <div class="list-ca">
+                                                    <div class="list-ca">
+                                                        <img src="{assetsPath}/Penghargaan Menteri Perdagangan Republik Indonesia.png">
+                                                        <span>Diberikan oleh Menteri Perdagangan RI</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row row-list-btm">
+                                    <div class="col-md-12">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">Sertifikasi kesehatan dan keselamatan kerja</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 3@2x.png">
+                                                    <span>Diberikan oleh Walikota Tangerang Selatan 2017</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Ministry of Manpower 2018.png">
+                                                    <span>Diberikan oleh Kementerian Tenaga Kerja 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 6@2x.png">
+                                                    <span>Diberikan oleh Gubernur Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 7@2x.png">
+                                                    <span>Diberikan oleh Gubernur Banten 2019</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Piagam Keselamatan kerja MPM Rent.png">
+                                                    <span>Piagam diberikan oleh Gubernur Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award from governor banten 2018.png">
+                                                    <span>Piagam diberikan oleh Gubernur Banten 2018</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="management" role="tabpanel" aria-labelledby="management-tab">
+                            <div class="card-flex card-flex--five mt-5">
+                               <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Andi-Esfandiari-BOC.avif"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Andi Esfandiari</div>
+                                    <div class='manajemen-position'>Komisaris Utama</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalAndiEsfandiari">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class='f-list-manajemen' >
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Pak-Patrick-Adhiatmadja(Kom) - thumb2.png" ></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2' style="width : max-content;">Patrick Adhiatmadja</div>
+                                    <div class='manajemen-position'>Komisaris</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalPatrickAdhiatmadja">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Kenji Narushima.png"></div>
+                                    </div> 
+                                    <div class='manajemen-name mt-2'>Kenji Narushima</div>
+                                    <div class='manajemen-position'>Komisaris</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalKenjiNarushima">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Pak Kelvin-Chng.png"></div>
+                                    </div> 
+                                    <div class='manajemen-name mt-2'>Kelvin Chng</div>
+                                    <div class='manajemen-position'>Komisaris</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalKelvinChng">View profile ></a></div>
+                                </div>
+                                
+                            <div class="card-flex-item">
+                                <div class="f-list-manajemen">
+                                    <div class="thumbnail-photos"><img src="{assetsPath}/Jeremy_Ong.jpeg"></div>
+                                </div> 
+                                <div class='manajemen-name mt-2'>Jeremy Ong</div>
+                                <div class='manajemen-position'>Direktur Utama</div>
+                                <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalJeremyOng">View profile ></a></div>
+                            </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Devi Clark Munthe</div>
+                                    <div class='manajemen-position'>Direktur Operasional</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalDeviClarkMunthe">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>March Teguh Armadi</div>
+                                    <div class='manajemen-position'>Direktur Keuangan</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalMarchTeguhArmadi">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Aaron-Tan.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Aaron Tan</div>
+                                    <div class='manajemen-position'>Direktur</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalAaronTan">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Ernest-Chew.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Ernest Chew</div>
+                                    <div class='manajemen-position'>Direktur</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalErnestChew">View profile ></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id='modalAndiEsfandiari' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOC PAk Andi Esfandiari.avif">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Andi Esfandiari</h1>
+                        <p class='position'>Komisaris Utama</p>
+                        <p class='description mt-5'>Andi Esfandiari sebelumnya menduduki posisi sebagai Direktur Portfolio di PT. Saratoga Investama Sedaya Tbk. Saat ini, beliau menduduki beberapa posisi komisaris di Saratoga group dalam sektor pelayanan kesehatan, perkebunan, logistik, dan transportasi.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalPatrickAdhiatmadja' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Pak-Patrick-Adhiatmadja(Kom).jpg">
+                    </div>
+                    <div class='col-md-6' style="padding-left: 1.8em; ">
+                        <h1>Patrick Adhiatmadja</h1>
+                        <p class='position'>Komisaris</p>
+                        <p class='description mt-5'>Patrick Adhiatmadja bergabung dengan PT Mitra Pinasthika Mustika Rent (MPMRent) pada Juni 2022 sebagai komisaris MPMRent. Sebelum bergabung dengan MPMRent, beliau memiliki lebih dari 30 tahun pengalaman kerja yang luas dan kaya dalam penjualan, pemasaran, pengembangan bisnis dan peran manajemen dengan berbagai perusahaan multinasional. Selain itu, beliau memiliki pengalaman di private equity. 
+                        
+                        <p>
+                        Sebelum bergabung dengan MPMRent, beliau bekerja di Federal Lubricants sebagai Presiden Direktur dan sebelumnya sebagai Direktur Pengembangan Bisnis. Sebelum bergabung dengan Federal Lubricant, Bapak Adhiatmadja bekerja sebagai di sebuah perusahaan ekuitas swasta, Quvat, di mana ia mengelola sebuah perusahaan investee yang mengembangkan proyek kabel serat optik bawah laut internasional hingga keluar dengan sukses. Sebelumnya, beliau menjabat sebagai Direktur Pengembangan Bisnis untuk Motorola Networks Asia, memimpin pengembangan nirkabel pita lebar Motorola untuk wilayah Asia selama lebih dari 5 tahun. Ia menjabat Lucent Technologies Asia Pasifik, sebagai Kepala Perwakilan untuk Indonesia, dan sebelumnya bekerja di General Electric Company. Beliau meraih gelar sarjana Teknik Arsitektur dan melanjutkan studi di INSEAD.<br><br></P>
+                        
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id='modalKenjiNarushima' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Kenji-Narushima-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-6' style="padding-left: 1.8em; ">
+                        <h1>Kenji Narushima</h1>
+                        <p class='position'>Komisaris</p>
+                        <p class='description mt-5'>Kenji Narushima bergabung dengan PT Mitra Pinasthika Mustika Rent (MPMRent) pada Juni 2022 sebagai Komisaris MPMRent. Beliau memiliki lebih dari 16 tahun pengalaman bekerja di Private Equity Investments di infrastruktur (middle stream) seperti Transportasi (kapal/terminal), Energi (pembangkit listrik), dan lain sebagainya. Dan beralih ke Capital Investment.
+<p>
+Sebelum bergabung dengan MPMRent, beliau bekerja sebagai Chief Strategy Officer/Chief of Staff of Carro, perusahaan mobil bekas terbesar di Asia Tenggara.
+</P
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id='modalKelvinChng' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Pak Kelvin-Chng-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-6' style="padding-left: 1.8em; ">
+                        <h1>Kelvin Chng</h1>
+                        <p class='position'>Komisaris</p>
+                        <p class='description mt-5'>Kelvin Chng bergabung dengan PT Mitra Pinasthika Mustika Rent (MPMRent) pada Juni 2022 sebagai Komisaris MPMRent. Sebelum bergabung dengan MPMRent, beliau adalah adalah salah satu pendiri Carro, kemudian bekerja di Singapore Experian dan mengawali karir sebagai Business Development Manager di SAS pada tahun 2012.
+<p>
+Mengemban pendidikan teknik komputer, sistem informasi dan teknologi informasi, Kelvin Chng lulus dengan predikat Valedictorian Summa-cum-Laude dari Singapore Management University dan dianugerahi Beasiswa Infocomm Nasional Singapura untuk gelar Master dari Carnegie Mellon University.
+</p>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalJeremyOng' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Pak-jeremy-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-5' style="padding-right: 2em;">
+                        <h1>Jeremy Ong</h1>
+                        <p class='position'>Direktur Utama</p>
+                        <p class='description mt-5' style="font-size: 15px;">Beliau lulus dari Oxford University pada tahun 2013 dengan meraih gelar Sarjana di bidang Jurisprudence (Ilmu Hukum).
+<p>
+Pengalaman karir beliau sebelumnya, antara lain sebagai konsultan hukum pada Clifford Chance LLP di London selaku Financial Services Lawyer, sebagai Penasihat Hukum pada Shook Lin & Bok LLP di Singapura selaku Financial Services and M&A, sebagai Direktur pada PT Mobil Laku Indonesia (BeliMobilGue.co.id – OLX Group) selaku Director of Financial Services. Pada 2020 menjadi CEO Carro Indonesia dan pada 2 Juni 2022 menjadi CEO PT Mitra Pinasthika Mustika Rent (MPMRent).</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalDeviClarkMunthe' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Devi Clark Munthe</h1>
+                        <p class='position'>Direktur Operasional</p>
+                        <p class='description mt-5'>
+                         DDevi Clark Munthe menjabat sebagai Direktur Perseroan berdasarkan Keputusan Rapat Umum Pemegang Saham Luar Biasa tanggal 10 Oktober 2017. 
+                         <p>
+                         Beliau meraih gelar Sarjana Ilmu Sosial dan Politik dari Universitas Parahyangan (1997) dan melanjutkan pendidikan untuk meraih gelar Master of Management Program dari Universitas Indonesia (2000). Beliau memiliki pengalaman lebih dari 20 tahun di bidang Operation & Marketing. Sebelum bergabung dengan MPMRent, beliau pernah menjabat sebagai General Manager Operation PT Agility International (2010 – 2017). Sebelumnya beliau menjabat sebagai Senior Manager Operation and Marketing di PT Cardig Air (2008 – 2010) dan selama 7 (Tujuh) tahun beliau telah mensupervisi Departement Operation, Warehouse & Marketing di PT. Jasa Angkasa Semesta.
+                         </p>
+                         <p>
+                         Beliau tidak memiliki hubungan afiliasi dengan anggota Direksi lainnya, maupun dengan anggota Dewan Komisaris.
+                         </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id='modalAaronTan' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Aaron-Tan.png">
+                    </div>
+                    <div class='col-md-5' style="padding-left: 1.8em; ">
+                        <h1>Aaron Tan</h1>
+                        <p class='position'>Direktur</p>
+                        <p class='description mt-5' style="font-size: 13px;">Sebelum bergabung dengan MPMRent, beliau adalah pendiri dan Chief Executive Officer Carro, perusahaan otomotif yang menawarkan layanan full-stack untuk semua aspek kepemilikan mobil. Beliau memimpin perusahaan dengan pengalaman bertahun-tahun di ranah startup.
+<p>
+Aaron lulus dengan predikat Summa Cum Laude dengan gelar BSc dari Sekolah Sistem Informasi Universitas Manajemen Singapura, dan kemudian menerima beasiswa dari Otoritas Pengembangan Infocomm Singapura untuk Ilmu Komputer di Universitas Carnegie Mellon di mana beliau lulus dengan gelar MSc.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalErnestChew' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Ernest-Chew-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-5' style="padding-left: 1.8em; ">
+                        <h1>Ernest Chew</h1>
+                        <p class='position'>Direktur</p>
+                        <p class='description mt-5' style="font-size: 13px;">Ernest Chew saat ini menjabat sebagai Direktur di MPMRent. Ernest memiliki pengalaman luas di seluruh strategi, capital raising, pembiayaan, dan M&A/konsultasi. Beliau lulus dari University of Nottingham (Sarjana Teknik dengan First Class Honours) dan University of Cambridge (Magister Engineering). Ernest memiliki pengalaman kerja di Hong Kong/Asia, London, New York serta Asia Tenggara.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalMarchTeguhArmadi' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>March Teguh Armadi</h1>
+                        <p class='position'>Direktur Keuangan</p>
+                        <p class='description mt-5'>March Teguh Armadi menjabat sebagai Direktur Perseroan berdasarkan Keputusan Rapat Umum Pemegang Saham Luar Biasa tanggal 1 April 2020. Beliau meraih gelar Sarjana Ekonomi jurusan Akuntansi dari Universitas Atma Jaya. Beliau memiliki pengalaman lebih dari 18 tahun di bidang Keuangan & Audit. Beliau memulai awal karirnya sebagai auditor di KPMG dan Pricewaterhouse Coopers. 
+                        <p>Sebelum bergabung dengan MPMRent, beliau pernah menjabat sebagai Country Finance Manager di PT Knauf Gypsum Indonesia (2017 – 2019). Sebelumnya beliau menjabat sebagai Finance Controller di PT Gitaswara Indonesia (2016 – 2017), Head of Commercial Finance di PT Syngenta Indonesia dan beberapa jabatan strategis lainnya di perusahaan tersebut. Beliau tidak memiliki hubungan afiliasi dengan anggota Direksi lainnya, maupun dengan anggota Dewan Komisaris.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:37606:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Kami selalu memberikan layanan terpercaya sesuai dengan nilai perusahaan kami yaitu Responsible, Excellent, Lean, Integrity, Adaptive, Better, Loyal, dan Empower (RELIABLE)</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/mpm-rent-building-bluesky.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Kami selalu memberikan layanan terpercaya sesuai dengan nilai perusahaan kami yaitu Responsible, Excellent, Lean, Integrity, Adaptive, Better, Loyal, dan Empower (RELIABLE)</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-02@2x.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Kami selalu memberikan layanan terpercaya sesuai dengan nilai perusahaan kami yaitu Responsible, Excellent, Lean, Integrity, Adaptive, Better, Loyal, dan Empower (RELIABLE)</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-03@2x.webp">
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white cf-about">
+    <div class="container">
+        <div class='page-title text-center'>
+            <h1>Tentang Kami</h1>    
+        </div>
+        <div class="row mb-4">
+            <div class="col-md-12 pt-3">
+                <div class="tabs-about-us">
+                    <div class="nav-tabs-center">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#about_us" role="tab" aria-controls="about_us" aria-selected="true">Profil</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="home-tab" data-toggle="tab" href="#management" role="tab" aria-controls="management" aria-selected="true">Manajemen</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_milestone" data-toggle="tab" href="#milestone" role="tab" aria-controls="milestone" aria-selected="false">Tonggak sejarah</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_certivications_awards" data-toggle="tab" href="#certivications_awards" role="tab" aria-controls="certivications_awards" aria-selected="false">Sertifikasi dan Penghargaan</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="about_us" role="tabpanel" aria-labelledby="about_us-tab">
+                            <div class="bg-orange-full">
+                                <div class="media-about-us">
+                                    <div class="media-body">
+                                        <p class='mb-5'>PT Mitra Pinasthika Mustika Rent adalah anak perusahaan dari MPM Group, yang menyediakan solusi menyeluruh dalam hal layanan transportasi. Sebagai salah satu perusahaan penyewaan kendaraan terkemuka di Indonesia, kami memahami setiap detil kebutuhan bisnis dan memastikan solusi terbaik yang dipersonalisasi sesuai kebutuhan Anda.
+                                        Untuk itu kami memiliki divisi khusus, <a href='{baseUrl}/jp/jcbu'>Japanese Client Business Unit</a> untuk menangani pelanggaan kami yang berasal dari perusahaan dan expatriat dari Jepang.
+                                        Mitrakami lainnya berasal dari perusahaan perbankan, manufaktur, distribusi & logistik, serta berbagai perusahaan lainnya di Indonesia.
+                                        </p>
+
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">Visi :</p>
+                                            <p>Menjadi perusahaan rental mobil yang terbaik di Indonesia.</p>
+                                        </div>
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">Misi :</p>
+                                            <p>Menjadi pilihan utama pelanggan dengan menciptakan kepuasan pelanggan yang luar biasa dan menghadirkan produk yang berkualitas, pelayanan terbaik, serta mampu memberikan solusi yang inovatif.</p>
+                                        </div>
+                                    </div>
+                                    <div class="media-right text-center">
+                                        <video width="320" height="240" controls>
+                                            <source src="{videoAssets}/Compres Video Company Profile.mp4" type="video/mp4">
+                                        </video>
+                                        <div class='mt-4'>
+                                            <a href="{baseUrl}/company-profile" class="btn btn-white-outline w-100">Unduh Profil Perusahaan</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="about-list d-flex flex-wrap mt-5 justify-content-center">
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-totalfleet@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>13000</h3>
+                                            <p>Armada</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-drivers@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>1500</h3>
+                                            <p>Pengemudi</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/About-Maps-Nationwide@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>Nationwide</h3>
+                                            <p>Tersedia di berbagai wilayah di Indonesia</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-contactcenter@2x.webp"></div>
+                                        <div class="desc-list-about">
+                                            <h3>Contact Center</h3>
+                                            <p>24 jam / 7 hari</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="milestone" role="tabpanel" aria-labelledby="milestone-tab">
+                            <div class="title-orange-tabs"></div>
+                            <div class="img-content">
+                                <video controls loop>
+                                    <source src="{videoAssets}/Milestone 2022.mp4" type="video/mp4">
+                                </video>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="certivications_awards" role="tabpanel" aria-labelledby="certivications_awards-tab">
+                            <div class="certifications-awards">
+                                <p>MPMRent berfokus pada pengelolaan lingkungan kerja yang aman demi terciptanya kepuasan terhadap para pelanggan dan karyawan yang sejahtera. </p>
+                                <p>MPMRent telah mendapatkan sertifikasi <span style="color: #F26F21"><b>ISO 9001:2015, ISO 14001:2015, ISO 45001:2018</b></span> dan <span style="color: #F26F21"><b>SMK3 certifications</b></span>.
+                                </p>
+                                <div class="row mt-5">
+                                    <div class="col-md-6">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">Sertifikasi kesehatan dan keselamatan kerja</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/ISO 14001 & 45001 MPM Rent.jpg">
+                                                    <span>ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/smk3logo.png">
+                                                    <span>Diberikan oleh Gubernur Banten (2019) (Penghargaan Kesehatan & Keselamatan)</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award health from governor banten 2018.png">
+                                                    <span>Diberikan oleh Gubernur Banten (2018) (Penghargaan Kesehatan & Keselamatan)</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mt100-sm">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">Penghargaan LKTP</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-lg-6 offset-lg-3">
+                                                <div class="list-ca">
+                                                    <div class="list-ca">
+                                                        <img src="{assetsPath}/Penghargaan Menteri Perdagangan Republik Indonesia.png">
+                                                        <span>Diberikan oleh Menteri Perdagangan RI</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row row-list-btm">
+                                    <div class="col-md-12">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">Sertifikasi kesehatan dan keselamatan kerja</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 3@2x.png">
+                                                    <span>Diberikan oleh Walikota Tangerang Selatan 2017</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Ministry of Manpower 2018.png">
+                                                    <span>Diberikan oleh Kementerian Tenaga Kerja 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 6@2x.png">
+                                                    <span>Diberikan oleh Gubernur Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 7@2x.png">
+                                                    <span>Diberikan oleh Gubernur Banten 2019</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Piagam Keselamatan kerja MPM Rent.png">
+                                                    <span>Piagam diberikan oleh Gubernur Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award from governor banten 2018.png">
+                                                    <span>Piagam diberikan oleh Gubernur Banten 2018</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="management" role="tabpanel" aria-labelledby="management-tab">
+                            <div class="card-flex card-flex--five mt-5">
+                               <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Andi-Esfandiari-BOC.avif"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Andi Esfandiari</div>
+                                    <div class='manajemen-position'>Komisaris Utama</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalAndiEsfandiari">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class='f-list-manajemen' >
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Pak-Patrick-Adhiatmadja(Kom) - thumb2.png" ></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2' style="width : max-content;">Patrick Adhiatmadja</div>
+                                    <div class='manajemen-position'>Komisaris</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalPatrickAdhiatmadja">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Kenji Narushima.png"></div>
+                                    </div> 
+                                    <div class='manajemen-name mt-2'>Kenji Narushima</div>
+                                    <div class='manajemen-position'>Komisaris</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalKenjiNarushima">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Pak Kelvin-Chng.png"></div>
+                                    </div> 
+                                    <div class='manajemen-name mt-2'>Kelvin Chng</div>
+                                    <div class='manajemen-position'>Komisaris</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalKelvinChng">View profile ></a></div>
+                                </div>
+                                
+                            <div class="card-flex-item">
+                                <div class="f-list-manajemen">
+                                    <div class="thumbnail-photos"><img src="{assetsPath}/Jeremy_Ong.jpeg"></div>
+                                </div> 
+                                <div class='manajemen-name mt-2'>Jeremy Ong</div>
+                                <div class='manajemen-position'>Direktur Utama</div>
+                                <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalJeremyOng">View profile ></a></div>
+                            </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Devi Clark Munthe</div>
+                                    <div class='manajemen-position'>Direktur Operasional</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalDeviClarkMunthe">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>March Teguh Armadi</div>
+                                    <div class='manajemen-position'>Direktur Keuangan</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalMarchTeguhArmadi">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Aaron-Tan.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Aaron Tan</div>
+                                    <div class='manajemen-position'>Direktur</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalAaronTan">View profile ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/Ernest-Chew.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Ernest Chew</div>
+                                    <div class='manajemen-position'>Direktur</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalErnestChew">View profile ></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id='modalAndiEsfandiari' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOC PAk Andi Esfandiari.avif">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Andi Esfandiari</h1>
+                        <p class='position'>Komisaris Utama</p>
+                        <p class='description mt-5'>Andi Esfandiari sebelumnya menduduki posisi sebagai Direktur Portfolio di PT. Saratoga Investama Sedaya Tbk. Saat ini, beliau menduduki beberapa posisi komisaris di Saratoga group dalam sektor pelayanan kesehatan, perkebunan, logistik, dan transportasi.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalPatrickAdhiatmadja' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Pak-Patrick-Adhiatmadja(Kom).jpg">
+                    </div>
+                    <div class='col-md-6' style="padding-left: 1.8em; ">
+                        <h1>Patrick Adhiatmadja</h1>
+                        <p class='position'>Komisaris</p>
+                        <p class='description mt-5'>Patrick Adhiatmadja bergabung dengan PT Mitra Pinasthika Mustika Rent (MPMRent) pada Juni 2022 sebagai komisaris MPMRent. Sebelum bergabung dengan MPMRent, beliau memiliki lebih dari 30 tahun pengalaman kerja yang luas dan kaya dalam penjualan, pemasaran, pengembangan bisnis dan peran manajemen dengan berbagai perusahaan multinasional. Selain itu, beliau memiliki pengalaman di private equity. 
+                        
+                        <p>
+                        Sebelum bergabung dengan MPMRent, beliau bekerja di Federal Lubricants sebagai Presiden Direktur dan sebelumnya sebagai Direktur Pengembangan Bisnis. Sebelum bergabung dengan Federal Lubricant, Bapak Adhiatmadja bekerja sebagai di sebuah perusahaan ekuitas swasta, Quvat, di mana ia mengelola sebuah perusahaan investee yang mengembangkan proyek kabel serat optik bawah laut internasional hingga keluar dengan sukses. Sebelumnya, beliau menjabat sebagai Direktur Pengembangan Bisnis untuk Motorola Networks Asia, memimpin pengembangan nirkabel pita lebar Motorola untuk wilayah Asia selama lebih dari 5 tahun. Ia menjabat Lucent Technologies Asia Pasifik, sebagai Kepala Perwakilan untuk Indonesia, dan sebelumnya bekerja di General Electric Company. Beliau meraih gelar sarjana Teknik Arsitektur dan melanjutkan studi di INSEAD.<br><br></P>
+                        
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id='modalKenjiNarushima' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Kenji-Narushima-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-6' style="padding-left: 1.8em; ">
+                        <h1>Kenji Narushima</h1>
+                        <p class='position'>Komisaris</p>
+                        <p class='description mt-5'>Kenji Narushima bergabung dengan PT Mitra Pinasthika Mustika Rent (MPMRent) pada Juni 2022 sebagai Komisaris MPMRent. Beliau memiliki lebih dari 16 tahun pengalaman bekerja di Private Equity Investments di infrastruktur (middle stream) seperti Transportasi (kapal/terminal), Energi (pembangkit listrik), dan lain sebagainya. Dan beralih ke Capital Investment.
+<p>
+Sebelum bergabung dengan MPMRent, beliau bekerja sebagai Chief Strategy Officer/Chief of Staff of Carro, perusahaan mobil bekas terbesar di Asia Tenggara.
+</P
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id='modalKelvinChng' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Pak Kelvin-Chng-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-6' style="padding-left: 1.8em; ">
+                        <h1>Kelvin Chng</h1>
+                        <p class='position'>Komisaris</p>
+                        <p class='description mt-5'>Kelvin Chng bergabung dengan PT Mitra Pinasthika Mustika Rent (MPMRent) pada Juni 2022 sebagai Komisaris MPMRent. Sebelum bergabung dengan MPMRent, beliau adalah adalah salah satu pendiri Carro, kemudian bekerja di Singapore Experian dan mengawali karir sebagai Business Development Manager di SAS pada tahun 2012.
+<p>
+Mengemban pendidikan teknik komputer, sistem informasi dan teknologi informasi, Kelvin Chng lulus dengan predikat Valedictorian Summa-cum-Laude dari Singapore Management University dan dianugerahi Beasiswa Infocomm Nasional Singapura untuk gelar Master dari Carnegie Mellon University.
+</p>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalJeremyOng' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Pak-jeremy-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-5' style="padding-right: 2em;">
+                        <h1>Jeremy Ong</h1>
+                        <p class='position'>Direktur Utama</p>
+                        <p class='description mt-5' style="font-size: 15px;">Beliau lulus dari Oxford University pada tahun 2013 dengan meraih gelar Sarjana di bidang Jurisprudence (Ilmu Hukum).
+<p>
+Pengalaman karir beliau sebelumnya, antara lain sebagai konsultan hukum pada Clifford Chance LLP di London selaku Financial Services Lawyer, sebagai Penasihat Hukum pada Shook Lin & Bok LLP di Singapura selaku Financial Services and M&A, sebagai Direktur pada PT Mobil Laku Indonesia (BeliMobilGue.co.id – OLX Group) selaku Director of Financial Services. Pada 2020 menjadi CEO Carro Indonesia dan pada 2 Juni 2022 menjadi CEO PT Mitra Pinasthika Mustika Rent (MPMRent).</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalDeviClarkMunthe' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Devi Clark Munthe</h1>
+                        <p class='position'>Direktur Operasional</p>
+                        <p class='description mt-5'>
+                         DDevi Clark Munthe menjabat sebagai Direktur Perseroan berdasarkan Keputusan Rapat Umum Pemegang Saham Luar Biasa tanggal 10 Oktober 2017. 
+                         <p>
+                         Beliau meraih gelar Sarjana Ilmu Sosial dan Politik dari Universitas Parahyangan (1997) dan melanjutkan pendidikan untuk meraih gelar Master of Management Program dari Universitas Indonesia (2000). Beliau memiliki pengalaman lebih dari 20 tahun di bidang Operation & Marketing. Sebelum bergabung dengan MPMRent, beliau pernah menjabat sebagai General Manager Operation PT Agility International (2010 – 2017). Sebelumnya beliau menjabat sebagai Senior Manager Operation and Marketing di PT Cardig Air (2008 – 2010) dan selama 7 (Tujuh) tahun beliau telah mensupervisi Departement Operation, Warehouse & Marketing di PT. Jasa Angkasa Semesta.
+                         </p>
+                         <p>
+                         Beliau tidak memiliki hubungan afiliasi dengan anggota Direksi lainnya, maupun dengan anggota Dewan Komisaris.
+                         </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id='modalAaronTan' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Aaron-Tan.png">
+                    </div>
+                    <div class='col-md-5' style="padding-left: 1.8em; ">
+                        <h1>Aaron Tan</h1>
+                        <p class='position'>Direktur</p>
+                        <p class='description mt-5' style="font-size: 13px;">Sebelum bergabung dengan MPMRent, beliau adalah pendiri dan Chief Executive Officer Carro, perusahaan otomotif yang menawarkan layanan full-stack untuk semua aspek kepemilikan mobil. Beliau memimpin perusahaan dengan pengalaman bertahun-tahun di ranah startup.
+<p>
+Aaron lulus dengan predikat Summa Cum Laude dengan gelar BSc dari Sekolah Sistem Informasi Universitas Manajemen Singapura, dan kemudian menerima beasiswa dari Otoritas Pengembangan Infocomm Singapura untuk Ilmu Komputer di Universitas Carnegie Mellon di mana beliau lulus dengan gelar MSc.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalErnestChew' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <img src="{assetsPath}/Ernest-Chew-300px.png" class="img-fluid">
+                    </div>
+                    <div class='col-md-5' style="padding-left: 1.8em; ">
+                        <h1>Ernest Chew</h1>
+                        <p class='position'>Direktur</p>
+                        <p class='description mt-5' style="font-size: 13px;">Ernest Chew saat ini menjabat sebagai Direktur di MPMRent. Ernest memiliki pengalaman luas di seluruh strategi, capital raising, pembiayaan, dan M&A/konsultasi. Beliau lulus dari University of Nottingham (Sarjana Teknik dengan First Class Honours) dan University of Cambridge (Magister Engineering). Ernest memiliki pengalaman kerja di Hong Kong/Asia, London, New York serta Asia Tenggara.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalMarchTeguhArmadi' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>March Teguh Armadi</h1>
+                        <p class='position'>Direktur Keuangan</p>
+                        <p class='description mt-5'>March Teguh Armadi menjabat sebagai Direktur Perseroan berdasarkan Keputusan Rapat Umum Pemegang Saham Luar Biasa tanggal 1 April 2020. Beliau meraih gelar Sarjana Ekonomi jurusan Akuntansi dari Universitas Atma Jaya. Beliau memiliki pengalaman lebih dari 18 tahun di bidang Keuangan & Audit. Beliau memulai awal karirnya sebagai auditor di KPMG dan Pricewaterhouse Coopers. 
+                        <p>Sebelum bergabung dengan MPMRent, beliau pernah menjabat sebagai Country Finance Manager di PT Knauf Gypsum Indonesia (2017 – 2019). Sebelumnya beliau menjabat sebagai Finance Controller di PT Gitaswara Indonesia (2016 – 2017), Head of Commercial Finance di PT Syngenta Indonesia dan beberapa jabatan strategis lainnya di perusahaan tersebut. Beliau tidak memiliki hubungan afiliasi dengan anggota Direksi lainnya, maupun dengan anggota Dewan Komisaris.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";}}

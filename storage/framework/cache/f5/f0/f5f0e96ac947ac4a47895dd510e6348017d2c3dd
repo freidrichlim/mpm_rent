@@ -1,0 +1,1252 @@
+1662682931a:1:{s:24:"about-us/about-us.jp.htm";a:6:{s:8:"fileName";s:24:"about-us/about-us.jp.htm";s:7:"content";s:29527:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>私たちは次のコアバリューにより
+                    信頼いただけるサービスをご提供いたします。
+                    責任あるサービス、優れたサービス、無駄のないサービス、誠実なサービス、順応性のあるサービス、より良いサービス、忠実なサービス、力づけるサービス。
+                    </h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/mpm-rent-building-bluesky.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>私たちは次のコアバリューにより
+                    信頼いただけるサービスをご提供いたします。
+                    責任あるサービス、優れたサービス、無駄のないサービス、誠実なサービス、順応性のあるサービス、より良いサービス、忠実なサービス、力づけるサービス。
+                    </h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-02@2x.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>私たちは次のコアバリューにより
+                    信頼いただけるサービスをご提供いたします。
+                    責任あるサービス、優れたサービス、無駄のないサービス、誠実なサービス、順応性のあるサービス、より良いサービス、忠実なサービス、力づけるサービス。
+                    </h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-03@2x.png">
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white cf-about">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-md-12 pt-3">
+                <div class="tabs-about-us">
+                    <div class="nav-tabs-center">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#about_us" role="tab" aria-controls="about_us" aria-selected="true">プロフィール</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="home-tab" data-toggle="tab" href="#management" role="tab" aria-controls="management" aria-selected="true">マネージメント</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_milestone" data-toggle="tab" href="#milestone" role="tab" aria-controls="milestone" aria-selected="false">マイルストーン</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_certivications_awards" data-toggle="tab" href="#certivications_awards" role="tab" aria-controls="certivications_awards" aria-selected="false">認証、受賞</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="about_us" role="tabpanel" aria-labelledby="about_us-tab">
+                            <div class="bg-orange-full">
+                                <div class="media-about-us">
+                                    <div class="media-body">
+                                        <p class='mb-5'>MPMグループの一員であるPT Mitra Pinasthika Mustika Rentは、輸送サービスをご提供している総合的なソリューションプロバイダーです。 インドネシアで最大のレンタルカー会社の1つとして、レンタカー事業につき細部までお客様のご懸念事項を把握し、ニーズに合わせた最高のサービスをご提供致します。
+                                        そのためにMPMRentでは、日本人のお客様専用の部署Japanese Client Business Unitを有しており。当部署では日本人スタッフが直接対応させて頂きます。弊社サービスは金融業、製造業、流通・物流業、およびインドネシアのその他の企業様にご利用いただいております。
+                                        </p>
+
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">ビジョン :</p>
+                                            <p>インドネシアで最も賞賛されるレンタカー会社</p>
+                                        </div>
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">ミッション :</p>
+                                            <p>格別な顧客満足、高品質の製品、優れたサービス、革新的なソリューションをご提供することで、お客様の最初の選択肢となる</p>
+                                        </div>
+                                    </div>
+                                    <div class="media-right">
+                                        <video width="320" height="240" controls>
+                                            <source src="{videoAssets}/mpm-rent-profile-30sec.webm" type="video/webm">
+                                        </video>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-flex card-flex--four mt-5">
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-totalfleet@2x.jpg"></div>
+                                        <div class="desc-list-about">
+                                            <h3>13000</h3>
+                                            <p>台の車両契約</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-drivers@2x.jpg"></div>
+                                        <div class="desc-list-about">
+                                            <h3>1500</h3>
+                                            <p>人の運転手契約</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/About-Maps-Nationwide@2x.png"></div>
+                                        <div class="desc-list-about">
+                                            <h3>インドネシア</h3>
+                                            <p>インドネシア全土におけるサービス提供</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-contactcenter@2x.jpg"></div>
+                                        <div class="desc-list-about">
+                                            <h3>コンタクトセンターr</h3>
+                                            <p>24時間年中無休の</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="milestone" role="tabpanel" aria-labelledby="milestone-tab">
+                            <div class="title-orange-tabs"></div>
+                            <div class="img-content">
+                                <video controls autoplay loop>
+                                    <source src="{videoAssets}/MPMR_Milestone_MG.webm" type="video/mp4">
+                                </video>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="certivications_awards" role="tabpanel" aria-labelledby="certivications_awards-tab">
+                            <div class="certifications-awards">
+                                <p>MPMRentは、顧客の満足と従業員の健康を確保するために、会社全体で安全な作業環境を維持することに重点を置いています</p>
+                                <p>MPMRentは、 <span style="color: #F26F21"><b>OHSAS 18001:2007, ISO 14001：2015</b></span> および <span style="color: #F26F21"><b>ISO 45001：2018</b></span> の認証を取得しています。.
+                                </p>
+                                <div class="row mt-5">
+                                    <div class="col-md-6">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">安全と衛生認証</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/ISO 14001 & 45001 MPM Rent.jpg">
+                                                    <span>ISO 14001:2015 & ISO 45001:2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 2@2x.png">
+                                                    <span>Awarded by Governor of Banten (2019) (Health & Safety Award)</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award health from governor banten 2018.png">
+                                                    <span>Awarded by Governor of Banten (2018) (Health & Safety Award)</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mt100-sm">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">LKTP受賞</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-lg-6 offset-lg-3">
+                                                <div class="list-ca">
+                                                    <div class="list-ca">
+                                                        <img src="{assetsPath}/Penghargaan Menteri Perdagangan Republik Indonesia.png">
+                                                        <span>Awarded by Menteri Perdagangan RI</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row row-list-btm">
+                                    <div class="col-md-12">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">安全と衛生認証</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 3@2x.png">
+                                                    <span>Awarded by Walikota Tangerang Selatan 2017</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Ministry of Manpower 2018.png">
+                                                    <span>Awarded by Ministry of Manpower 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 6@2x.png">
+                                                    <span>Awarded by Governor of Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 7@2x.png">
+                                                    <span>Awarded by Governor of Banten 2019</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Piagam Keselamatan kerja MPM Rent.png">
+                                                    <span>Charter by Governor of Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award from governor banten 2018.png">
+                                                    <span>Charter by Governor of Banten 2018</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="management" role="tabpanel" aria-labelledby="management-tab">
+                            <div class="card-flex card-flex--five mt-5">
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_5C_ Bp. Ivan H@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Ivan Hindarko</div>
+                                    <div class='manajemen-position'>Chief Executive Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalIvanHindarko">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_4_Oky Gunawan@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Oky Gunawan</div>
+                                    <div class='manajemen-position'>Chief Commercial Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalOkyGunawan">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Devi Clark Munthe</div>
+                                    <div class='manajemen-position'>Chief Operation Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalDeviClarkMunthe">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_3B_Bp. Y. Horigome@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Yoshiya Horigome</div>
+                                    <div class='manajemen-position'>Chief Commercial Officer - JCBU</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalYoshiyaHorigome">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>March Teguh Armadi</div>
+                                    <div class='manajemen-position'>Chief Financial Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalMarchTeguhArmadi">プロフィールを見る ></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalIvanHindarko' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_5C_ Bp. Ivan H@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Ivan Hindarko</h1>
+                        <p class='position'>Chief Executive Officer</p>
+                        <p class='description mt-5'>Bp. Ivan has had more than eighteen years of extensive working experinece, encompassing virtually all facets of business, from general management, corporate strategy, business development and joint venture, to merger & acquisition and B2B sales, in prominent companies in their respective industry.<br><br> 
+
+                        Prior to joining MPM, Bp. Ivan was Country Director at Carfill Indonesia since early 2018, who had full accountability of country's P&L. <br><br>
+
+                        Between 2013 and 2018, Bp. Ivan was with Sinarmas Agribusiness & Food (Golden Agri Resources) as its Director as well asa heading Corporate Business Development and Strategic Planning where he led the company's joint venture and M&A initiatives. Moving back further, Bp. Ivan was with Sampoerna (Phillip Morris International) between 2005 and 2013, Bentoel Prima (British American Tobacco) between 2003 and 2005, and Asia Pulp & Paper between 2001 and 2003. <br><br>
+
+                        Bp. Ivan acquited his Bachelor's Degree in Civil Engineering from Brawijaya University, and Executive Education from National University of Singapore.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalOkyGunawan' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_4_Oky Gunawan@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Oky Gunawan</h1>
+                        <p class='position'>Chief Commercial Officer</p>
+                        <p class='description mt-5'>Oky Gunawan serves as Director of the Company based on the Resolution of the Extraordinary General Meeting of Shareholders on December 5, 2017. He holds a Bachelor's degree in Economics from Parahyangan University (1996).<br><br>
+
+                        He has more than 20 years of experience in Sales & Marketing. Prior to joining MPMRent, he served as Head of Sales and Marketing at PT LG Electronic (2016 - 2017).<br><br>
+
+                       Previously he served as Country Head at PT Sony Communication Indonesia and in several other strategic positions in the Banking, FMCG and Mobile phone industries. He has no affiliation with other members of the Board of Directors or members of the Board of Commissioners.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalDeviClarkMunthe' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Devi Clark Munthe</h1>
+                        <p class='position'>Chief Operation Officer</p>
+                        <p class='description mt-5'>
+                         Devi Clark Munthe serves as Director of the Company based on the Resolution of the Extraordinary General Meeting of Shareholders on October 10, 2017.<br><br>
+
+                         He holds a Bachelor of Social and Political Science from Parahyangan University (1997) and continued his education to obtain a Master of Management Program from the University of Indonesia (2000). He has more than 20 years of experience in the Operation & Marketing field. Prior to joining MPMRent, he served as General Manager Operation of PT Agility International (2010 - 2017).<br><br>
+
+                         Sebelumnya beliau menjabat sebagai Senior Manager Operation and Marketing di PT Cardig Air (2008 – 2010) dan selama 7 (Tujuh) tahun beliau telah mensupervisi Departement Operation, Warehouse & Marketing di PT. Jasa Angkasa Semesta. Beliau tidak memiliki hubungan afiliasi dengan anggota Direksi lainnya, maupun dengan anggota Dewan Komisaris.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalYoshiyaHorigome' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_3B_Bp. Y. Horigome@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Yoshiya Horigome</h1>
+                        <p class='position'>Chief Commercial Officer - JCBU</p>
+                        <p class='description mt-5'>Horigome joined MPM group in Oct 2014, as a President director of MPMAuto.<br><br>
+
+                         Before he joined MPM, his experience was working for global automotive companies in its headquarters over 20 years, managing South East Asia markets as general manager role in Nissan Motor Company (Yokohama), and Mazda Motor Corporation (Hiroshima).  He had international assignments as Executive Vice president representing Indonesia market for PT Nissan Motor Indonesia during 2012 to 2014.  As well, during Mazda Motor Corporation tenure, he was a President Director for PT Mazda Motor Indonesia (2006 to 2011).<br><br>
+
+                         B.A. in Sociology California Lutheran University (Thousand Oaks, Calif USA)<br>
+                         MBA Waseda University (Tokyo, Japan)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalMarchTeguhArmadi' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>March Teguh Armadi</h1>
+                        <p class='position'>Chief Financial Officer</p>
+                        <p class='description mt-5'>March Teguh Armadi serves as Director of the Company based on the Resolution of the Extraordinary General Meeting of Shareholders on April 1, 2020.<br><br>
+
+                        He holds a Bachelor of Economics degree majoring in Accounting from Atma Jaya University. He has more than 18 years of experience in Finance & Audit. He started his early career as an auditor at KPMG and Pricewaterhouse Coopers. Prior to joining MPMRent, he served as Country Finance Manager at PT Knauf Gypsum Indonesia (2017 - 2019).<br><br>
+
+                        Previously he served as Finance Controller at PT Gitaswara Indonesia (2016 - 2017), Head of Commercial Finance at PT Syngenta Indonesia and several other strategic positions at the company. He has no affiliation with other members of the Board of Directors or members of the Board of Commissioners.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1654485926;s:6:"markup";s:29527:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>私たちは次のコアバリューにより
+                    信頼いただけるサービスをご提供いたします。
+                    責任あるサービス、優れたサービス、無駄のないサービス、誠実なサービス、順応性のあるサービス、より良いサービス、忠実なサービス、力づけるサービス。
+                    </h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/mpm-rent-building-bluesky.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>私たちは次のコアバリューにより
+                    信頼いただけるサービスをご提供いたします。
+                    責任あるサービス、優れたサービス、無駄のないサービス、誠実なサービス、順応性のあるサービス、より良いサービス、忠実なサービス、力づけるサービス。
+                    </h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-02@2x.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>私たちは次のコアバリューにより
+                    信頼いただけるサービスをご提供いたします。
+                    責任あるサービス、優れたサービス、無駄のないサービス、誠実なサービス、順応性のあるサービス、より良いサービス、忠実なサービス、力づけるサービス。
+                    </h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-03@2x.png">
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white cf-about">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-md-12 pt-3">
+                <div class="tabs-about-us">
+                    <div class="nav-tabs-center">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#about_us" role="tab" aria-controls="about_us" aria-selected="true">プロフィール</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="home-tab" data-toggle="tab" href="#management" role="tab" aria-controls="management" aria-selected="true">マネージメント</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_milestone" data-toggle="tab" href="#milestone" role="tab" aria-controls="milestone" aria-selected="false">マイルストーン</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_certivications_awards" data-toggle="tab" href="#certivications_awards" role="tab" aria-controls="certivications_awards" aria-selected="false">認証、受賞</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="about_us" role="tabpanel" aria-labelledby="about_us-tab">
+                            <div class="bg-orange-full">
+                                <div class="media-about-us">
+                                    <div class="media-body">
+                                        <p class='mb-5'>MPMグループの一員であるPT Mitra Pinasthika Mustika Rentは、輸送サービスをご提供している総合的なソリューションプロバイダーです。 インドネシアで最大のレンタルカー会社の1つとして、レンタカー事業につき細部までお客様のご懸念事項を把握し、ニーズに合わせた最高のサービスをご提供致します。
+                                        そのためにMPMRentでは、日本人のお客様専用の部署Japanese Client Business Unitを有しており。当部署では日本人スタッフが直接対応させて頂きます。弊社サービスは金融業、製造業、流通・物流業、およびインドネシアのその他の企業様にご利用いただいております。
+                                        </p>
+
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">ビジョン :</p>
+                                            <p>インドネシアで最も賞賛されるレンタカー会社</p>
+                                        </div>
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">ミッション :</p>
+                                            <p>格別な顧客満足、高品質の製品、優れたサービス、革新的なソリューションをご提供することで、お客様の最初の選択肢となる</p>
+                                        </div>
+                                    </div>
+                                    <div class="media-right">
+                                        <video width="320" height="240" controls>
+                                            <source src="{videoAssets}/mpm-rent-profile-30sec.webm" type="video/webm">
+                                        </video>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-flex card-flex--four mt-5">
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-totalfleet@2x.jpg"></div>
+                                        <div class="desc-list-about">
+                                            <h3>13000</h3>
+                                            <p>台の車両契約</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-drivers@2x.jpg"></div>
+                                        <div class="desc-list-about">
+                                            <h3>1500</h3>
+                                            <p>人の運転手契約</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/About-Maps-Nationwide@2x.png"></div>
+                                        <div class="desc-list-about">
+                                            <h3>インドネシア</h3>
+                                            <p>インドネシア全土におけるサービス提供</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-contactcenter@2x.jpg"></div>
+                                        <div class="desc-list-about">
+                                            <h3>コンタクトセンターr</h3>
+                                            <p>24時間年中無休の</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="milestone" role="tabpanel" aria-labelledby="milestone-tab">
+                            <div class="title-orange-tabs"></div>
+                            <div class="img-content">
+                                <video controls autoplay loop>
+                                    <source src="{videoAssets}/MPMR_Milestone_MG.webm" type="video/mp4">
+                                </video>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="certivications_awards" role="tabpanel" aria-labelledby="certivications_awards-tab">
+                            <div class="certifications-awards">
+                                <p>MPMRentは、顧客の満足と従業員の健康を確保するために、会社全体で安全な作業環境を維持することに重点を置いています</p>
+                                <p>MPMRentは、 <span style="color: #F26F21"><b>OHSAS 18001:2007, ISO 14001：2015</b></span> および <span style="color: #F26F21"><b>ISO 45001：2018</b></span> の認証を取得しています。.
+                                </p>
+                                <div class="row mt-5">
+                                    <div class="col-md-6">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">安全と衛生認証</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/ISO 14001 & 45001 MPM Rent.jpg">
+                                                    <span>ISO 14001:2015 & ISO 45001:2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 2@2x.png">
+                                                    <span>Awarded by Governor of Banten (2019) (Health & Safety Award)</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award health from governor banten 2018.png">
+                                                    <span>Awarded by Governor of Banten (2018) (Health & Safety Award)</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mt100-sm">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">LKTP受賞</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-lg-6 offset-lg-3">
+                                                <div class="list-ca">
+                                                    <div class="list-ca">
+                                                        <img src="{assetsPath}/Penghargaan Menteri Perdagangan Republik Indonesia.png">
+                                                        <span>Awarded by Menteri Perdagangan RI</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row row-list-btm">
+                                    <div class="col-md-12">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">安全と衛生認証</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 3@2x.png">
+                                                    <span>Awarded by Walikota Tangerang Selatan 2017</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Ministry of Manpower 2018.png">
+                                                    <span>Awarded by Ministry of Manpower 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 6@2x.png">
+                                                    <span>Awarded by Governor of Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 7@2x.png">
+                                                    <span>Awarded by Governor of Banten 2019</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Piagam Keselamatan kerja MPM Rent.png">
+                                                    <span>Charter by Governor of Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award from governor banten 2018.png">
+                                                    <span>Charter by Governor of Banten 2018</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="management" role="tabpanel" aria-labelledby="management-tab">
+                            <div class="card-flex card-flex--five mt-5">
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_5C_ Bp. Ivan H@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Ivan Hindarko</div>
+                                    <div class='manajemen-position'>Chief Executive Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalIvanHindarko">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_4_Oky Gunawan@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Oky Gunawan</div>
+                                    <div class='manajemen-position'>Chief Commercial Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalOkyGunawan">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Devi Clark Munthe</div>
+                                    <div class='manajemen-position'>Chief Operation Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalDeviClarkMunthe">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_3B_Bp. Y. Horigome@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Yoshiya Horigome</div>
+                                    <div class='manajemen-position'>Chief Commercial Officer - JCBU</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalYoshiyaHorigome">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>March Teguh Armadi</div>
+                                    <div class='manajemen-position'>Chief Financial Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalMarchTeguhArmadi">プロフィールを見る ></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalIvanHindarko' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_5C_ Bp. Ivan H@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Ivan Hindarko</h1>
+                        <p class='position'>Chief Executive Officer</p>
+                        <p class='description mt-5'>Bp. Ivan has had more than eighteen years of extensive working experinece, encompassing virtually all facets of business, from general management, corporate strategy, business development and joint venture, to merger & acquisition and B2B sales, in prominent companies in their respective industry.<br><br> 
+
+                        Prior to joining MPM, Bp. Ivan was Country Director at Carfill Indonesia since early 2018, who had full accountability of country's P&L. <br><br>
+
+                        Between 2013 and 2018, Bp. Ivan was with Sinarmas Agribusiness & Food (Golden Agri Resources) as its Director as well asa heading Corporate Business Development and Strategic Planning where he led the company's joint venture and M&A initiatives. Moving back further, Bp. Ivan was with Sampoerna (Phillip Morris International) between 2005 and 2013, Bentoel Prima (British American Tobacco) between 2003 and 2005, and Asia Pulp & Paper between 2001 and 2003. <br><br>
+
+                        Bp. Ivan acquited his Bachelor's Degree in Civil Engineering from Brawijaya University, and Executive Education from National University of Singapore.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalOkyGunawan' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_4_Oky Gunawan@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Oky Gunawan</h1>
+                        <p class='position'>Chief Commercial Officer</p>
+                        <p class='description mt-5'>Oky Gunawan serves as Director of the Company based on the Resolution of the Extraordinary General Meeting of Shareholders on December 5, 2017. He holds a Bachelor's degree in Economics from Parahyangan University (1996).<br><br>
+
+                        He has more than 20 years of experience in Sales & Marketing. Prior to joining MPMRent, he served as Head of Sales and Marketing at PT LG Electronic (2016 - 2017).<br><br>
+
+                       Previously he served as Country Head at PT Sony Communication Indonesia and in several other strategic positions in the Banking, FMCG and Mobile phone industries. He has no affiliation with other members of the Board of Directors or members of the Board of Commissioners.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalDeviClarkMunthe' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Devi Clark Munthe</h1>
+                        <p class='position'>Chief Operation Officer</p>
+                        <p class='description mt-5'>
+                         Devi Clark Munthe serves as Director of the Company based on the Resolution of the Extraordinary General Meeting of Shareholders on October 10, 2017.<br><br>
+
+                         He holds a Bachelor of Social and Political Science from Parahyangan University (1997) and continued his education to obtain a Master of Management Program from the University of Indonesia (2000). He has more than 20 years of experience in the Operation & Marketing field. Prior to joining MPMRent, he served as General Manager Operation of PT Agility International (2010 - 2017).<br><br>
+
+                         Sebelumnya beliau menjabat sebagai Senior Manager Operation and Marketing di PT Cardig Air (2008 – 2010) dan selama 7 (Tujuh) tahun beliau telah mensupervisi Departement Operation, Warehouse & Marketing di PT. Jasa Angkasa Semesta. Beliau tidak memiliki hubungan afiliasi dengan anggota Direksi lainnya, maupun dengan anggota Dewan Komisaris.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalYoshiyaHorigome' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_3B_Bp. Y. Horigome@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Yoshiya Horigome</h1>
+                        <p class='position'>Chief Commercial Officer - JCBU</p>
+                        <p class='description mt-5'>Horigome joined MPM group in Oct 2014, as a President director of MPMAuto.<br><br>
+
+                         Before he joined MPM, his experience was working for global automotive companies in its headquarters over 20 years, managing South East Asia markets as general manager role in Nissan Motor Company (Yokohama), and Mazda Motor Corporation (Hiroshima).  He had international assignments as Executive Vice president representing Indonesia market for PT Nissan Motor Indonesia during 2012 to 2014.  As well, during Mazda Motor Corporation tenure, he was a President Director for PT Mazda Motor Indonesia (2006 to 2011).<br><br>
+
+                         B.A. in Sociology California Lutheran University (Thousand Oaks, Calif USA)<br>
+                         MBA Waseda University (Tokyo, Japan)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalMarchTeguhArmadi' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>March Teguh Armadi</h1>
+                        <p class='position'>Chief Financial Officer</p>
+                        <p class='description mt-5'>March Teguh Armadi serves as Director of the Company based on the Resolution of the Extraordinary General Meeting of Shareholders on April 1, 2020.<br><br>
+
+                        He holds a Bachelor of Economics degree majoring in Accounting from Atma Jaya University. He has more than 18 years of experience in Finance & Audit. He started his early career as an auditor at KPMG and Pricewaterhouse Coopers. Prior to joining MPMRent, he served as Country Finance Manager at PT Knauf Gypsum Indonesia (2017 - 2019).<br><br>
+
+                        Previously he served as Finance Controller at PT Gitaswara Indonesia (2016 - 2017), Head of Commercial Finance at PT Syngenta Indonesia and several other strategic positions at the company. He has no affiliation with other members of the Board of Directors or members of the Board of Commissioners.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:29527:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>私たちは次のコアバリューにより
+                    信頼いただけるサービスをご提供いたします。
+                    責任あるサービス、優れたサービス、無駄のないサービス、誠実なサービス、順応性のあるサービス、より良いサービス、忠実なサービス、力づけるサービス。
+                    </h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/mpm-rent-building-bluesky.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>私たちは次のコアバリューにより
+                    信頼いただけるサービスをご提供いたします。
+                    責任あるサービス、優れたサービス、無駄のないサービス、誠実なサービス、順応性のあるサービス、より良いサービス、忠実なサービス、力づけるサービス。
+                    </h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-02@2x.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>私たちは次のコアバリューにより
+                    信頼いただけるサービスをご提供いたします。
+                    責任あるサービス、優れたサービス、無駄のないサービス、誠実なサービス、順応性のあるサービス、より良いサービス、忠実なサービス、力づけるサービス。
+                    </h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-About-03@2x.png">
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white cf-about">
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-md-12 pt-3">
+                <div class="tabs-about-us">
+                    <div class="nav-tabs-center">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#about_us" role="tab" aria-controls="about_us" aria-selected="true">プロフィール</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="home-tab" data-toggle="tab" href="#management" role="tab" aria-controls="management" aria-selected="true">マネージメント</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_milestone" data-toggle="tab" href="#milestone" role="tab" aria-controls="milestone" aria-selected="false">マイルストーン</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="tab_certivications_awards" data-toggle="tab" href="#certivications_awards" role="tab" aria-controls="certivications_awards" aria-selected="false">認証、受賞</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="about_us" role="tabpanel" aria-labelledby="about_us-tab">
+                            <div class="bg-orange-full">
+                                <div class="media-about-us">
+                                    <div class="media-body">
+                                        <p class='mb-5'>MPMグループの一員であるPT Mitra Pinasthika Mustika Rentは、輸送サービスをご提供している総合的なソリューションプロバイダーです。 インドネシアで最大のレンタルカー会社の1つとして、レンタカー事業につき細部までお客様のご懸念事項を把握し、ニーズに合わせた最高のサービスをご提供致します。
+                                        そのためにMPMRentでは、日本人のお客様専用の部署Japanese Client Business Unitを有しており。当部署では日本人スタッフが直接対応させて頂きます。弊社サービスは金融業、製造業、流通・物流業、およびインドネシアのその他の企業様にご利用いただいております。
+                                        </p>
+
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">ビジョン :</p>
+                                            <p>インドネシアで最も賞賛されるレンタカー会社</p>
+                                        </div>
+                                        <div class='mb-5'>
+                                            <p class="font-weight-bold m-0">ミッション :</p>
+                                            <p>格別な顧客満足、高品質の製品、優れたサービス、革新的なソリューションをご提供することで、お客様の最初の選択肢となる</p>
+                                        </div>
+                                    </div>
+                                    <div class="media-right">
+                                        <video width="320" height="240" controls>
+                                            <source src="{videoAssets}/mpm-rent-profile-30sec.webm" type="video/webm">
+                                        </video>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-flex card-flex--four mt-5">
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-totalfleet@2x.jpg"></div>
+                                        <div class="desc-list-about">
+                                            <h3>13000</h3>
+                                            <p>台の車両契約</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-drivers@2x.jpg"></div>
+                                        <div class="desc-list-about">
+                                            <h3>1500</h3>
+                                            <p>人の運転手契約</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/About-Maps-Nationwide@2x.png"></div>
+                                        <div class="desc-list-about">
+                                            <h3>インドネシア</h3>
+                                            <p>インドネシア全土におけるサービス提供</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-about">
+                                        <div class="thumbnail"><img src="{assetsPath}/img-contactcenter@2x.jpg"></div>
+                                        <div class="desc-list-about">
+                                            <h3>コンタクトセンターr</h3>
+                                            <p>24時間年中無休の</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="milestone" role="tabpanel" aria-labelledby="milestone-tab">
+                            <div class="title-orange-tabs"></div>
+                            <div class="img-content">
+                                <video controls autoplay loop>
+                                    <source src="{videoAssets}/MPMR_Milestone_MG.webm" type="video/mp4">
+                                </video>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="certivications_awards" role="tabpanel" aria-labelledby="certivications_awards-tab">
+                            <div class="certifications-awards">
+                                <p>MPMRentは、顧客の満足と従業員の健康を確保するために、会社全体で安全な作業環境を維持することに重点を置いています</p>
+                                <p>MPMRentは、 <span style="color: #F26F21"><b>OHSAS 18001:2007, ISO 14001：2015</b></span> および <span style="color: #F26F21"><b>ISO 45001：2018</b></span> の認証を取得しています。.
+                                </p>
+                                <div class="row mt-5">
+                                    <div class="col-md-6">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">安全と衛生認証</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/ISO 14001 & 45001 MPM Rent.jpg">
+                                                    <span>ISO 14001:2015 & ISO 45001:2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 2@2x.png">
+                                                    <span>Awarded by Governor of Banten (2019) (Health & Safety Award)</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award health from governor banten 2018.png">
+                                                    <span>Awarded by Governor of Banten (2018) (Health & Safety Award)</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mt100-sm">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">LKTP受賞</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 col-lg-6 offset-lg-3">
+                                                <div class="list-ca">
+                                                    <div class="list-ca">
+                                                        <img src="{assetsPath}/Penghargaan Menteri Perdagangan Republik Indonesia.png">
+                                                        <span>Awarded by Menteri Perdagangan RI</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row row-list-btm">
+                                    <div class="col-md-12">
+                                        <div class="text-center">
+                                            <div class="title-w-ca">安全と衛生認証</div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 3@2x.png">
+                                                    <span>Awarded by Walikota Tangerang Selatan 2017</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Ministry of Manpower 2018.png">
+                                                    <span>Awarded by Ministry of Manpower 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 6@2x.png">
+                                                    <span>Awarded by Governor of Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Image 7@2x.png">
+                                                    <span>Awarded by Governor of Banten 2019</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/Piagam Keselamatan kerja MPM Rent.png">
+                                                    <span>Charter by Governor of Banten 2018</span>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-3 col-sm-6">
+                                                <div class="list-ca">
+                                                    <img src="{assetsPath}/award from governor banten 2018.png">
+                                                    <span>Charter by Governor of Banten 2018</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="management" role="tabpanel" aria-labelledby="management-tab">
+                            <div class="card-flex card-flex--five mt-5">
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_5C_ Bp. Ivan H@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Ivan Hindarko</div>
+                                    <div class='manajemen-position'>Chief Executive Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalIvanHindarko">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_4_Oky Gunawan@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Oky Gunawan</div>
+                                    <div class='manajemen-position'>Chief Commercial Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalOkyGunawan">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Devi Clark Munthe</div>
+                                    <div class='manajemen-position'>Chief Operation Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalDeviClarkMunthe">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_3B_Bp. Y. Horigome@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>Yoshiya Horigome</div>
+                                    <div class='manajemen-position'>Chief Commercial Officer - JCBU</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalYoshiyaHorigome">プロフィールを見る ></a></div>
+                                </div>
+                                <div class="card-flex-item">
+                                    <div class="f-list-manajemen">
+                                        <div class="thumbnail-photos"><img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x.png"></div>
+                                    </div>
+                                    <div class='manajemen-name mt-2'>March Teguh Armadi</div>
+                                    <div class='manajemen-position'>Chief Financial Officer</div>
+                                    <div class="manajemen-visit"><a data-toggle="modal" data-target="#modalMarchTeguhArmadi">プロフィールを見る ></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalIvanHindarko' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_5C_ Bp. Ivan H@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Ivan Hindarko</h1>
+                        <p class='position'>Chief Executive Officer</p>
+                        <p class='description mt-5'>Bp. Ivan has had more than eighteen years of extensive working experinece, encompassing virtually all facets of business, from general management, corporate strategy, business development and joint venture, to merger & acquisition and B2B sales, in prominent companies in their respective industry.<br><br> 
+
+                        Prior to joining MPM, Bp. Ivan was Country Director at Carfill Indonesia since early 2018, who had full accountability of country's P&L. <br><br>
+
+                        Between 2013 and 2018, Bp. Ivan was with Sinarmas Agribusiness & Food (Golden Agri Resources) as its Director as well asa heading Corporate Business Development and Strategic Planning where he led the company's joint venture and M&A initiatives. Moving back further, Bp. Ivan was with Sampoerna (Phillip Morris International) between 2005 and 2013, Bentoel Prima (British American Tobacco) between 2003 and 2005, and Asia Pulp & Paper between 2001 and 2003. <br><br>
+
+                        Bp. Ivan acquited his Bachelor's Degree in Civil Engineering from Brawijaya University, and Executive Education from National University of Singapore.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalOkyGunawan' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_4_Oky Gunawan@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Oky Gunawan</h1>
+                        <p class='position'>Chief Commercial Officer</p>
+                        <p class='description mt-5'>Oky Gunawan serves as Director of the Company based on the Resolution of the Extraordinary General Meeting of Shareholders on December 5, 2017. He holds a Bachelor's degree in Economics from Parahyangan University (1996).<br><br>
+
+                        He has more than 20 years of experience in Sales & Marketing. Prior to joining MPMRent, he served as Head of Sales and Marketing at PT LG Electronic (2016 - 2017).<br><br>
+
+                       Previously he served as Country Head at PT Sony Communication Indonesia and in several other strategic positions in the Banking, FMCG and Mobile phone industries. He has no affiliation with other members of the Board of Directors or members of the Board of Commissioners.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalDeviClarkMunthe' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_1B_Bp. Devi Munthe@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Devi Clark Munthe</h1>
+                        <p class='position'>Chief Operation Officer</p>
+                        <p class='description mt-5'>
+                         Devi Clark Munthe serves as Director of the Company based on the Resolution of the Extraordinary General Meeting of Shareholders on October 10, 2017.<br><br>
+
+                         He holds a Bachelor of Social and Political Science from Parahyangan University (1997) and continued his education to obtain a Master of Management Program from the University of Indonesia (2000). He has more than 20 years of experience in the Operation & Marketing field. Prior to joining MPMRent, he served as General Manager Operation of PT Agility International (2010 - 2017).<br><br>
+
+                         Sebelumnya beliau menjabat sebagai Senior Manager Operation and Marketing di PT Cardig Air (2008 – 2010) dan selama 7 (Tujuh) tahun beliau telah mensupervisi Departement Operation, Warehouse & Marketing di PT. Jasa Angkasa Semesta. Beliau tidak memiliki hubungan afiliasi dengan anggota Direksi lainnya, maupun dengan anggota Dewan Komisaris.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalYoshiyaHorigome' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_3B_Bp. Y. Horigome@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>Yoshiya Horigome</h1>
+                        <p class='position'>Chief Commercial Officer - JCBU</p>
+                        <p class='description mt-5'>Horigome joined MPM group in Oct 2014, as a President director of MPMAuto.<br><br>
+
+                         Before he joined MPM, his experience was working for global automotive companies in its headquarters over 20 years, managing South East Asia markets as general manager role in Nissan Motor Company (Yokohama), and Mazda Motor Corporation (Hiroshima).  He had international assignments as Executive Vice president representing Indonesia market for PT Nissan Motor Indonesia during 2012 to 2014.  As well, during Mazda Motor Corporation tenure, he was a President Director for PT Mazda Motor Indonesia (2006 to 2011).<br><br>
+
+                         B.A. in Sociology California Lutheran University (Thousand Oaks, Calif USA)<br>
+                         MBA Waseda University (Tokyo, Japan)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id='modalMarchTeguhArmadi' class="modal fade detail-profile" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class='row'>
+                    <div class='col-md-4'>
+                        <img src="{assetsPath}/BOD_2B_Bp. March T. Armadi@2x - 2.png">
+                    </div>
+                    <div class='col-md-6'>
+                        <h1>March Teguh Armadi</h1>
+                        <p class='position'>Chief Financial Officer</p>
+                        <p class='description mt-5'>March Teguh Armadi serves as Director of the Company based on the Resolution of the Extraordinary General Meeting of Shareholders on April 1, 2020.<br><br>
+
+                        He holds a Bachelor of Economics degree majoring in Accounting from Atma Jaya University. He has more than 18 years of experience in Finance & Audit. He started his early career as an auditor at KPMG and Pricewaterhouse Coopers. Prior to joining MPMRent, he served as Country Finance Manager at PT Knauf Gypsum Indonesia (2017 - 2019).<br><br>
+
+                        Previously he served as Finance Controller at PT Gitaswara Indonesia (2016 - 2017), Head of Commercial Finance at PT Syngenta Indonesia and several other strategic positions at the company. He has no affiliation with other members of the Board of Directors or members of the Board of Commissioners.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";}}

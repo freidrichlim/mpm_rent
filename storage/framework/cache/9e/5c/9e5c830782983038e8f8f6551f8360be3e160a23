@@ -1,0 +1,210 @@
+1662721680a:1:{s:15:"site/header.htm";a:6:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:7272:"[localePicker]
+forceUrl = 1
+==
+<nav id="layout-nav" class="navbar navbar-expand-lg fixed-top shadow navbar-light" role="navigation">
+	<div class="nav-dark-top {% if activeLocale == 'jp' %} jcbu-header {% endif %}">
+	    <div class="container">
+	        <div class="top-contact">
+	            <span class="f-cc">
+	            	{% if activeLocale == 'en' or activeLocale == 'id' %}
+		            	<a href="{{ 'order'|page }}" class="btn btn-orange rent-btn mr-3">{{ 'rent.now'|_ }}</a>
+	            	{% endif %}
+                	{% if activeLocale == 'en' or activeLocale == 'id' %}
+		                <span class="contact-center">
+		                    	<span>{{ 'contact.center'|_ }}</span> <img src="{{ 'assets/images/MPMR_24-7_icon@2x.png'|theme }}">
+		                </span>
+		                <span class="no-contact"><a href='tel:1500068'>1500068</a></span>
+                    {% else %}
+	                    <span class="contact-center-jp">
+	                    	<p style="color: #F68C1F;">【日本人スタッフ対応窓口】　（日本語） <br><a href='tel:622153160077' class='phone-link'>+62-21-5316-0077</a> （営業時間 8:30～17:30）<br> <a href='tel:6281-122-499' class='phone-link'>+62-811-1225-499</a> （営業時間外）</p>
+		                </span>
+                	{% endif %}
+	            </span>
+	            <span class="flag mb-2 mt-2">
+	            	{% if activeLocale == 'en' or activeLocale == 'id' %}
+		                <a href="#" data-request="onSwitchLocale" data-request-data="locale: 'id'" class="{% if activeLocale == 'id' %} active {% endif %}"><img src="{{ 'assets/images/Flag_ID.png'|theme }}" alt="Bahasa Indonesia"></a>
+		                <!-- <a href="#" data-request="onSwitchLocale" data-request-data="locale: 'jp'" class="{# if activeLocale == 'jp' #} active {# endif #}"><img src="{{ 'assets/images/Flag_JPN.png'|theme }}" alt="Japan"></a> -->
+		                <a href="{{ url('jp/jcbu') }}"><img src="{{ 'assets/images/Flag_JPN.png'|theme }}" alt="Japan"></a>
+		                <a href="#" data-request="onSwitchLocale" data-request-data="locale: 'en'" class="{% if activeLocale == 'en' %} active {% endif %}"><img src="{{ 'assets/images/Flag-Eng.png'|theme }}" alt="English"></a>
+		            {% else %}
+		            	<a href="{{ url('id') }}"><img src="{{ 'assets/images/Flag_ID.png'|theme }}" alt="Bahasa Indonesia"></a>
+		                <a href="#" data-request="onSwitchLocale" data-request-data="locale: 'jp'" class="{% if activeLocale == 'jp' %} active {% endif %}"><img src="{{ 'assets/images/Flag_JPN.png'|theme }}" alt="Japan"></a>
+		                <a href="{{ url('en') }}"><img src="{{ 'assets/images/Flag-Eng.png'|theme }}" alt="English"></a>
+	                {% endif %}
+	            </span>
+	        </div>
+	    </div>
+	</div>
+	<div class="container {% if activeLocale == 'jp' %} py-3 {% endif %}">
+		<div class="d-flex align-items-center">
+			<a href="{{ 'homepage'|page }}" class="navbar-brand py-0">
+				<img src="{{ 'assets/images/logo.png'|theme }}" alt="Directory logo" class="logo">
+			</a>
+		</div>
+	  	{% if activeLocale == 'en' or activeLocale == 'id' %}
+	  	<button type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right collapsed"><i class="fa fa-bars"></i></button>
+	  <!-- Navbar Collapse -->
+		  	<div id="navbarCollapse" class="navbar-collapse collapse" style="">
+		    	<ul class="navbar-nav ml-auto">
+		      		<li class="nav-item {% if this.page.id == 'about-us' %}active{% endif %}">
+						<a class="nav-link dropdown-toggle" href="{{ 'about-us'|page }}" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'about.us'|_ }}</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="{{ 'about-us'|page }}">{{ 'profile'|_ }}</a>
+							<a class="dropdown-item tab_link" data-tab-id='#tab_management' href="{{ 'about-us'|page }}#tab_management">{{ 'management'|_ }}</a>
+							<a class="dropdown-item tab_link" data-tab-id='#tab_milestone' href="{{ 'about-us'|page }}#tab_milestone">{{ 'milestone'|_ }}</a>
+							<a class="dropdown-item tab_link" data-tab-id='#tab_certivications_awards' href="{{ 'about-us'|page }}#tab_certivications_awards">{{ 'certification.awards'|_ }}</a>
+						</div>
+					</li>
+		      		<li class="nav-item {% if this.page.id == 'services' %}active{% endif %}">
+						<a class="nav-link dropdown-toggle" href="{{ 'services'|page }}" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'services'|_ }}</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="{{ 'services'|page }}#long_term_rental">{{ 'long.term.rental'|_ }}</a>
+							<a class="dropdown-item" href="{{ 'services'|page }}#short_term_rental">{{ 'short.term.rental'|_ }}</a>
+							<a class="dropdown-item" href="{{ 'services'|page }}#fleet_management_system">{{ 'fleet.management.system'|_ }}</a>
+							<a class="dropdown-item" href="{{ 'services'|page }}#driver_services">{{ 'driver.services'|_ }}</a>
+							<a class="dropdown-item" id="auction_menu" href="{{ 'services'|page }}#auction_and_pre-owned_car">{{ 'auction.and.pre-owned.car'|_ }}</a>
+							<a class="dropdown-item" href="{{ url('jp/jcbu') }}">Japanese Client Business Unit (JCBU)</a>
+						</div>
+					</li>
+		      		<li class="nav-item {% if this.page.id == 'our-networks' %}active{% endif %}">
+		        		<a href="{{ 'our-networks'|page }}" class="nav-link">{{ 'our.networks'|_ }}</a>
+		      		</li>
+		      		<li class="nav-item {% if this.page.id == 'news' %}active{% endif %}">
+		        		<a href="{{ 'news'|page }}" class="nav-link">{{ 'news'|_ }}</a>
+		      		</li>
+		      		<li class="nav-item {% if this.page.id == 'career' %}active{% endif %}">
+		        		<a href="{{ 'career'|page }}" class="nav-link">{{ 'career'|_ }}</a>
+		      		</li>
+		      		<!-- <li class="nav-item {% if this.page.id == 'comapany-profile-form' %}active{% endif %}">
+						<a class="nav-link dropdown-toggle" href="{{ 'comapany-profile-form'|page }}" id="navbarDropdownDownload" role="button" aria-haspopup="true" aria-expanded="false">Download</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdownDownload">
+							<a class="dropdown-item" href="{{ 'comapany-profile-form'|page }}">Company Profile</a>
+						</div>
+					</li> -->
+		      		<li class="nav-item pr-lg-0 {% if this.page.id == 'contact' %}active{% endif %}">
+		        		<a href="{{ 'contact'|page }}" class="nav-link">{{ 'contact'|_ }}</a>
+		      		</li>
+		      		{% if activeLocale == 'en' or activeLocale == 'id' %}
+		      		<li class="nav-item d-lg-none m-rent-btn {% if this.page.id == 'order' %}active{% endif %}">
+		        		<a href="{{ 'order'|page }}" class="nav-link">{{ 'rent.now'|_ }}</a>
+		      		</li>
+		      		{% endif %}
+		    	</ul>
+		  	</div>
+		{% endif %}
+	</div>
+</nav>
+
+{% put scripts %}
+	<script type="text/javascript">
+		$(document).on('click', '#auction_menu', function() {
+			window.open(
+			  'https://www.auksi.co.id/',
+			  '_blank' // <- This is what makes it open in a new window.
+			);
+		});
+	</script>
+{% endput %}";s:5:"mtime";i:1655289292;s:6:"markup";s:7241:"<nav id="layout-nav" class="navbar navbar-expand-lg fixed-top shadow navbar-light" role="navigation">
+	<div class="nav-dark-top {% if activeLocale == 'jp' %} jcbu-header {% endif %}">
+	    <div class="container">
+	        <div class="top-contact">
+	            <span class="f-cc">
+	            	{% if activeLocale == 'en' or activeLocale == 'id' %}
+		            	<a href="{{ 'order'|page }}" class="btn btn-orange rent-btn mr-3">{{ 'rent.now'|_ }}</a>
+	            	{% endif %}
+                	{% if activeLocale == 'en' or activeLocale == 'id' %}
+		                <span class="contact-center">
+		                    	<span>{{ 'contact.center'|_ }}</span> <img src="{{ 'assets/images/MPMR_24-7_icon@2x.png'|theme }}">
+		                </span>
+		                <span class="no-contact"><a href='tel:1500068'>1500068</a></span>
+                    {% else %}
+	                    <span class="contact-center-jp">
+	                    	<p style="color: #F68C1F;">【日本人スタッフ対応窓口】　（日本語） <br><a href='tel:622153160077' class='phone-link'>+62-21-5316-0077</a> （営業時間 8:30～17:30）<br> <a href='tel:6281-122-499' class='phone-link'>+62-811-1225-499</a> （営業時間外）</p>
+		                </span>
+                	{% endif %}
+	            </span>
+	            <span class="flag mb-2 mt-2">
+	            	{% if activeLocale == 'en' or activeLocale == 'id' %}
+		                <a href="#" data-request="onSwitchLocale" data-request-data="locale: 'id'" class="{% if activeLocale == 'id' %} active {% endif %}"><img src="{{ 'assets/images/Flag_ID.png'|theme }}" alt="Bahasa Indonesia"></a>
+		                <!-- <a href="#" data-request="onSwitchLocale" data-request-data="locale: 'jp'" class="{# if activeLocale == 'jp' #} active {# endif #}"><img src="{{ 'assets/images/Flag_JPN.png'|theme }}" alt="Japan"></a> -->
+		                <a href="{{ url('jp/jcbu') }}"><img src="{{ 'assets/images/Flag_JPN.png'|theme }}" alt="Japan"></a>
+		                <a href="#" data-request="onSwitchLocale" data-request-data="locale: 'en'" class="{% if activeLocale == 'en' %} active {% endif %}"><img src="{{ 'assets/images/Flag-Eng.png'|theme }}" alt="English"></a>
+		            {% else %}
+		            	<a href="{{ url('id') }}"><img src="{{ 'assets/images/Flag_ID.png'|theme }}" alt="Bahasa Indonesia"></a>
+		                <a href="#" data-request="onSwitchLocale" data-request-data="locale: 'jp'" class="{% if activeLocale == 'jp' %} active {% endif %}"><img src="{{ 'assets/images/Flag_JPN.png'|theme }}" alt="Japan"></a>
+		                <a href="{{ url('en') }}"><img src="{{ 'assets/images/Flag-Eng.png'|theme }}" alt="English"></a>
+	                {% endif %}
+	            </span>
+	        </div>
+	    </div>
+	</div>
+	<div class="container {% if activeLocale == 'jp' %} py-3 {% endif %}">
+		<div class="d-flex align-items-center">
+			<a href="{{ 'homepage'|page }}" class="navbar-brand py-0">
+				<img src="{{ 'assets/images/logo.png'|theme }}" alt="Directory logo" class="logo">
+			</a>
+		</div>
+	  	{% if activeLocale == 'en' or activeLocale == 'id' %}
+	  	<button type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right collapsed"><i class="fa fa-bars"></i></button>
+	  <!-- Navbar Collapse -->
+		  	<div id="navbarCollapse" class="navbar-collapse collapse" style="">
+		    	<ul class="navbar-nav ml-auto">
+		      		<li class="nav-item {% if this.page.id == 'about-us' %}active{% endif %}">
+						<a class="nav-link dropdown-toggle" href="{{ 'about-us'|page }}" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'about.us'|_ }}</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="{{ 'about-us'|page }}">{{ 'profile'|_ }}</a>
+							<a class="dropdown-item tab_link" data-tab-id='#tab_management' href="{{ 'about-us'|page }}#tab_management">{{ 'management'|_ }}</a>
+							<a class="dropdown-item tab_link" data-tab-id='#tab_milestone' href="{{ 'about-us'|page }}#tab_milestone">{{ 'milestone'|_ }}</a>
+							<a class="dropdown-item tab_link" data-tab-id='#tab_certivications_awards' href="{{ 'about-us'|page }}#tab_certivications_awards">{{ 'certification.awards'|_ }}</a>
+						</div>
+					</li>
+		      		<li class="nav-item {% if this.page.id == 'services' %}active{% endif %}">
+						<a class="nav-link dropdown-toggle" href="{{ 'services'|page }}" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ 'services'|_ }}</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="{{ 'services'|page }}#long_term_rental">{{ 'long.term.rental'|_ }}</a>
+							<a class="dropdown-item" href="{{ 'services'|page }}#short_term_rental">{{ 'short.term.rental'|_ }}</a>
+							<a class="dropdown-item" href="{{ 'services'|page }}#fleet_management_system">{{ 'fleet.management.system'|_ }}</a>
+							<a class="dropdown-item" href="{{ 'services'|page }}#driver_services">{{ 'driver.services'|_ }}</a>
+							<a class="dropdown-item" id="auction_menu" href="{{ 'services'|page }}#auction_and_pre-owned_car">{{ 'auction.and.pre-owned.car'|_ }}</a>
+							<a class="dropdown-item" href="{{ url('jp/jcbu') }}">Japanese Client Business Unit (JCBU)</a>
+						</div>
+					</li>
+		      		<li class="nav-item {% if this.page.id == 'our-networks' %}active{% endif %}">
+		        		<a href="{{ 'our-networks'|page }}" class="nav-link">{{ 'our.networks'|_ }}</a>
+		      		</li>
+		      		<li class="nav-item {% if this.page.id == 'news' %}active{% endif %}">
+		        		<a href="{{ 'news'|page }}" class="nav-link">{{ 'news'|_ }}</a>
+		      		</li>
+		      		<li class="nav-item {% if this.page.id == 'career' %}active{% endif %}">
+		        		<a href="{{ 'career'|page }}" class="nav-link">{{ 'career'|_ }}</a>
+		      		</li>
+		      		<!-- <li class="nav-item {% if this.page.id == 'comapany-profile-form' %}active{% endif %}">
+						<a class="nav-link dropdown-toggle" href="{{ 'comapany-profile-form'|page }}" id="navbarDropdownDownload" role="button" aria-haspopup="true" aria-expanded="false">Download</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdownDownload">
+							<a class="dropdown-item" href="{{ 'comapany-profile-form'|page }}">Company Profile</a>
+						</div>
+					</li> -->
+		      		<li class="nav-item pr-lg-0 {% if this.page.id == 'contact' %}active{% endif %}">
+		        		<a href="{{ 'contact'|page }}" class="nav-link">{{ 'contact'|_ }}</a>
+		      		</li>
+		      		{% if activeLocale == 'en' or activeLocale == 'id' %}
+		      		<li class="nav-item d-lg-none m-rent-btn {% if this.page.id == 'order' %}active{% endif %}">
+		        		<a href="{{ 'order'|page }}" class="nav-link">{{ 'rent.now'|_ }}</a>
+		      		</li>
+		      		{% endif %}
+		    	</ul>
+		  	</div>
+		{% endif %}
+	</div>
+</nav>
+
+{% put scripts %}
+	<script type="text/javascript">
+		$(document).on('click', '#auction_menu', function() {
+			window.open(
+			  'https://www.auksi.co.id/',
+			  '_blank' // <- This is what makes it open in a new window.
+			);
+		});
+	</script>
+{% endput %}";s:4:"code";N;s:12:"localePicker";a:1:{s:8:"forceUrl";s:1:"1";}}}

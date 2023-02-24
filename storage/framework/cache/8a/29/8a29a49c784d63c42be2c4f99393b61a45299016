@@ -1,0 +1,8 @@
+1662721680a:1:{s:13:"site/chat.htm";a:6:{s:8:"fileName";s:13:"site/chat.htm";s:7:"content";s:678:"==
+<a href="https://wa.me/{{ 'whatsapp'|getSettings|replace({' ': '' }) }}?text={{ 'whatsapp_text'|getSettings }}" target="_blank" class="btn btn-wa"><img src="{{ 'assets/images/whatsapp.png'|theme }}"> <span>WhatsApp Business</span></a>
+<!--<a href="https://wa.me/6281381500068" class="btn btn-wa"><img src="{{ 'assets/images/whatsapp.png'|theme }}"> <span>WhatsApp Business</span></a>-->
+<!-- <a href="#" class="btn btn-live-chat"><img src="{{ 'assets/images/speech-bubble.png'|theme }}"> <span>Send Message</span></a> -->
+<!-- <a href="#" class="btn btn-live-chat" style="opacity: 0"><img src="{{ 'assets/images/speech-bubble.png'|theme }}"> <span>Live Chat</span></a> -->";s:5:"mtime";i:1654500477;s:6:"markup";s:675:"<a href="https://wa.me/{{ 'whatsapp'|getSettings|replace({' ': '' }) }}?text={{ 'whatsapp_text'|getSettings }}" target="_blank" class="btn btn-wa"><img src="{{ 'assets/images/whatsapp.png'|theme }}"> <span>WhatsApp Business</span></a>
+<!--<a href="https://wa.me/6281381500068" class="btn btn-wa"><img src="{{ 'assets/images/whatsapp.png'|theme }}"> <span>WhatsApp Business</span></a>-->
+<!-- <a href="#" class="btn btn-live-chat"><img src="{{ 'assets/images/speech-bubble.png'|theme }}"> <span>Send Message</span></a> -->
+<!-- <a href="#" class="btn btn-live-chat" style="opacity: 0"><img src="{{ 'assets/images/speech-bubble.png'|theme }}"> <span>Live Chat</span></a> -->";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

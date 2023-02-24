@@ -1,0 +1,622 @@
+1662713643a:1:{s:14:"faq/faq.jp.htm";a:6:{s:8:"fileName";s:14:"faq/faq.jp.htm";s:7:"content";s:14049:"<div class="container-fluid page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="text-content">
+                    <div class="accordion" id="accordionFAQ">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    MPMRentとは？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>PT Mitra Pinasthika Mustika Rent（MPMRent）は、PT Mitra Pinasthika Mustika Tbk（PT Saratoga Investama Sedayaの一部）の子会社であり、インドネシアで最大のレンタカー会社の1つです。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    MPMRentの本社はどこにありますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>本社所在地は以下になります<br>
+                                    Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                    BSD City, Tangerang 15322, Indonesia
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    支社はどこにありますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Jakarta 1
+                                        Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                        BSD City, Tangerang 15322, Indonesia<br><br>
+
+                                        Jakarta 2<br>
+                                        Jabar<br>
+                                        Jateng<br>
+                                        Jatim Banus<br>
+                                        Outer Island (Kalimantan, Sulawesi, Maluku, and Papua)<br>
+                                        Sumbagut<br>
+                                        Sumbagsel
+                                    </p><br>
+                                    <p><a href="our-networks">ここをクリック</a> してください.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    MPMRentのサービスとは？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <a href="services">ここをクリック</a> してください.</p>
+                                    <p>（レンタカーサービス、運転手サービス、車両管理システム、オークション・中古車買取・販売）</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    レンタカーサービス
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        お客様のニーズに対応する長期（月次から年次）レンタルサービス。商用車から乗用車まで、また各種4WD車等さまざまなタイプの車が利用可能です。<br><br>
+
+                                        私たちは、さまざまな業界のお客様のニーズに対応します。すべてのレンタカーに、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております。<br><br>
+
+                                        一日単位のレンタカーや空港でのピックアップ/ドロップサービス等、お客様のニーズに柔軟に対応し安心してご利用頂けるサービスをご提供いたします。すべてのレンタカーサービスには、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております。
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSeven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    価格表はどこで入手できますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>コンタクトセンターにお問合わせ下さい。<br>
+                                        電話：1500068または、<br>
+                                        WhatsApp：08138-1500058または、<br>
+                                        Eメール：contact@mpm-rent.com<br>
+                                        価格に関する詳細情報をご連絡致します。
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEight">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    レンタカー契約の際、必要最小契約台数はありますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>ございません。１台よりお借りいただけます。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingNine">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    MPMRentではどのような種類の車両のレンタルが可能ですか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRentでは、商用車を含むすべてのタイプの車両のレンタルが可能です。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTen">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    運転手サービス
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRentでは、当社独自の運転手研修を受講し、地域周辺道路の知識、サービス倫理、真摯な姿勢を備えた経験豊富な運転手を提供します。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEleven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#headingEleven" aria-expanded="false" aria-controls="headingEleven">
+                                    お客様のニーズに合わせた輸送管理
+
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="headingEleven" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        車両管理システム<br>
+                                        MPMRentでは、レンタカー車両の有効性を管理し、より効率的にご利用頂く為のサービスをご提供いたします。
+
+                                        車両管理システムの項目:<br>
+                                        相乗り乗車システム<br>
+                                        テレマティクスシステム
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1650424116;s:6:"markup";s:14049:"<div class="container-fluid page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="text-content">
+                    <div class="accordion" id="accordionFAQ">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    MPMRentとは？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>PT Mitra Pinasthika Mustika Rent（MPMRent）は、PT Mitra Pinasthika Mustika Tbk（PT Saratoga Investama Sedayaの一部）の子会社であり、インドネシアで最大のレンタカー会社の1つです。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    MPMRentの本社はどこにありますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>本社所在地は以下になります<br>
+                                    Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                    BSD City, Tangerang 15322, Indonesia
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    支社はどこにありますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Jakarta 1
+                                        Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                        BSD City, Tangerang 15322, Indonesia<br><br>
+
+                                        Jakarta 2<br>
+                                        Jabar<br>
+                                        Jateng<br>
+                                        Jatim Banus<br>
+                                        Outer Island (Kalimantan, Sulawesi, Maluku, and Papua)<br>
+                                        Sumbagut<br>
+                                        Sumbagsel
+                                    </p><br>
+                                    <p><a href="our-networks">ここをクリック</a> してください.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    MPMRentのサービスとは？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <a href="services">ここをクリック</a> してください.</p>
+                                    <p>（レンタカーサービス、運転手サービス、車両管理システム、オークション・中古車買取・販売）</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    レンタカーサービス
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        お客様のニーズに対応する長期（月次から年次）レンタルサービス。商用車から乗用車まで、また各種4WD車等さまざまなタイプの車が利用可能です。<br><br>
+
+                                        私たちは、さまざまな業界のお客様のニーズに対応します。すべてのレンタカーに、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております。<br><br>
+
+                                        一日単位のレンタカーや空港でのピックアップ/ドロップサービス等、お客様のニーズに柔軟に対応し安心してご利用頂けるサービスをご提供いたします。すべてのレンタカーサービスには、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております。
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSeven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    価格表はどこで入手できますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>コンタクトセンターにお問合わせ下さい。<br>
+                                        電話：1500068または、<br>
+                                        WhatsApp：08138-1500058または、<br>
+                                        Eメール：contact@mpm-rent.com<br>
+                                        価格に関する詳細情報をご連絡致します。
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEight">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    レンタカー契約の際、必要最小契約台数はありますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>ございません。１台よりお借りいただけます。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingNine">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    MPMRentではどのような種類の車両のレンタルが可能ですか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRentでは、商用車を含むすべてのタイプの車両のレンタルが可能です。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTen">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    運転手サービス
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRentでは、当社独自の運転手研修を受講し、地域周辺道路の知識、サービス倫理、真摯な姿勢を備えた経験豊富な運転手を提供します。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEleven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#headingEleven" aria-expanded="false" aria-controls="headingEleven">
+                                    お客様のニーズに合わせた輸送管理
+
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="headingEleven" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        車両管理システム<br>
+                                        MPMRentでは、レンタカー車両の有効性を管理し、より効率的にご利用頂く為のサービスをご提供いたします。
+
+                                        車両管理システムの項目:<br>
+                                        相乗り乗車システム<br>
+                                        テレマティクスシステム
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:14049:"<div class="container-fluid page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="text-content">
+                    <div class="accordion" id="accordionFAQ">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    MPMRentとは？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>PT Mitra Pinasthika Mustika Rent（MPMRent）は、PT Mitra Pinasthika Mustika Tbk（PT Saratoga Investama Sedayaの一部）の子会社であり、インドネシアで最大のレンタカー会社の1つです。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    MPMRentの本社はどこにありますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>本社所在地は以下になります<br>
+                                    Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                    BSD City, Tangerang 15322, Indonesia
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    支社はどこにありますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Jakarta 1
+                                        Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                        BSD City, Tangerang 15322, Indonesia<br><br>
+
+                                        Jakarta 2<br>
+                                        Jabar<br>
+                                        Jateng<br>
+                                        Jatim Banus<br>
+                                        Outer Island (Kalimantan, Sulawesi, Maluku, and Papua)<br>
+                                        Sumbagut<br>
+                                        Sumbagsel
+                                    </p><br>
+                                    <p><a href="our-networks">ここをクリック</a> してください.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    MPMRentのサービスとは？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <a href="services">ここをクリック</a> してください.</p>
+                                    <p>（レンタカーサービス、運転手サービス、車両管理システム、オークション・中古車買取・販売）</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    レンタカーサービス
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        お客様のニーズに対応する長期（月次から年次）レンタルサービス。商用車から乗用車まで、また各種4WD車等さまざまなタイプの車が利用可能です。<br><br>
+
+                                        私たちは、さまざまな業界のお客様のニーズに対応します。すべてのレンタカーに、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております。<br><br>
+
+                                        一日単位のレンタカーや空港でのピックアップ/ドロップサービス等、お客様のニーズに柔軟に対応し安心してご利用頂けるサービスをご提供いたします。すべてのレンタカーサービスには、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております。
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSeven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    価格表はどこで入手できますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>コンタクトセンターにお問合わせ下さい。<br>
+                                        電話：1500068または、<br>
+                                        WhatsApp：08138-1500058または、<br>
+                                        Eメール：contact@mpm-rent.com<br>
+                                        価格に関する詳細情報をご連絡致します。
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEight">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    レンタカー契約の際、必要最小契約台数はありますか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>ございません。１台よりお借りいただけます。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingNine">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    MPMRentではどのような種類の車両のレンタルが可能ですか？
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRentでは、商用車を含むすべてのタイプの車両のレンタルが可能です。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTen">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    運転手サービス
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRentでは、当社独自の運転手研修を受講し、地域周辺道路の知識、サービス倫理、真摯な姿勢を備えた経験豊富な運転手を提供します。</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEleven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#headingEleven" aria-expanded="false" aria-controls="headingEleven">
+                                    お客様のニーズに合わせた輸送管理
+
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="headingEleven" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        車両管理システム<br>
+                                        MPMRentでは、レンタカー車両の有効性を管理し、より効率的にご利用頂く為のサービスをご提供いたします。
+
+                                        車両管理システムの項目:<br>
+                                        相乗り乗車システム<br>
+                                        テレマティクスシステム
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";}}

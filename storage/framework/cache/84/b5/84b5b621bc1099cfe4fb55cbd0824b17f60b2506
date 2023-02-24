@@ -1,0 +1,127 @@
+1662721680a:1:{s:16:"our-networks.htm";a:17:{s:8:"fileName";s:16:"our-networks.htm";s:7:"content";s:3139:"title = "Our networks"
+url = "/our-networks"
+layout = "default"
+description = "Our networks"
+meta_title = "Our Networks | MPM Rent"
+meta_description = "Find MPM Rent in big cities such as Jakarta, Surabaya, Medan, Bandung and other cities to get the best transportation services."
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[viewBag]
+localeMeta_title[id] = "Jaringan Layanan Sewa Mobil MPM Rent di Indonesia"
+localeMeta_description[id] = "Layanan sewa mobil MPM Rent tersebar di Indonesia mulai dari Jakarta, Bandung, Semarang, Surabaya, Medan, Banjarmasin, Balikpapan, Makassar hingga Manado."
+
+[map]
+mapfieldId = "map"
+height = "500px"
+latitude = 0
+longitude = 0
+zoom = 3
+maxZoom = 18
+
+[SeoPage]
+==
+{% set myAssets = 'assets/images/'|theme %}
+{% content "our-networks/our-networks.htm" assetsPath=myAssets activeLocale=activeLocale %}
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5">
+                <div class="page-title m-0">
+                    <h1>{{ 'our.networks'|_ }}</h1>
+                </div>
+                <div class="card-flex card-flex--two">
+                    {% set index_headoffice = 0 %}
+                	{% for address in addresses %}
+                    <div class="card-flex-item {{ index_headoffice == 0 ? 'is-head-office' : '' }}">
+                    	<b>{{ address.name }}</b> <br>
+                        {{ address.address|raw }} 
+                    </div>
+                    {% set index_headoffice = index_headoffice + 1 %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange-back-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5">
+                <div class="title-section text-left">
+                    <h2>{{ 'we.are.available.here'|_ }}</h2>
+                </div>
+                <p>{{ list_city }}.</p>
+                <div class="img-content">
+                    <!-- <img src="assets/images/maps.jpg"> -->
+                {% component 'map' %}
+                    <div id='map-point-name'>
+                        <ul class="flag-container">
+                            <li class="flag-item">
+                                <img src="{{ url('/plugins/deptech/mpmrent/assets/leaflet/images/head_office.png') }}"> {{ 'head.office'|_ }}
+                            </li>
+                            <li class="flag-item">
+                                <img src="{{ url('/plugins/deptech/mpmrent/assets/leaflet/images/branch.png') }}"> {{ count_branches }} {{ 'branch'|_ }}
+                            </li>
+                            <li class="flag-item">
+                                <img src="{{ url('/plugins/deptech/mpmrent/assets/leaflet/images/service.png') }}"> {{ count_services }} {{ 'service.representative'|_ }}
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1661264027;s:6:"markup";s:2420:"{% set myAssets = 'assets/images/'|theme %}
+{% content "our-networks/our-networks.htm" assetsPath=myAssets activeLocale=activeLocale %}
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5">
+                <div class="page-title m-0">
+                    <h1>{{ 'our.networks'|_ }}</h1>
+                </div>
+                <div class="card-flex card-flex--two">
+                    {% set index_headoffice = 0 %}
+                	{% for address in addresses %}
+                    <div class="card-flex-item {{ index_headoffice == 0 ? 'is-head-office' : '' }}">
+                    	<b>{{ address.name }}</b> <br>
+                        {{ address.address|raw }} 
+                    </div>
+                    {% set index_headoffice = index_headoffice + 1 %}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange-back-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5">
+                <div class="title-section text-left">
+                    <h2>{{ 'we.are.available.here'|_ }}</h2>
+                </div>
+                <p>{{ list_city }}.</p>
+                <div class="img-content">
+                    <!-- <img src="assets/images/maps.jpg"> -->
+                {% component 'map' %}
+                    <div id='map-point-name'>
+                        <ul class="flag-container">
+                            <li class="flag-item">
+                                <img src="{{ url('/plugins/deptech/mpmrent/assets/leaflet/images/head_office.png') }}"> {{ 'head.office'|_ }}
+                            </li>
+                            <li class="flag-item">
+                                <img src="{{ url('/plugins/deptech/mpmrent/assets/leaflet/images/branch.png') }}"> {{ count_branches }} {{ 'branch'|_ }}
+                            </li>
+                            <li class="flag-item">
+                                <img src="{{ url('/plugins/deptech/mpmrent/assets/leaflet/images/service.png') }}"> {{ count_services }} {{ 'service.representative'|_ }}
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:12:"Our networks";s:3:"url";s:13:"/our-networks";s:6:"layout";s:7:"default";s:11:"description";s:12:"Our networks";s:10:"meta_title";s:23:"Our Networks | MPM Rent";s:16:"meta_description";s:127:"Find MPM Rent in big cities such as Jakarta, Surabaya, Medan, Bandung and other cities to get the best transportation services.";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"id";s:49:"Jaringan Layanan Sewa Mobil MPM Rent di Indonesia";}s:22:"localeMeta_description";a:1:{s:2:"id";s:154:"Layanan sewa mobil MPM Rent tersebar di Indonesia mulai dari Jakarta, Bandung, Semarang, Surabaya, Medan, Banjarmasin, Balikpapan, Makassar hingga Manado.";}}s:3:"map";a:6:{s:10:"mapfieldId";s:3:"map";s:6:"height";s:5:"500px";s:8:"latitude";s:1:"0";s:9:"longitude";s:1:"0";s:4:"zoom";s:1:"3";s:7:"maxZoom";s:2:"18";}s:7:"SeoPage";a:0:{}}}

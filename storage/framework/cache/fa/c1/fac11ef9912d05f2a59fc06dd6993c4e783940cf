@@ -1,0 +1,311 @@
+1662705584a:1:{s:24:"services/services.jp.htm";a:6:{s:8:"fileName";s:24:"services/services.jp.htm";s:7:"content";s:6152:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>経験豊富な運転手とスタッフにより、お客様に高品質のサービスを提供するために、お客様のニーズに合わせたサービスをご提案させて頂きます</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-03@2x.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>経験豊富な運転手とスタッフにより、お客様に高品質のサービスを提供するために、お客様のニーズに合わせたサービスをご提案させて頂きます</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-02@2x.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>経験豊富な運転手とスタッフにより、お客様に高品質のサービスを提供するために、お客様のニーズに合わせたサービスをご提案させて頂きます</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-01@2x.png">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <h1 class='text-center title-orange'>Our Services</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2412@2x.png"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>長期レンタル</h4>
+                        <p>商用車から乗用車まで、豊富な車両在庫を有し、お客様のニーズに対応致します。 すべてのレンタカーに、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="short_term_rental">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>短期レンタル</h4>
+                        <p>日単位、週単位、月単位のレンタカーサービスのご提供が可能です。
+                        お客様のニーズに柔軟に対応させて頂きます。すべてのレンタカーサービスには、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております
+                        </p>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2442@2x.png"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="fleet_management_system">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-apps@2x.png"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>車両管理システム</h4>
+                        <p>MPMRentではレンタカー車両管理システムをご提供しております。このサービスは、長期レンタカーと運転手について特別な包括サービスをご契約いただき、指定の駐車場に車両と運転手を準備し、お客様が許可したユーザー様（人数問わず）皆様にご利用いただけるサービスとなっております</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="driver_services">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>ドライバーサービス</h4>
+                        <p>MPMRentは、PT DSSを通じて車両レンタルサービスを完了するために、ドライバーサービス、クリーニングサービス、セキュリティサービス、その他のサポートサービスなどの質の高い人材サービスも提供しています。</p>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/driver_service.png"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" id="auction_and_pre-owned_car">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-Fleet02@2x.png"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>オークションと中古車</h4>
+                        <p>当社はオークションサービス会社Auksiを有しており、法人・個人からの中古車買取を行っております。また、インドネシアの複数の都市でプライベートオークションと販売を行っています。このオークションは、各地の規制に従い、専門家が完全に可視化された手順で行っております。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+";s:5:"mtime";i:1652066605;s:6:"markup";s:6151:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>経験豊富な運転手とスタッフにより、お客様に高品質のサービスを提供するために、お客様のニーズに合わせたサービスをご提案させて頂きます</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-03@2x.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>経験豊富な運転手とスタッフにより、お客様に高品質のサービスを提供するために、お客様のニーズに合わせたサービスをご提案させて頂きます</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-02@2x.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>経験豊富な運転手とスタッフにより、お客様に高品質のサービスを提供するために、お客様のニーズに合わせたサービスをご提案させて頂きます</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-01@2x.png">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <h1 class='text-center title-orange'>Our Services</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2412@2x.png"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>長期レンタル</h4>
+                        <p>商用車から乗用車まで、豊富な車両在庫を有し、お客様のニーズに対応致します。 すべてのレンタカーに、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="short_term_rental">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>短期レンタル</h4>
+                        <p>日単位、週単位、月単位のレンタカーサービスのご提供が可能です。
+                        お客様のニーズに柔軟に対応させて頂きます。すべてのレンタカーサービスには、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております
+                        </p>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2442@2x.png"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="fleet_management_system">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-apps@2x.png"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>車両管理システム</h4>
+                        <p>MPMRentではレンタカー車両管理システムをご提供しております。このサービスは、長期レンタカーと運転手について特別な包括サービスをご契約いただき、指定の駐車場に車両と運転手を準備し、お客様が許可したユーザー様（人数問わず）皆様にご利用いただけるサービスとなっております</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="driver_services">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>ドライバーサービス</h4>
+                        <p>MPMRentは、PT DSSを通じて車両レンタルサービスを完了するために、ドライバーサービス、クリーニングサービス、セキュリティサービス、その他のサポートサービスなどの質の高い人材サービスも提供しています。</p>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/driver_service.png"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" id="auction_and_pre-owned_car">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-Fleet02@2x.png"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>オークションと中古車</h4>
+                        <p>当社はオークションサービス会社Auksiを有しており、法人・個人からの中古車買取を行っております。また、インドネシアの複数の都市でプライベートオークションと販売を行っています。このオークションは、各地の規制に従い、専門家が完全に可視化された手順で行っております。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:6151:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>経験豊富な運転手とスタッフにより、お客様に高品質のサービスを提供するために、お客様のニーズに合わせたサービスをご提案させて頂きます</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-03@2x.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>経験豊富な運転手とスタッフにより、お客様に高品質のサービスを提供するために、お客様のニーズに合わせたサービスをご提案させて頂きます</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-02@2x.png">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>経験豊富な運転手とスタッフにより、お客様に高品質のサービスを提供するために、お客様のニーズに合わせたサービスをご提案させて頂きます</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-01@2x.png">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <h1 class='text-center title-orange'>Our Services</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2412@2x.png"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>長期レンタル</h4>
+                        <p>商用車から乗用車まで、豊富な車両在庫を有し、お客様のニーズに対応致します。 すべてのレンタカーに、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="short_term_rental">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>短期レンタル</h4>
+                        <p>日単位、週単位、月単位のレンタカーサービスのご提供が可能です。
+                        お客様のニーズに柔軟に対応させて頂きます。すべてのレンタカーサービスには、メンテナンスサービス、自動車保険、24時間年中無休のコールセンターによるサポート、また、事故や故障の際の代車手配が含まれております
+                        </p>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2442@2x.png"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="fleet_management_system">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-apps@2x.png"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>車両管理システム</h4>
+                        <p>MPMRentではレンタカー車両管理システムをご提供しております。このサービスは、長期レンタカーと運転手について特別な包括サービスをご契約いただき、指定の駐車場に車両と運転手を準備し、お客様が許可したユーザー様（人数問わず）皆様にご利用いただけるサービスとなっております</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="driver_services">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>ドライバーサービス</h4>
+                        <p>MPMRentは、PT DSSを通じて車両レンタルサービスを完了するために、ドライバーサービス、クリーニングサービス、セキュリティサービス、その他のサポートサービスなどの質の高い人材サービスも提供しています。</p>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/driver_service.png"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" id="auction_and_pre-owned_car">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-Fleet02@2x.png"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>オークションと中古車</h4>
+                        <p>当社はオークションサービス会社Auksiを有しており、法人・個人からの中古車買取を行っております。また、インドネシアの複数の都市でプライベートオークションと販売を行っています。このオークションは、各地の規制に従い、専門家が完全に可視化された手順で行っております。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";}}

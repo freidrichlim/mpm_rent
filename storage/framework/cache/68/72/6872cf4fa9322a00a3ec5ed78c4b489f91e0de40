@@ -1,0 +1,34 @@
+1662721680a:1:{s:21:"thank-you-contact.htm";a:11:{s:8:"fileName";s:21:"thank-you-contact.htm";s:7:"content";s:751:"title = "Thank you"
+url = "/contact/thanks/:slug"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+==
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-10 offset-lg-1 pb-5 text-center">
+                <div class='thank-you'>
+                	<h1 class='text-uppercase mb-3'>Thank You!</h1>
+                	<i class='fa fa-check'></i>
+                	<p class="mt-5 desc">We have received your message and would like to thank you for writing to us.</p>
+                	<a href="{{ 'homepage'|page }}" class="btn btn-primary">Back to homepage</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1653017296;s:6:"markup";s:619:"<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-10 offset-lg-1 pb-5 text-center">
+                <div class='thank-you'>
+                	<h1 class='text-uppercase mb-3'>Thank You!</h1>
+                	<i class='fa fa-check'></i>
+                	<p class="mt-5 desc">We have received your message and would like to thank you for writing to us.</p>
+                	<a href="{{ 'homepage'|page }}" class="btn btn-primary">Back to homepage</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:9:"Thank you";s:3:"url";s:21:"/contact/thanks/:slug";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

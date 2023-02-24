@@ -1,0 +1,52 @@
+1662526454a:1:{s:23:"thank-you/thank-you.htm";a:6:{s:8:"fileName";s:23:"thank-you/thank-you.htm";s:7:"content";s:1166:"<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-10 offset-lg-1 pb-5 text-center thank-you">
+                <div class=''>
+                	<h1 class='text-uppercase mb-3'>Thank You!</h1>
+                	<i class='fa fa-check'></i>
+                	<p class="mt-5 desc">We have received your request and will respond soon!</p>
+                    <p class="desc">Please follow our social media to stay-up-to date with latest news and services.</p>
+                    <a class='social-icons mr-3' href="https://www.facebook.com/MPM-Rent-148287218633589/"><img src="{assetsPath}/facebook-round.png"></a>
+                    <a class='social-icons mr-3' href="https://www.instagram.com/mpm.rent/"><img src="{assetsPath}/insta-round.png"></a>
+                    <a class='social-icons' href="https://www.linkedin.com/company/pt-mitra-pinasthika-mustika-rent-mpm-rent-/"><img src="{assetsPath}/linkedin-circle.png"></a>
+                </div>
+            	<!-- <a href="{baseUrl}" class="btn btn-primary">Back to homepage</a> -->
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1650424116;s:6:"markup";s:1166:"<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-10 offset-lg-1 pb-5 text-center thank-you">
+                <div class=''>
+                	<h1 class='text-uppercase mb-3'>Thank You!</h1>
+                	<i class='fa fa-check'></i>
+                	<p class="mt-5 desc">We have received your request and will respond soon!</p>
+                    <p class="desc">Please follow our social media to stay-up-to date with latest news and services.</p>
+                    <a class='social-icons mr-3' href="https://www.facebook.com/MPM-Rent-148287218633589/"><img src="{assetsPath}/facebook-round.png"></a>
+                    <a class='social-icons mr-3' href="https://www.instagram.com/mpm.rent/"><img src="{assetsPath}/insta-round.png"></a>
+                    <a class='social-icons' href="https://www.linkedin.com/company/pt-mitra-pinasthika-mustika-rent-mpm-rent-/"><img src="{assetsPath}/linkedin-circle.png"></a>
+                </div>
+            	<!-- <a href="{baseUrl}" class="btn btn-primary">Back to homepage</a> -->
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:1166:"<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-10 offset-lg-1 pb-5 text-center thank-you">
+                <div class=''>
+                	<h1 class='text-uppercase mb-3'>Thank You!</h1>
+                	<i class='fa fa-check'></i>
+                	<p class="mt-5 desc">We have received your request and will respond soon!</p>
+                    <p class="desc">Please follow our social media to stay-up-to date with latest news and services.</p>
+                    <a class='social-icons mr-3' href="https://www.facebook.com/MPM-Rent-148287218633589/"><img src="{assetsPath}/facebook-round.png"></a>
+                    <a class='social-icons mr-3' href="https://www.instagram.com/mpm.rent/"><img src="{assetsPath}/insta-round.png"></a>
+                    <a class='social-icons' href="https://www.linkedin.com/company/pt-mitra-pinasthika-mustika-rent-mpm-rent-/"><img src="{assetsPath}/linkedin-circle.png"></a>
+                </div>
+            	<!-- <a href="{baseUrl}" class="btn btn-primary">Back to homepage</a> -->
+            </div>
+        </div>
+    </div>
+</div>";}}

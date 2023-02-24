@@ -1,0 +1,145 @@
+1662721680a:1:{s:15:"news-detail.htm";a:13:{s:8:"fileName";s:15:"news-detail.htm";s:7:"content";s:3222:"title = "News Detail"
+url = "/news-detail/:slug"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[news_detail]
+slug = "{{ :slug }}"
+
+[SeoPostPage]
+==
+<?php
+function onEnd () {
+    $post = $this->components['news_detail'];
+    $post = $post->post;
+
+    if( $post ) {
+        $post = $post->title;
+        $this->page->title = $post;
+    }
+}
+?>
+==
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-10 offset-lg-1 pb-5">
+                <a href="{{ 'news'|page }}" class="btn btn-back"><span class="fa fa-chevron-left"></span> {{ 'back.to.news'|_ }}</a>
+                <h1 class="title-detail">{{	post.title }}</h1>
+                <div class="cat-date">
+                    <div class="cat-news"><span>{{ 'News'|_ }}</span>{{ post.event_date }}</div>
+                    <div class="socmed-detail">
+                        <span>{{ 'Share'|_ }}</span>
+                        <a href="#"><img src="{{ 'assets/images/linkedin-dark.png'|theme }}"></a>
+                        <a href="#"><img src="{{ 'assets/images/facebook-dark.png'|theme }}"></a>
+                        <a href="#"><img src="{{ 'assets/images/twitter-dark.png'|theme }}"></a>
+                    </div>
+                </div>
+                {% if post.image %}
+		        	<div class="img-content"><img src="{{ post.images.path }}" alt='{{ post.images.title }}'></div>
+		        	{{	post.image_source }} - {{	post.image_url }}
+		        {% else %}
+		        	<div class="img-content"><img src="{{ 'assets/images/no-image.png'|theme }}"></div>
+		    	{% endif %}
+                <p>{{ post.description|raw }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange-back-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-10 offset-lg-1">
+                <div class="title-section text-left">
+                    <h2>{{ 'other.news'|_ }}</h2>
+                </div>
+                <div class="row">
+                	{% for lastNews in lastestNews %}
+	                    <div class="col-sm-6 col-md-3 col-lg-3">
+	                        <div class="list-other-news">
+	                            <a href="{{ lastNews.url }}">
+	                                {% if lastNews.images.path %}
+							        	<div class="thumbnail"><img src="{{	lastNews.images.path }}" alt='{{ lastNews.images.title }}'></div>
+							        {% else %}
+							        	<div class="thumbnail"><img src="{{	'assets/images/no-image.png'|theme }}" alt='{{ post.images.title }}'></div>
+							    	{% endif %}
+	                                <div class="desc-ow">
+	                                    <span class="date-news">{{	lastNews.event_date }}</span>
+	                                    <h4>{{ lastNews.title }}</h4>    
+	                                </div>
+	                            </a>
+	                        </div>
+	                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% component 'seo_news' data='post' %}";s:5:"mtime";i:1662688048;s:6:"markup";s:2836:"<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-10 offset-lg-1 pb-5">
+                <a href="{{ 'news'|page }}" class="btn btn-back"><span class="fa fa-chevron-left"></span> {{ 'back.to.news'|_ }}</a>
+                <h1 class="title-detail">{{	post.title }}</h1>
+                <div class="cat-date">
+                    <div class="cat-news"><span>{{ 'News'|_ }}</span>{{ post.event_date }}</div>
+                    <div class="socmed-detail">
+                        <span>{{ 'Share'|_ }}</span>
+                        <a href="#"><img src="{{ 'assets/images/linkedin-dark.png'|theme }}"></a>
+                        <a href="#"><img src="{{ 'assets/images/facebook-dark.png'|theme }}"></a>
+                        <a href="#"><img src="{{ 'assets/images/twitter-dark.png'|theme }}"></a>
+                    </div>
+                </div>
+                {% if post.image %}
+		        	<div class="img-content"><img src="{{ post.images.path }}" alt='{{ post.images.title }}'></div>
+		        	{{	post.image_source }} - {{	post.image_url }}
+		        {% else %}
+		        	<div class="img-content"><img src="{{ 'assets/images/no-image.png'|theme }}"></div>
+		    	{% endif %}
+                <p>{{ post.description|raw }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange-back-dark">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-10 offset-lg-1">
+                <div class="title-section text-left">
+                    <h2>{{ 'other.news'|_ }}</h2>
+                </div>
+                <div class="row">
+                	{% for lastNews in lastestNews %}
+	                    <div class="col-sm-6 col-md-3 col-lg-3">
+	                        <div class="list-other-news">
+	                            <a href="{{ lastNews.url }}">
+	                                {% if lastNews.images.path %}
+							        	<div class="thumbnail"><img src="{{	lastNews.images.path }}" alt='{{ lastNews.images.title }}'></div>
+							        {% else %}
+							        	<div class="thumbnail"><img src="{{	'assets/images/no-image.png'|theme }}" alt='{{ post.images.title }}'></div>
+							    	{% endif %}
+	                                <div class="desc-ow">
+	                                    <span class="date-news">{{	lastNews.event_date }}</span>
+	                                    <h4>{{ lastNews.title }}</h4>    
+	                                </div>
+	                            </a>
+	                        </div>
+	                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% component 'seo_news' data='post' %}";s:4:"code";s:191:"function onEnd () {
+    $post = $this->components['news_detail'];
+    $post = $post->post;
+
+    if( $post ) {
+        $post = $post->title;
+        $this->page->title = $post;
+    }
+}";s:5:"title";s:11:"News Detail";s:3:"url";s:18:"/news-detail/:slug";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:11:"news_detail";a:1:{s:4:"slug";s:11:"{{ :slug }}";}s:11:"SeoPostPage";a:0:{}}}

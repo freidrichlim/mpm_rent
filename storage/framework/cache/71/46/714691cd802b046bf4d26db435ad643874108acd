@@ -1,0 +1,430 @@
+1662714102a:1:{s:24:"services/services.id.htm";a:6:{s:8:"fileName";s:24:"services/services.id.htm";s:7:"content";s:8065:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Seluruh pengemudi dan tenaga professional kami didedikasikan untuk memahami setiap kebutuhan pelanggan guna memberikan pengalaman dan layanan yang terbaik bagi Anda.</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-03@2x.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Seluruh pengemudi dan tenaga professional kami didedikasikan untuk memahami setiap kebutuhan pelanggan guna memberikan pengalaman dan layanan yang terbaik bagi Anda.</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-02@2x.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Seluruh pengemudi dan tenaga professional kami didedikasikan untuk memahami setiap kebutuhan pelanggan guna memberikan pengalaman dan layanan yang terbaik bagi Anda.</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-01@2x.webp">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class='page-title text-center'>
+            <h1>Layanan Kami</h1>    
+        </div>
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2412@2x.webp"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>Rental Jangka Panjang</h4>
+                        <div class='service-detail'>
+                            <div class="collapse" id="longTermRental">
+                                <p>Kami selalu siap untuk memenuhi setiap kebutuhan transportasi Anda, baik itu kebutuhan kendaraan niaga maupun kendaraan penumpang.
+                                Seluruh layanan kami meliputi pemeliharaan, klaim asuransi, bantuan selama 24 jam, dan penyediaan mobil pengganti.
+                                </p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceLTR">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="short_term_rental">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>Rental Jangka Pendek</h4>
+                        <div class='service-detail'>
+                            <div class="collapse" id="shortTermRental">
+                                <p>Layanan sewa kendaraan yang fleksibel untuk memenuhi kebutuhan transporatasi Anda untuk jangka waktu sewa harian, mingguan, atau bulanan. Seluruh layanan kami meliputipemeliharaan, klaim asuransi, bantuan selama 24 jam, dan penyediaan mobil pengganti.</p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceSTR">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2442@2x.webp"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="fleet_management_system">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-apps@2x.webp"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4><i>Fleet management system</i></h4>
+                        <div class='service-detail srv-white'>
+                            <div class="collapse" id="fleetManagementSystem">
+                                <p>Layanan khusus dari MPMRent, <i>Fleet Management System</i>, yaitu layanan penyewaan kendaraan khusus dan penyedia layanan pengemudi jangka panjang antara perusahaan dan pelanggan dimana perusahaan akan menempatkan <i>dispatcher</i> di lokasi <i>customer pool</i> yang telah disepakati antara kedua pihak yang akan mengatur penyediaan kendaraan dan layanan pengemudi sesuai dengan kebutuhan pelanggan.</p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceFMS">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="driver_services">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>Pelayanan Pengemudi</h4>
+                        <div class='service-detail srv-white'>
+                            <div class="collapse" id="driverServices">
+                                <p>Untuk melengkapi layanan penyewaan kendaraan, melalui PT DSS, MPM<i>Rent</i> juga menyediakan layanan tenaga kerja berkualitas seperti layanan pengemudi, layanan kebersihan, layanan keamanan, dan layanan pendukung lainnya.</p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceDS">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/driver_service.webp"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" id="auction_and_pre-owned_car">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-Fleet02@2x.webp"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>Balai Lelang dan Jual Beli Mobil Bekas</h4>
+                        <div class='service-detail'>
+                            <div class="collapse" id="auction">
+                                <p>Balai lelang kami, Auksi, terbuka untuk perusahaan dan perorangan yang ingin menjual kendaraan bermotor. 
+                                Kami mengadakan kegiatan lelang di Jakarta dan beberapa kota di Indonesia yang dilakukan dengan proses yang transparan dan ditangani oleh para tim profesional sesuai dengan kebijakan dan peraturan yang berlaku.
+                                </p>
+                            </div>
+                            <div class='mt-3'>
+                                <a role="button" class="collapsed btn-colapse" data-toggle="collapse" href="#auction" aria-expanded="false" aria-controls="auction">Baca lebih lanjut</a>
+                            </div>
+                        </div>
+                         <a href="https://www.auksi.co.id/" target="_blank" class="btn btn-orange mt-3 d-inline-block">Kunjungi Sekarang</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1660208360;s:6:"markup";s:8065:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Seluruh pengemudi dan tenaga professional kami didedikasikan untuk memahami setiap kebutuhan pelanggan guna memberikan pengalaman dan layanan yang terbaik bagi Anda.</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-03@2x.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Seluruh pengemudi dan tenaga professional kami didedikasikan untuk memahami setiap kebutuhan pelanggan guna memberikan pengalaman dan layanan yang terbaik bagi Anda.</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-02@2x.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Seluruh pengemudi dan tenaga professional kami didedikasikan untuk memahami setiap kebutuhan pelanggan guna memberikan pengalaman dan layanan yang terbaik bagi Anda.</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-01@2x.webp">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class='page-title text-center'>
+            <h1>Layanan Kami</h1>    
+        </div>
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2412@2x.webp"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>Rental Jangka Panjang</h4>
+                        <div class='service-detail'>
+                            <div class="collapse" id="longTermRental">
+                                <p>Kami selalu siap untuk memenuhi setiap kebutuhan transportasi Anda, baik itu kebutuhan kendaraan niaga maupun kendaraan penumpang.
+                                Seluruh layanan kami meliputi pemeliharaan, klaim asuransi, bantuan selama 24 jam, dan penyediaan mobil pengganti.
+                                </p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceLTR">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="short_term_rental">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>Rental Jangka Pendek</h4>
+                        <div class='service-detail'>
+                            <div class="collapse" id="shortTermRental">
+                                <p>Layanan sewa kendaraan yang fleksibel untuk memenuhi kebutuhan transporatasi Anda untuk jangka waktu sewa harian, mingguan, atau bulanan. Seluruh layanan kami meliputipemeliharaan, klaim asuransi, bantuan selama 24 jam, dan penyediaan mobil pengganti.</p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceSTR">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2442@2x.webp"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="fleet_management_system">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-apps@2x.webp"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4><i>Fleet management system</i></h4>
+                        <div class='service-detail srv-white'>
+                            <div class="collapse" id="fleetManagementSystem">
+                                <p>Layanan khusus dari MPMRent, <i>Fleet Management System</i>, yaitu layanan penyewaan kendaraan khusus dan penyedia layanan pengemudi jangka panjang antara perusahaan dan pelanggan dimana perusahaan akan menempatkan <i>dispatcher</i> di lokasi <i>customer pool</i> yang telah disepakati antara kedua pihak yang akan mengatur penyediaan kendaraan dan layanan pengemudi sesuai dengan kebutuhan pelanggan.</p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceFMS">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="driver_services">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>Pelayanan Pengemudi</h4>
+                        <div class='service-detail srv-white'>
+                            <div class="collapse" id="driverServices">
+                                <p>Untuk melengkapi layanan penyewaan kendaraan, melalui PT DSS, MPM<i>Rent</i> juga menyediakan layanan tenaga kerja berkualitas seperti layanan pengemudi, layanan kebersihan, layanan keamanan, dan layanan pendukung lainnya.</p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceDS">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/driver_service.webp"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" id="auction_and_pre-owned_car">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-Fleet02@2x.webp"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>Balai Lelang dan Jual Beli Mobil Bekas</h4>
+                        <div class='service-detail'>
+                            <div class="collapse" id="auction">
+                                <p>Balai lelang kami, Auksi, terbuka untuk perusahaan dan perorangan yang ingin menjual kendaraan bermotor. 
+                                Kami mengadakan kegiatan lelang di Jakarta dan beberapa kota di Indonesia yang dilakukan dengan proses yang transparan dan ditangani oleh para tim profesional sesuai dengan kebijakan dan peraturan yang berlaku.
+                                </p>
+                            </div>
+                            <div class='mt-3'>
+                                <a role="button" class="collapsed btn-colapse" data-toggle="collapse" href="#auction" aria-expanded="false" aria-controls="auction">Baca lebih lanjut</a>
+                            </div>
+                        </div>
+                         <a href="https://www.auksi.co.id/" target="_blank" class="btn btn-orange mt-3 d-inline-block">Kunjungi Sekarang</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:8065:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Seluruh pengemudi dan tenaga professional kami didedikasikan untuk memahami setiap kebutuhan pelanggan guna memberikan pengalaman dan layanan yang terbaik bagi Anda.</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-03@2x.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Seluruh pengemudi dan tenaga professional kami didedikasikan untuk memahami setiap kebutuhan pelanggan guna memberikan pengalaman dan layanan yang terbaik bagi Anda.</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-02@2x.webp">
+        </div>
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>Seluruh pengemudi dan tenaga professional kami didedikasikan untuk memahami setiap kebutuhan pelanggan guna memberikan pengalaman dan layanan yang terbaik bagi Anda.</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/MPM-IMG-Header-Service-01@2x.webp">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class='page-title text-center'>
+            <h1>Layanan Kami</h1>    
+        </div>
+        <div class="row">
+            <div class="col-md-12 pb-5" id="long_term_rental">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2412@2x.webp"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>Rental Jangka Panjang</h4>
+                        <div class='service-detail'>
+                            <div class="collapse" id="longTermRental">
+                                <p>Kami selalu siap untuk memenuhi setiap kebutuhan transportasi Anda, baik itu kebutuhan kendaraan niaga maupun kendaraan penumpang.
+                                Seluruh layanan kami meliputi pemeliharaan, klaim asuransi, bantuan selama 24 jam, dan penyediaan mobil pengganti.
+                                </p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceLTR">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="short_term_rental">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>Rental Jangka Pendek</h4>
+                        <div class='service-detail'>
+                            <div class="collapse" id="shortTermRental">
+                                <p>Layanan sewa kendaraan yang fleksibel untuk memenuhi kebutuhan transporatasi Anda untuk jangka waktu sewa harian, mingguan, atau bulanan. Seluruh layanan kami meliputipemeliharaan, klaim asuransi, bantuan selama 24 jam, dan penyediaan mobil pengganti.</p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceSTR">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/IMG_2442@2x.webp"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-orange">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5" id="fleet_management_system">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-apps@2x.webp"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4><i>Fleet management system</i></h4>
+                        <div class='service-detail srv-white'>
+                            <div class="collapse" id="fleetManagementSystem">
+                                <p>Layanan khusus dari MPMRent, <i>Fleet Management System</i>, yaitu layanan penyewaan kendaraan khusus dan penyedia layanan pengemudi jangka panjang antara perusahaan dan pelanggan dimana perusahaan akan menempatkan <i>dispatcher</i> di lokasi <i>customer pool</i> yang telah disepakati antara kedua pihak yang akan mengatur penyediaan kendaraan dan layanan pengemudi sesuai dengan kebutuhan pelanggan.</p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceFMS">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" id="driver_services">
+                <div class="media-services">
+                    <div class="media-body">
+                        <h4>Pelayanan Pengemudi</h4>
+                        <div class='service-detail srv-white'>
+                            <div class="collapse" id="driverServices">
+                                <p>Untuk melengkapi layanan penyewaan kendaraan, melalui PT DSS, MPM<i>Rent</i> juga menyediakan layanan tenaga kerja berkualitas seperti layanan pengemudi, layanan kebersihan, layanan keamanan, dan layanan pendukung lainnya.</p>
+                            </div>
+                            <div class="mt-3">
+                                <a href="/order" id="ServiceDS">Sewa Sekarang</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-right">
+                        <div class="thumbnail"><img src="{assetsPath}/driver_service.webp"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" id="auction_and_pre-owned_car">
+                <div class="media-services">
+                    <div class="media-left">
+                        <div class="thumbnail"><img src="{assetsPath}/MPM-Fleet02@2x.webp"></div>
+                    </div>
+                    <div class="media-body">
+                        <h4>Balai Lelang dan Jual Beli Mobil Bekas</h4>
+                        <div class='service-detail'>
+                            <div class="collapse" id="auction">
+                                <p>Balai lelang kami, Auksi, terbuka untuk perusahaan dan perorangan yang ingin menjual kendaraan bermotor. 
+                                Kami mengadakan kegiatan lelang di Jakarta dan beberapa kota di Indonesia yang dilakukan dengan proses yang transparan dan ditangani oleh para tim profesional sesuai dengan kebijakan dan peraturan yang berlaku.
+                                </p>
+                            </div>
+                            <div class='mt-3'>
+                                <a role="button" class="collapsed btn-colapse" data-toggle="collapse" href="#auction" aria-expanded="false" aria-controls="auction">Baca lebih lanjut</a>
+                            </div>
+                        </div>
+                         <a href="https://www.auksi.co.id/" target="_blank" class="btn btn-orange mt-3 d-inline-block">Kunjungi Sekarang</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";}}

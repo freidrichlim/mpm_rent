@@ -1,0 +1,34 @@
+1662714080a:1:{s:32:"our-networks/our-networks.jp.htm";a:6:{s:8:"fileName";s:32:"our-networks/our-networks.jp.htm";s:7:"content";s:485:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>全スタッフが、品の高いサービスを迅速にご提供する為に規律と責任を持ち従事しております</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/mpm-rent-building-bluesky.png">
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1650424116;s:6:"markup";s:485:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>全スタッフが、品の高いサービスを迅速にご提供する為に規律と責任を持ち従事しております</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/mpm-rent-building-bluesky.png">
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:485:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2>全スタッフが、品の高いサービスを迅速にご提供する為に規律と責任を持ち従事しております</h2>
+                </div>
+            </div>
+            <img src="{assetsPath}/mpm-rent-building-bluesky.png">
+        </div>
+    </div>
+</div>";}}

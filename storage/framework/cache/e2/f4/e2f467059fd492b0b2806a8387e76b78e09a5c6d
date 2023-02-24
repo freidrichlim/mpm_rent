@@ -1,0 +1,1 @@
+1664619404a:1:{s:6:"fields";a:3:{s:4:"name";a:3:{s:5:"label";s:4:"Name";s:4:"span";s:4:"auto";s:4:"type";s:4:"text";}s:4:"code";a:3:{s:5:"label";s:11:"Code Region";s:4:"span";s:4:"auto";s:4:"type";s:4:"text";}s:12:"is_available";a:3:{s:5:"label";s:11:"Avaliable ?";s:4:"span";s:4:"auto";s:4:"type";s:6:"switch";}}}

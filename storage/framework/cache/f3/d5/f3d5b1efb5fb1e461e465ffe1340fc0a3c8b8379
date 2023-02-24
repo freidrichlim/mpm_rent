@@ -1,0 +1,14 @@
+1662721680a:1:{s:17:"404-not-found.htm";a:11:{s:8:"fileName";s:17:"404-not-found.htm";s:7:"content";s:366:"title = "404 Not Found"
+url = "/404"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+==
+{% set myAssets = 'assets/images/'|theme %}
+{% set videoAssets = 'assets/videos/'|theme %}
+{% set baseUrl = url('/') %}
+{% content "error-page/404/404.htm" assetsPath=myAssets activeLocale=activeLocale videoAssets=videoAssets baseUrl=baseUrl %}";s:5:"mtime";i:1653017787;s:6:"markup";s:247:"{% set myAssets = 'assets/images/'|theme %}
+{% set videoAssets = 'assets/videos/'|theme %}
+{% set baseUrl = url('/') %}
+{% content "error-page/404/404.htm" assetsPath=myAssets activeLocale=activeLocale videoAssets=videoAssets baseUrl=baseUrl %}";s:4:"code";N;s:5:"title";s:13:"404 Not Found";s:3:"url";s:4:"/404";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

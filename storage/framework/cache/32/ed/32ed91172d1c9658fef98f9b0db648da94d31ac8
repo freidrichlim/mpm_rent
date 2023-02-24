@@ -1,0 +1,19 @@
+1662721680a:1:{s:12:"services.htm";a:16:{s:8:"fileName";s:12:"services.htm";s:7:"content";s:765:"title = "Services"
+url = "/services"
+layout = "default"
+description = "A Services page"
+meta_title = "Our Services | MPM Rent"
+meta_description = "MPM Rent provides short and long term car rental services including maintenance, insurance, 24 hour assistance and car replacement."
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[viewBag]
+localeMeta_title[id] = "Layanan Sewa Rental Mobil Jangka Pendek / Panjang | MPM Rent"
+localeMeta_description[id] = "MPM Rent merupakan solusi bagi kebutuhan sewa rental mobil jangka pendek (harian / mingguan) maupun jangka panjang (bulanan / tahunan) yang menguntungkan!"
+
+[SeoPage]
+==
+{% set myAssets = 'assets/images/'|theme %}
+{% content "services/services.htm" assetsPath=myAssets activeLocale=activeLocale %}";s:5:"mtime";i:1661263961;s:6:"markup";s:128:"{% set myAssets = 'assets/images/'|theme %}
+{% content "services/services.htm" assetsPath=myAssets activeLocale=activeLocale %}";s:4:"code";N;s:5:"title";s:8:"Services";s:3:"url";s:9:"/services";s:6:"layout";s:7:"default";s:11:"description";s:15:"A Services page";s:10:"meta_title";s:23:"Our Services | MPM Rent";s:16:"meta_description";s:131:"MPM Rent provides short and long term car rental services including maintenance, insurance, 24 hour assistance and car replacement.";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"id";s:60:"Layanan Sewa Rental Mobil Jangka Pendek / Panjang | MPM Rent";}s:22:"localeMeta_description";a:1:{s:2:"id";s:154:"MPM Rent merupakan solusi bagi kebutuhan sewa rental mobil jangka pendek (harian / mingguan) maupun jangka panjang (bulanan / tahunan) yang menguntungkan!";}}s:7:"SeoPage";a:0:{}}}

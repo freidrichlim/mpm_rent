@@ -1,0 +1,34 @@
+1662721680a:1:{s:30:"site/footer/footer-contact.htm";a:6:{s:8:"fileName";s:30:"site/footer/footer-contact.htm";s:7:"content";s:459:"<div class="media my-2">
+    <img src="{assetsPath}/24-hours-footer.png" class="align-self-center">
+    <div class="media-body">
+        <span class="no-contact-footer"><a class='mail-white' href="tel:1500068">1500068</a></span>
+    </div>
+</div>
+<div class="media">
+    <img src="{assetsPath}/icn-email.png">
+    <div class="media-body">
+        <span><a class='mail-white' href="mailto:contact@mpm-rent.com">contact@mpm-rent.com</a></span>
+    </div>
+</div>";s:5:"mtime";i:1652084305;s:6:"markup";s:459:"<div class="media my-2">
+    <img src="{assetsPath}/24-hours-footer.png" class="align-self-center">
+    <div class="media-body">
+        <span class="no-contact-footer"><a class='mail-white' href="tel:1500068">1500068</a></span>
+    </div>
+</div>
+<div class="media">
+    <img src="{assetsPath}/icn-email.png">
+    <div class="media-body">
+        <span><a class='mail-white' href="mailto:contact@mpm-rent.com">contact@mpm-rent.com</a></span>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:459:"<div class="media my-2">
+    <img src="{assetsPath}/24-hours-footer.png" class="align-self-center">
+    <div class="media-body">
+        <span class="no-contact-footer"><a class='mail-white' href="tel:1500068">1500068</a></span>
+    </div>
+</div>
+<div class="media">
+    <img src="{assetsPath}/icn-email.png">
+    <div class="media-body">
+        <span><a class='mail-white' href="mailto:contact@mpm-rent.com">contact@mpm-rent.com</a></span>
+    </div>
+</div>";}}

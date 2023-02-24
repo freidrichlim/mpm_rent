@@ -1,0 +1,80 @@
+1662721680a:1:{s:9:"order.htm";a:14:{s:8:"fileName";s:9:"order.htm";s:7:"content";s:1483:"title = "Order"
+url = "/order"
+layout = "default"
+meta_title = "Rent Now | MPM Rent"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[viewBag]
+localeMeta_title[id] = "Sewa Sekarang | MPM Rent"
+
+[order_form]
+mail_to = "marketing@mpm-rent.com"
+mail_fullname = "Marketing"
+==
+<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2 class="news-banner">{{ 'order_title'|_ }}</h2>
+                </div>
+            </div>
+            <img src="{{ 'assets/images/mpm-rent-building-bluesky.webp'|theme }}">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="title-section text-left">
+                    <!-- <h2>Order Services Form</h2> -->
+                    <h1>{{ 'order_title'|_ }}</h1>
+                </div>
+                <div class="row">
+                    <div class="col-md-5">
+                        <!-- <p>Fill in the form to order.</p> -->
+                        <p>{{ 'order_description'|_ }}</p>
+                    </div>
+                    <div class="col-md-7">
+                        {% component 'order_form' %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1653017291;s:6:"markup";s:1197:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h2 class="news-banner">{{ 'order_title'|_ }}</h2>
+                </div>
+            </div>
+            <img src="{{ 'assets/images/mpm-rent-building-bluesky.webp'|theme }}">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="title-section text-left">
+                    <!-- <h2>Order Services Form</h2> -->
+                    <h1>{{ 'order_title'|_ }}</h1>
+                </div>
+                <div class="row">
+                    <div class="col-md-5">
+                        <!-- <p>Fill in the form to order.</p> -->
+                        <p>{{ 'order_description'|_ }}</p>
+                    </div>
+                    <div class="col-md-7">
+                        {% component 'order_form' %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:5:"Order";s:3:"url";s:6:"/order";s:6:"layout";s:7:"default";s:10:"meta_title";s:19:"Rent Now | MPM Rent";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"viewBag";a:1:{s:16:"localeMeta_title";a:1:{s:2:"id";s:24:"Sewa Sekarang | MPM Rent";}}s:10:"order_form";a:2:{s:7:"mail_to";s:22:"marketing@mpm-rent.com";s:13:"mail_fullname";s:9:"Marketing";}}}

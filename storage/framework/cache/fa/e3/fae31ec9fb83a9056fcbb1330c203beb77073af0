@@ -1,0 +1,14 @@
+1662721680a:1:{s:20:"thank-you-compro.htm";a:11:{s:8:"fileName";s:20:"thank-you-compro.htm";s:7:"content";s:392:"title = "Thank you"
+url = "/company-profile/thanks/:slug"
+layout = "default"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+==
+{% set myAssets = 'assets/images/'|theme %}
+{% set videoAssets = 'assets/videos/'|theme %}
+{% set baseUrl = url('/') %}
+{% content "thank-you/thank-you-compro.htm" assetsPath=myAssets activeLocale=activeLocale videoAssets=videoAssets baseUrl=baseUrl %}";s:5:"mtime";i:1650424116;s:6:"markup";s:252:"{% set myAssets = 'assets/images/'|theme %}
+{% set videoAssets = 'assets/videos/'|theme %}
+{% set baseUrl = url('/') %}
+{% content "thank-you/thank-you-compro.htm" assetsPath=myAssets activeLocale=activeLocale videoAssets=videoAssets baseUrl=baseUrl %}";s:4:"code";N;s:5:"title";s:9:"Thank you";s:3:"url";s:29:"/company-profile/thanks/:slug";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";}}

@@ -1,0 +1,9 @@
+1662721680a:1:{s:10:"rating.htm";a:11:{s:8:"fileName";s:10:"rating.htm";s:7:"content";s:126:"title = "Rating"
+url = "/rating"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[rating]
+rate = "{{ :rate }}"
+==";s:5:"mtime";i:1650424116;s:6:"markup";s:0:"";s:4:"code";N;s:5:"title";s:6:"Rating";s:3:"url";s:7:"/rating";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:6:"rating";a:1:{s:4:"rate";s:11:"{{ :rate }}";}}}

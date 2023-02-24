@@ -1,0 +1,159 @@
+1662721680a:1:{s:11:"contact.htm";a:17:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:4012:"title = "Contact"
+url = "/contact"
+layout = "default"
+description = "A contact"
+meta_title = "Contact Us | MPM Rent"
+meta_description = "Need help? Do you have suggestions or conduct business cooperation with MPM Rent? please contact us here."
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[contact_us]
+mail_to = "rizal@deptechdigital.com"
+mail_fullname = "Marketing"
+
+[SeoPage]
+
+[viewBag]
+localeMeta_title[id] = "Hubungi Kami | MPM Rent"
+localeMeta_description[id] = "Butuh bantuan? Ada kritik dan saran atau kerjasama bisnis dengan MPM Rent? Silakan hubungi kami disini."
+==
+<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h3 class="sub-title-banner">{{ 'we.want.to.be.part.of.your.business'|_ }} </h3>
+                    <h1 class="news-banner text-left">{{ 'contact.us'|_ }}.</h1>
+                </div>
+            </div>
+            <img src="{{ 'assets/images/contact us banner.png'|theme }}">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="title-section text-left">
+                    <h2>{{ 'our.head.office'|_ }}</h2>
+                </div>
+            </div>
+            <div class="col-md-12 mb-5">
+                <div class="media media-flex-contact">
+                    <div class="media-body">
+                        <p><b>PT Mitra Pinasthika Mustika Rent</b></p>
+                        <p>Sunburst CBD Lot II No. 10, 
+                        <br>Jl. Kapten Soebijanto Djojohadikusumo, 
+                        <br>BSD City Tangerang 15322, Indonesia</p>
+                        <p>Telp : +62 21 5315 7668</p>
+                        <p>Fax : +62 21 5315 7669</p>
+                        <p>Japanese Client：+62 21 5316 0077</p>
+                        <a href="https://www.google.com/maps/place/Perusahaan+Rental+Mobil+Terkemuka+di+Indonesia+%7C+MPM+Rent/@-6.2964947,106.6652523,19.65z/data=!4m5!3m4!1s0x2e69fb2fdbd4eb17:0xba7a0794199c9aa0!8m2!3d-6.2964809!4d106.665334" class="btn btn-white-outline mt-4">{{ 'FIND US'|_ }}</a>
+                    </div>
+                    <div class="media-right">
+                        <iframe class="maps-contact" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.7509067423803!2d106.66314131463244!3d-6.296429363377359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fb2fdbd4eb17%3A0xba7a0794199c9aa0!2sMPM%20Rent%20(Head%20Office)!5e0!3m2!1sid!2sid!4v1592197046971!5m2!1sid!2sid" width="700" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12 mb-5">
+                <div class="title-section text-left">
+                    <h2>{{ "Let's Talk"|_ }}</h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-5">
+                        <p>{{ 'contact.us.directly.or.fill.out.the.form,.and.we.will.get.back.to.you.promptly'|_ }}.</p>
+                    </div>
+                    <div class="col-md-7">
+                        {% component 'contact_us' %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="banner-contact">
+                    <div class="banner">
+                        <div>
+                            <span>{{ '24.hours.contact.center.agent'|_ }}</span>
+                            <span>{{ 'will.support.you.for.any.inquiries'|_ }}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1655288569;s:6:"markup";s:3420:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h3 class="sub-title-banner">{{ 'we.want.to.be.part.of.your.business'|_ }} </h3>
+                    <h1 class="news-banner text-left">{{ 'contact.us'|_ }}.</h1>
+                </div>
+            </div>
+            <img src="{{ 'assets/images/contact us banner.png'|theme }}">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="title-section text-left">
+                    <h2>{{ 'our.head.office'|_ }}</h2>
+                </div>
+            </div>
+            <div class="col-md-12 mb-5">
+                <div class="media media-flex-contact">
+                    <div class="media-body">
+                        <p><b>PT Mitra Pinasthika Mustika Rent</b></p>
+                        <p>Sunburst CBD Lot II No. 10, 
+                        <br>Jl. Kapten Soebijanto Djojohadikusumo, 
+                        <br>BSD City Tangerang 15322, Indonesia</p>
+                        <p>Telp : +62 21 5315 7668</p>
+                        <p>Fax : +62 21 5315 7669</p>
+                        <p>Japanese Client：+62 21 5316 0077</p>
+                        <a href="https://www.google.com/maps/place/Perusahaan+Rental+Mobil+Terkemuka+di+Indonesia+%7C+MPM+Rent/@-6.2964947,106.6652523,19.65z/data=!4m5!3m4!1s0x2e69fb2fdbd4eb17:0xba7a0794199c9aa0!8m2!3d-6.2964809!4d106.665334" class="btn btn-white-outline mt-4">{{ 'FIND US'|_ }}</a>
+                    </div>
+                    <div class="media-right">
+                        <iframe class="maps-contact" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.7509067423803!2d106.66314131463244!3d-6.296429363377359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fb2fdbd4eb17%3A0xba7a0794199c9aa0!2sMPM%20Rent%20(Head%20Office)!5e0!3m2!1sid!2sid!4v1592197046971!5m2!1sid!2sid" width="700" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12 mb-5">
+                <div class="title-section text-left">
+                    <h2>{{ "Let's Talk"|_ }}</h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-5">
+                        <p>{{ 'contact.us.directly.or.fill.out.the.form,.and.we.will.get.back.to.you.promptly'|_ }}.</p>
+                    </div>
+                    <div class="col-md-7">
+                        {% component 'contact_us' %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid cf-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="banner-contact">
+                    <div class="banner">
+                        <div>
+                            <span>{{ '24.hours.contact.center.agent'|_ }}</span>
+                            <span>{{ 'will.support.you.for.any.inquiries'|_ }}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:7:"Contact";s:3:"url";s:8:"/contact";s:6:"layout";s:7:"default";s:11:"description";s:9:"A contact";s:10:"meta_title";s:21:"Contact Us | MPM Rent";s:16:"meta_description";s:105:"Need help? Do you have suggestions or conduct business cooperation with MPM Rent? please contact us here.";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:10:"contact_us";a:2:{s:7:"mail_to";s:24:"rizal@deptechdigital.com";s:13:"mail_fullname";s:9:"Marketing";}s:7:"SeoPage";a:0:{}s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"id";s:23:"Hubungi Kami | MPM Rent";}s:22:"localeMeta_description";a:1:{s:2:"id";s:103:"Butuh bantuan? Ada kritik dan saran atau kerjasama bisnis dengan MPM Rent? Silakan hubungi kami disini.";}}}}

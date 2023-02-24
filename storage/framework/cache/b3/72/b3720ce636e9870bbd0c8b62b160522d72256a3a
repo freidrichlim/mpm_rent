@@ -1,0 +1,619 @@
+1662716359a:1:{s:11:"faq/faq.htm";a:6:{s:8:"fileName";s:11:"faq/faq.htm";s:7:"content";s:13502:"<div class="container-fluid page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ (Frequently Asked Questions)</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="text-content">
+                    <div class="accordion" id="accordionFAQ">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What is MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>PT Mitra Pinasthika Mustika Rent (MPMRent) is a subsidiary company under PT Mitra Pinasthika Mustika Tbk (part of PT Saratoga Investama Sedaya) and as one of the largest rental service companies in Indonesia.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Where is the MPMRent headquarters?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Our head office is located at<br>
+                                    Sunburst CBD Lot II No. 10. Jl. Captain Soebijanto Djojohadikusumo<br>
+                                    BSD City, Tangerang 15322, Indonesia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Where is the MPMRent branch office?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Jakarta 1
+                                        Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                        BSD City, Tangerang 15322, Indonesia<br><br>
+
+                                        Jakarta 2<br>
+                                        Jabar<br>
+                                        Jateng<br>
+                                        Jatim Banus<br>
+                                        Outer Island (Kalimantan, Sulawesi, Maluku, and Papua)<br>
+                                        Sumbagut<br>
+                                        Sumbagsel
+                                    </p><br>
+                                    <p><a href="our-networks">Click here</a> to know our locations</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    What services are available at MPMRent? 
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p><a href="services">Click here</a> to view MPMRent services.</p>
+                                    <p>(Vehicle Rental Services, Driver Services, Fleet Management System, Auction & Pre-owned car)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    Vehicle Rental Services
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Long term rental service (monthly to yearly) to facilitate your company’s transportation needs. Various types of vehicles are available, ranging from commercial vehicle passenger vehicles, to 4WD vehicles of various brands.<br><br>
+
+                                        We serve the needs of diverse companies with diverse industry backgrounds. Vehicle rental services are available for customers to enjoy including vehicle maintenance services, insurance claims, 24 hours assistance, car replacement and other administration.<br><br>
+
+                                        Short term rental service to meet flexible transportation needs. With a variety of services including daily rent, airport pick-up / drop-off, importantly is your need for convenient, safe and reliable transportation will always fulfilled.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSeven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    Where can I get the price list information?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>You can reach our Contact Center:<br>
+                                        Call        : 1500068 or,<br>
+                                        WhatsApp    : 08138-1500058 or, <br> 
+                                        Email       : contact@mpm-rent.com<br>
+                                        To get more information about the prices.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEight">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    Is there a minimum number of vehicles leased? 
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>There is no minimum amount for rented vehicles.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingNine">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    What types of vehicles do MPMRent provide?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent provides all types of vehicles including commercial vehicles.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTen">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    Driver Services
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent provides professional driver service that equipped with excellent driving training, area knowledge, service ethics and positive attitude to serve our customers. (taken from MPMRent calendar 2020)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEleven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#headingEleven" aria-expanded="false" aria-controls="headingEleven">
+                                    Customized Transportation Management 
+
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="headingEleven" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Fleet management system<br>
+                                        MPMRent offers the solutions to our customer to manage and monitor fleet effectiveness to be more efficient.
+
+                                        Category of Fleet Management System:<br>
+                                        Car Pooling System<br>
+                                        Telematics
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1652082637;s:6:"markup";s:13502:"<div class="container-fluid page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ (Frequently Asked Questions)</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="text-content">
+                    <div class="accordion" id="accordionFAQ">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What is MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>PT Mitra Pinasthika Mustika Rent (MPMRent) is a subsidiary company under PT Mitra Pinasthika Mustika Tbk (part of PT Saratoga Investama Sedaya) and as one of the largest rental service companies in Indonesia.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Where is the MPMRent headquarters?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Our head office is located at<br>
+                                    Sunburst CBD Lot II No. 10. Jl. Captain Soebijanto Djojohadikusumo<br>
+                                    BSD City, Tangerang 15322, Indonesia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Where is the MPMRent branch office?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Jakarta 1
+                                        Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                        BSD City, Tangerang 15322, Indonesia<br><br>
+
+                                        Jakarta 2<br>
+                                        Jabar<br>
+                                        Jateng<br>
+                                        Jatim Banus<br>
+                                        Outer Island (Kalimantan, Sulawesi, Maluku, and Papua)<br>
+                                        Sumbagut<br>
+                                        Sumbagsel
+                                    </p><br>
+                                    <p><a href="our-networks">Click here</a> to know our locations</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    What services are available at MPMRent? 
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p><a href="services">Click here</a> to view MPMRent services.</p>
+                                    <p>(Vehicle Rental Services, Driver Services, Fleet Management System, Auction & Pre-owned car)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    Vehicle Rental Services
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Long term rental service (monthly to yearly) to facilitate your company’s transportation needs. Various types of vehicles are available, ranging from commercial vehicle passenger vehicles, to 4WD vehicles of various brands.<br><br>
+
+                                        We serve the needs of diverse companies with diverse industry backgrounds. Vehicle rental services are available for customers to enjoy including vehicle maintenance services, insurance claims, 24 hours assistance, car replacement and other administration.<br><br>
+
+                                        Short term rental service to meet flexible transportation needs. With a variety of services including daily rent, airport pick-up / drop-off, importantly is your need for convenient, safe and reliable transportation will always fulfilled.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSeven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    Where can I get the price list information?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>You can reach our Contact Center:<br>
+                                        Call        : 1500068 or,<br>
+                                        WhatsApp    : 08138-1500058 or, <br> 
+                                        Email       : contact@mpm-rent.com<br>
+                                        To get more information about the prices.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEight">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    Is there a minimum number of vehicles leased? 
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>There is no minimum amount for rented vehicles.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingNine">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    What types of vehicles do MPMRent provide?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent provides all types of vehicles including commercial vehicles.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTen">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    Driver Services
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent provides professional driver service that equipped with excellent driving training, area knowledge, service ethics and positive attitude to serve our customers. (taken from MPMRent calendar 2020)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEleven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#headingEleven" aria-expanded="false" aria-controls="headingEleven">
+                                    Customized Transportation Management 
+
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="headingEleven" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Fleet management system<br>
+                                        MPMRent offers the solutions to our customer to manage and monitor fleet effectiveness to be more efficient.
+
+                                        Category of Fleet Management System:<br>
+                                        Car Pooling System<br>
+                                        Telematics
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:13502:"<div class="container-fluid page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>FAQ (Frequently Asked Questions)</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <div class="text-content">
+                    <div class="accordion" id="accordionFAQ">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What is MPMRent?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>PT Mitra Pinasthika Mustika Rent (MPMRent) is a subsidiary company under PT Mitra Pinasthika Mustika Tbk (part of PT Saratoga Investama Sedaya) and as one of the largest rental service companies in Indonesia.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Where is the MPMRent headquarters?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Our head office is located at<br>
+                                    Sunburst CBD Lot II No. 10. Jl. Captain Soebijanto Djojohadikusumo<br>
+                                    BSD City, Tangerang 15322, Indonesia</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Where is the MPMRent branch office?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>Jakarta 1
+                                        Sunburst CBD Lot II No. 10. Jl. Kapten Soebijanto Djojohadikusumo<br>
+                                        BSD City, Tangerang 15322, Indonesia<br><br>
+
+                                        Jakarta 2<br>
+                                        Jabar<br>
+                                        Jateng<br>
+                                        Jatim Banus<br>
+                                        Outer Island (Kalimantan, Sulawesi, Maluku, and Papua)<br>
+                                        Sumbagut<br>
+                                        Sumbagsel
+                                    </p><br>
+                                    <p><a href="our-networks">Click here</a> to know our locations</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingFive">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    What services are available at MPMRent? 
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p><a href="services">Click here</a> to view MPMRent services.</p>
+                                    <p>(Vehicle Rental Services, Driver Services, Fleet Management System, Auction & Pre-owned car)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    Vehicle Rental Services
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Long term rental service (monthly to yearly) to facilitate your company’s transportation needs. Various types of vehicles are available, ranging from commercial vehicle passenger vehicles, to 4WD vehicles of various brands.<br><br>
+
+                                        We serve the needs of diverse companies with diverse industry backgrounds. Vehicle rental services are available for customers to enjoy including vehicle maintenance services, insurance claims, 24 hours assistance, car replacement and other administration.<br><br>
+
+                                        Short term rental service to meet flexible transportation needs. With a variety of services including daily rent, airport pick-up / drop-off, importantly is your need for convenient, safe and reliable transportation will always fulfilled.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingSeven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    Where can I get the price list information?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>You can reach our Contact Center:<br>
+                                        Call        : 1500068 or,<br>
+                                        WhatsApp    : 08138-1500058 or, <br> 
+                                        Email       : contact@mpm-rent.com<br>
+                                        To get more information about the prices.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEight">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                                    Is there a minimum number of vehicles leased? 
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>There is no minimum amount for rented vehicles.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingNine">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                                    What types of vehicles do MPMRent provide?
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent provides all types of vehicles including commercial vehicles.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTen">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                                    Driver Services
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>MPMRent provides professional driver service that equipped with excellent driving training, area knowledge, service ethics and positive attitude to serve our customers. (taken from MPMRent calendar 2020)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingEleven">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#headingEleven" aria-expanded="false" aria-controls="headingEleven">
+                                    Customized Transportation Management 
+
+                                    <span class="fa fa-angle-up"></span>
+                                    </button>
+                                </h2>
+                            </div>
+                            <div id="headingEleven" class="collapse" aria-labelledby="headingTen" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                    <p>
+                                        Fleet management system<br>
+                                        MPMRent offers the solutions to our customer to manage and monitor fleet effectiveness to be more efficient.
+
+                                        Category of Fleet Management System:<br>
+                                        Car Pooling System<br>
+                                        Telematics
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";}}

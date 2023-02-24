@@ -1,0 +1,1 @@
+1664619404a:1:{s:6:"fields";a:2:{s:4:"name";a:4:{s:5:"label";s:12:"Job Position";s:4:"span";s:4:"auto";s:8:"required";i:1;s:4:"type";s:4:"text";}s:22:"ref_job_departement_id";a:5:{s:5:"label";s:11:"Departement";s:10:"showSearch";b:1;s:4:"span";s:4:"auto";s:8:"required";i:1;s:4:"type";s:8:"dropdown";}}}

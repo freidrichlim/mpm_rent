@@ -1,0 +1,65 @@
+1662721680a:1:{s:8:"news.htm";a:17:{s:8:"fileName";s:8:"news.htm";s:7:"content";s:1380:"title = "News"
+url = "/news/:page?"
+layout = "default"
+description = "News page"
+meta_title = "Latest News - Car Rental and Business"
+meta_description = "Get the latest news updates about car rental and business only at MPM Rent"
+is_hidden = 0
+robot_index = "index"
+robot_follow = "follow"
+
+[viewBag]
+localeMeta_title[id] = "Berita Terbaru - Rental / Sewa Mobil dan Bisnis"
+localeMeta_description[id] = "Dapatkan update berita terbaru dan menarik seputar rental / sewa mobil hingga bisnis hanya di MPM Rent"
+
+[news]
+pageNumber = "{{ :page }}"
+postsPerPage = 3
+sortOrder = "event_date desc"
+postPage = "news-detail"
+
+[SeoPage]
+==
+<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h3 class="sub-title-banner">{{ 'news_page_subtitle'|_ }} </h3>
+                    <h1 class="news-banner text-left">{{ 'news_page_title'|_ }}</h1>
+                </div>
+            </div>
+            <img src="{{ 'assets/images/MPM-IMG-Header-Service-03@2x.png'|theme }}">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5">
+				{% component 'news' %}
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1653017250;s:6:"markup";s:751:"<div class="f-carousel">
+    <div class="owl-carousel owl-theme" id="owl-pages">
+        <div class="item">
+            <div class="desc-carousel">
+                <div class="container">
+                    <h3 class="sub-title-banner">{{ 'news_page_subtitle'|_ }} </h3>
+                    <h1 class="news-banner text-left">{{ 'news_page_title'|_ }}</h1>
+                </div>
+            </div>
+            <img src="{{ 'assets/images/MPM-IMG-Header-Service-03@2x.png'|theme }}">
+        </div>
+    </div>
+</div>
+<div class="container-fluid pt-5 pb-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 pb-5">
+				{% component 'news' %}
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:4:"News";s:3:"url";s:12:"/news/:page?";s:6:"layout";s:7:"default";s:11:"description";s:9:"News page";s:10:"meta_title";s:37:"Latest News - Car Rental and Business";s:16:"meta_description";s:74:"Get the latest news updates about car rental and business only at MPM Rent";s:9:"is_hidden";s:1:"0";s:11:"robot_index";s:5:"index";s:12:"robot_follow";s:6:"follow";s:7:"viewBag";a:2:{s:16:"localeMeta_title";a:1:{s:2:"id";s:47:"Berita Terbaru - Rental / Sewa Mobil dan Bisnis";}s:22:"localeMeta_description";a:1:{s:2:"id";s:102:"Dapatkan update berita terbaru dan menarik seputar rental / sewa mobil hingga bisnis hanya di MPM Rent";}}s:4:"news";a:4:{s:10:"pageNumber";s:11:"{{ :page }}";s:12:"postsPerPage";s:1:"3";s:9:"sortOrder";s:15:"event_date desc";s:8:"postPage";s:11:"news-detail";}s:7:"SeoPage";a:0:{}}}
